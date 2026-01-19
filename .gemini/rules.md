@@ -1,4 +1,14 @@
-# Workplace Rules for Gemini
+## Frappe Framework Context
+
+This LMS is built on the **Frappe Framework**. Use the following Context7 library IDs for documentation:
+
+- `/websites/frappe_io-framework-user-en` - Framework User Manual
+- `/websites/frappe_io-framework` - Official Documentation
+- `/websites/frappe_io_framework` - Technical Documentation
+- `/frappe/frappe` - Frappe Core Repository & Docs
+- `/websites/frappe_io` - General Frappe Apps Documentation
+
+Official website: [frappeframework.com/docs](https://frappeframework.com/docs/)
 
 ## Documentation Priority
 

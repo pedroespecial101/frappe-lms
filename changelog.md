@@ -2,6 +2,13 @@
 
 ## 2026-01-19
 
+### Documentation: Frappe Framework Rules & Documentation
+- Added Frappe Framework context and documentation links to `.gemini/rules.md`
+- Included Context7 library IDs for instant documentation access
+- Verified framework version range: `frappe >= 15.0.0`
+
+## 2026-01-19
+
 ### Bugfix: Video Playback with Directory Symlinks
 - Discovered Frappe `StaticDataMiddleware` bug: directory-level symlinks for `public/files` cause 500/404 errors
 - Root cause: Middleware checks `is_relative_to()` against unresolved symlink path after resolving file path

@@ -775,7 +775,7 @@ def get_courses(filters=None, start=0):
 		filters=filters,
 		fields=fields,
 		or_filters=or_filters,
-		order_by="enrollments desc",
+		order_by="creation desc",
 		start=start,
 		page_length=30,
 	)
@@ -868,7 +868,7 @@ def get_featured_courses(filters, or_filters, fields):
 		filters=filters,
 		fields=fields,
 		or_filters=or_filters,
-		order_by="enrollments desc",
+		order_by="creation desc",
 	)
 	return featured_courses
 

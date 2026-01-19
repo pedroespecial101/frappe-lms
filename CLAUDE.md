@@ -2,7 +2,20 @@
 
 ## Project Overview
 
-This is a customized Frappe LMS (Learning Management System) project with additional course import functionality for video-based courses.
+This is a customized Frappe LMS (Learning Management System) project built on the **Frappe Framework**. It includes additional course import functionality for video-based courses.
+
+## Frappe Framework Documentation
+
+This project is built using the Frappe Framework (`frappe >= 15.0.0`). AI agents should use the following Context7 library IDs to access official documentation:
+
+- `/websites/frappe_io-framework-user-en` - Framework User Manual
+- `/websites/frappe_io-framework` - Official Documentation
+- `/websites/frappe_io_framework` - Technical Documentation
+- `/frappe/frappe` - Frappe Core Repository & Docs
+- `/websites/frappe_io` - General Frappe Apps Documentation
+
+Official website for documentation: [frappeframework.com/docs](https://frappeframework.com/docs/)
+
 
 ## Important Documentation
 

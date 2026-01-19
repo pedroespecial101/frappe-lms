@@ -286,6 +286,14 @@ For this project:
 ```bash
 cd /path/to/lms-bench
 bench --site lms.localhost execute lms.scripts.import_gcse_course.run_import
+
+### Alternative: Import Modules as Separate Courses
+
+To import each module from the JSON as a distinct LMS Course:
+
+```bash
+bench --site lms.localhost execute lms.scripts.import_modules_as_courses.run_import
+```
 ```
 
 ### After Import
