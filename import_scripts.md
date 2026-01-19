@@ -120,7 +120,7 @@ Main entry point that orchestrates the import:
 5. Creates lessons for each video
 6. Publishes the course
 
-#### `create_course()`
+#### `create_course(title)`
 Creates the main LMS Course document with:
 - Title and descriptions
 - Administrator as default instructor
@@ -134,10 +134,18 @@ Creates a Course Chapter from module data:
 
 #### `create_lesson(course, chapter, video_data, idx)`
 Creates a Course Lesson from video data:
-- Uses `video_direct_url` for video embedding (Wistia CDN URLs)
-- Falls back to local path if no direct URL
-- Creates both `body` (markdown macro) and `content` (EditorJS JSON)
-- Creates Lesson Reference for ordering
+- **Prioritizes local file paths** from the JSON data.
+- Automatically transforms `mathmo_assets/` paths to `/files/`.
+- Calls `ensure_file_record` to guarantee the file exists in the database.
+- Falls back to `video_direct_url` (Wistia) if no local file is found.
+- Creates both `body` (markdown macro) and `content` (EditorJS JSON).
+- Creates Lesson Reference for ordering.
+
+#### `ensure_file_record(filename, file_url)`
+**Critical Helper Function**: 
+- Checks if a `File` document exists for the given path.
+- If missing, **inserts a new record using raw SQL**.
+- **Reason**: Using `frappe.new_doc("File")` triggers validation hooks that check for physical file existence (which is fine) but also enforces **Max File Size** limits (default 25MB). Since our video assets are already on disk and likely >25MB, standard ORM insertion fails. Bypassing validation with SQL allows us to register these existing assets safely.
 
 #### `delete_course(course_name)`
 Removes existing course and all related documents:
@@ -184,8 +192,8 @@ Removes existing course and all related documents:
 | `videos` | array | List of video lessons |
 | `videos[].title` | string | Lesson title |
 | `videos[].subtitle` | string | Additional description |
-| `videos[].video_direct_url` | string | Direct MP4 URL (preferred) |
-| `videos[].local_path` | string | Path to local video file |
+| `videos[].video_direct_url` | string | Direct MP4 URL (fallback) |
+| `videos[].local_path` | string | **Primary video source**. Path to local file. |
 | `videos[].video_number` | int | Order within module |
 | `videos[].quality` | string | Video quality indicator |
 
@@ -206,79 +214,55 @@ Removes existing course and all related documents:
 | Source JSON | Target DocType | Target Field |
 |-------------|---------------|--------------|
 | `title` | Course Lesson | `title` |
-| `video_direct_url` | Course Lesson | `body` (via Video macro) |
-| `video_direct_url` | Course Lesson | `content` (EditorJS format) |
+| `local_path` | File | `file_url` (transformed to /files/...) |
+| `local_path` | Course Lesson | `body` (via Video macro) |
+| `local_path` | Course Lesson | `content` (EditorJS format) |
 | `video_number` | Lesson Reference | `idx` (ordering) |
 | (parent chapter) | Course Lesson | `chapter` |
 
 ---
 
+## Handling Large Local Files
+
+When importing large video assets that are already present on the server filesystem (e.g., via symlink), standard Frappe file creation methods might fail.
+
+### The Problem
+`frappe.new_doc("File").insert()` triggers the `before_insert` hook, which calls `check_max_file_size()`. If your local videos exceed the system limit (default 25MB), the import will crash with `MaxFileSizeReachedError`, even though you aren't actually uploading a new file.
+
+### The Solution
+Use **direct SQL insertion** to create the `File` metadata record. This skips the Python-level hooks and validation layer.
+
+```python
+frappe.db.sql("""
+    INSERT INTO `tabFile` 
+    (name, creation, modified, modified_by, owner, docstatus, idx,
+     file_name, file_url, is_private, is_home_folder, is_attachments_folder, 
+     file_size, folder)
+    VALUES 
+    (%s, NOW(), NOW(), 'Administrator', 'Administrator', 0, 0,
+     %s, %s, 0, 0, 0, 
+     0, 'Home')
+""", (frappe.generate_hash(), filename, file_url))
+frappe.db.commit()
+```
+*Note: We set `file_size` to 0 to avoid errors; this doesn't affect playback.*
+
+---
+
 ## Video Embedding Options
 
-Frappe LMS supports multiple methods for embedding video content:
+### 1. Local Files (Preferred)
+Files served from `sites/[site]/public/files/` (via symlink or direct copy).
+- **URL**: `/files/video.mp4`
+- **Requires**: A corresponding record in the `tabFile` table.
 
-### 1. YouTube Field
-The `youtube` field on Course Lesson accepts YouTube URLs:
-```
-https://www.youtube.com/watch?v=VIDEO_ID
-```
+### 2. Direct CDN URLs
+External links (e.g., Wistia, S3).
+- **URL**: `https://embed-ssl.wistia.com/...`
+- **Requires**: No `tabFile` record needed.
 
-### 2. Markdown Macros (Body Field)
-The `body` field supports markdown with special macros:
-
-```markdown
-{{ YouTubeVideo("VIDEO_ID") }}
-{{ Video("/path/to/video.mp4") }}
-{{ Audio("/path/to/audio.mp3") }}
-{{ PDF("/path/to/document.pdf") }}
-{{ Quiz("quiz-name") }}
-```
-
-Macro renderers are defined in `lms/hooks.py`:
-```python
-lms_markdown_macro_renderers = {
-    "YouTubeVideo": "lms.plugins.youtube_video_renderer",
-    "Video": "lms.plugins.video_renderer",
-    "Audio": "lms.plugins.audio_renderer",
-    "PDF": "lms.plugins.pdf_renderer",
-    "Quiz": "lms.plugins.quiz_renderer",
-}
-```
-
-### 3. EditorJS Content (Content Field)
-The newer `content` field uses EditorJS JSON format:
-
-```json
-{
-  "time": 1705676400000,
-  "blocks": [
-    {
-      "type": "upload",
-      "data": {
-        "file_url": "https://example.com/video.mp4",
-        "file_type": "mp4"
-      }
-    }
-  ],
-  "version": "2.28.2"
-}
-```
-
-### Video URL Options
-
-1. **Direct CDN URLs** (Recommended for external content):
-   ```
-   https://embed-ssl.wistia.com/deliveries/xxx.mp4
-   ```
-
-2. **Local Files** (Requires file serving setup):
-   ```
-   /files/video.mp4
-   ```
-   Files must be in: `sites/[site-name]/public/files/`
-
-3. **Frappe File Documents**:
-   Upload via Frappe's file upload and use the returned URL.
+### 3. YouTube Field
+Standard YouTube embedding via the `youtube` field on `Course Lesson`.
 
 ---
 
@@ -289,6 +273,7 @@ The newer `content` field uses EditorJS JSON format:
 1. Frappe Bench installed and running
 2. LMS app installed on the site
 3. Source JSON file in place
+4. **Symlink established**: `lms-bench/sites/[site]/public/files` -> `mathmo_assets`
 
 ### Command
 
@@ -315,43 +300,46 @@ bench --site lms.localhost execute lms.scripts.import_gcse_course.run_import
 
 ### Common Issues
 
+#### "MaxFileSizeReachedError"
+**Symptom**: Import crashes when creating lessons for large videos.
+**Solution**: See "Handling Large Local Files" above. Use raw SQL to insert File records.
+**Alternative**: Increase system file size limit in "System Settings", but SQL bypass is faster/safer for bulk imports.
+
 #### Videos Not Playing
-
-**Symptom**: Video player shows but video doesn't load
-
+**Symptom**: Video player shows but video doesn't load.
 **Solutions**:
-1. Use direct CDN URLs (`video_direct_url`) instead of local paths
-2. For local files, ensure they're in `sites/[site]/public/files/`
-3. Check browser console for 404 errors
-4. Verify CORS headers if using external URLs
+1. Check `tabFile` exists: `SELECT * FROM tabFile WHERE file_name = 'video.mp4'`
+2. Verify files exist in `public/files/` directory.
+3. Check browser console for 404 errors on the `/files/...` URL.
 
-#### Import Fails with "instructors" Error
-
-**Symptom**: `MandatoryError: instructors`
-
-**Solution**: The `instructors` field is required. Add at least one:
+#### ⚠️ Symlink Directory Bug (Frappe Middleware Issue)
+**Symptom**: Videos return 500/404 errors even though the symlink and files exist.
+**Root Cause**: Frappe's `StaticDataMiddleware` (in `apps/frappe/frappe/middlewares.py`) has a bug when the entire `public/files` directory is a symlink:
 ```python
-course.append("instructors", {"instructor": "Administrator"})
+# In middlewares.py line 24:
+if not path.is_relative_to(files_path) or not path.is_file():
+    raise NotFound
 ```
+When `files_path` is a symlink (e.g., `/path/public/files -> /external/videos`), the middleware:
+1. Resolves the full file path to the **actual location** (e.g., `/external/videos/video.mp4`)
+2. But checks against the **unresolved** `files_path` symlink
+3. Since `/external/videos/video.mp4` is NOT relative to `/path/public/files`, it fails
 
-#### Module Not Found
+**Solution**: Do NOT use a directory-level symlink for `public/files`. Instead:
+- **Option A (Recommended)**: Copy video files directly into `public/files/`
+- **Option B**: Create a real `public/files/` directory with individual symlinks per file:
+  ```bash
+  mkdir public/files
+  for file in /external/videos/*.mp4; do
+      ln -s "$file" "public/files/$(basename "$file")"
+  done
+  ```
 
-**Symptom**: `ModuleNotFoundError: No module named 'lms.scripts'`
+**Note**: This is a Frappe core bug, not an LMS issue. It affects any site using directory symlinks for static files.
 
-**Solution**: Ensure `__init__.py` exists in `lms/scripts/` and script is in the bench's apps directory (not just the development directory).
-
-### File Locations
-
-```
-Development Directory (your code):
-/Users/.../frappe-lms/lms/scripts/import_gcse_course.py
-
-Bench Apps Directory (where Frappe looks):
-/Users/.../lms-bench/apps/lms/lms/scripts/import_gcse_course.py
-
-Copy script after changes:
-cp lms/scripts/*.py ../lms-bench/apps/lms/lms/scripts/
-```
+#### Unknown Column in SQL
+**Symptom**: `OperationalError: (1054, "Unknown column 'is_home_page' ...")`
+**Solution**: The column reference for the "Home" folder flag is `is_home_folder`, not `is_home_page`. Check your DB schema with `DESCRIBE tabFile`.
 
 ---
 

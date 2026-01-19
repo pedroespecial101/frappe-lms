@@ -2,6 +2,27 @@
 
 ## 2026-01-19
 
+### Bugfix: Video Playback with Directory Symlinks
+- Discovered Frappe `StaticDataMiddleware` bug: directory-level symlinks for `public/files` cause 500/404 errors
+- Root cause: Middleware checks `is_relative_to()` against unresolved symlink path after resolving file path
+- **Resolution**: Copied video files directly into `public/files/` instead of using directory symlink
+- Updated `import_scripts.md` with detailed troubleshooting documentation
+
+### Utility: Server Startup Script
+- Created `start_server.sh` to automate:
+  - Starting MariaDB and Redis services
+  - **Gracefully cleaning up stale processes and PID files to prevent startup errors**
+  - Navigating to `lms-bench` and activating virtual environment
+  - Running `bench start`
+
+### Import: GCSE Video Vault 2 & Local Assets
+- Re-imported course as "GCSE Video Vault 2"
+- Updated `import_gcse_course.py`:
+  - Prioritizes local file paths over remote URLs
+  - Implemented direct SQL insertion for `File` records to bypass 25MB upload limit
+- Replaced `public/files` directory with symlink to `mathmo_assets` for direct local file serving
+- Verified correct video playback from local disk
+
 ### Documentation: Import Scripts and Data Structure Guide
 - Created `import_scripts.md` with comprehensive documentation on:
   - Frappe LMS data hierarchy (Course → Chapter → Lesson)

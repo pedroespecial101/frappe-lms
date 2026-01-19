@@ -2,9 +2,10 @@
 Import script to load GCSE Video Vault course data into Frappe LMS.
 
 This script reads the combined_modules_withLocalURL.json file and creates:
-- One LMS Course
+- One LMS Course (GCSE Video Vault 2)
 - Course Chapters for each module
 - Course Lessons for each video
+- File documents for local assets
 
 Run with: bench --site [sitename] execute lms.scripts.import_gcse_course.run_import
 """
@@ -12,6 +13,7 @@ Run with: bench --site [sitename] execute lms.scripts.import_gcse_course.run_imp
 import json
 import frappe
 from frappe import _
+import os
 
 
 def run_import():
@@ -27,15 +29,17 @@ def run_import():
     
     print(f"Found {len(modules)} modules to import")
     
+    COURSE_TITLE = "GCSE Video Vault 2"
+
     # Check if course already exists
-    existing_course = frappe.db.exists("LMS Course", {"title": "GCSE Video Vault"})
+    existing_course = frappe.db.exists("LMS Course", {"title": COURSE_TITLE})
     if existing_course:
-        print(f"Course 'GCSE Video Vault' already exists: {existing_course}")
+        print(f"Course '{COURSE_TITLE}' already exists: {existing_course}")
         print("Deleting existing course to re-import...")
         delete_course(existing_course)
     
     # Create the main course
-    course = create_course()
+    course = create_course(COURSE_TITLE)
     print(f"Created course: {course.name}")
     
     # Sort modules by module_number
@@ -94,11 +98,11 @@ def delete_course(course_name):
     print(f"Deleted existing course: {course_name}")
 
 
-def create_course():
+def create_course(title):
     """Create the main LMS Course document."""
     
     course = frappe.new_doc("LMS Course")
-    course.title = "GCSE Video Vault"
+    course.title = title
     course.short_introduction = "Complete GCSE Mathematics video course covering all topics from basics to advanced problem-solving techniques."
     course.description = """
 <h3>Welcome to the GCSE Video Vault</h3>
@@ -147,25 +151,51 @@ def create_chapter(course, module_data, idx):
     return chapter
 
 
+def ensure_file_record(filename, file_url):
+    """Ensure a File document exists for the given filename and URL."""
+    if not frappe.db.exists("File", {"file_url": file_url}):
+        # Direct DB insertion to bypass file size checks and other validations
+        # since the file is already on the disk
+        frappe.db.sql("""
+            INSERT INTO `tabFile` 
+            (name, creation, modified, modified_by, owner, docstatus, idx,
+             file_name, file_url, is_private, is_home_folder, is_attachments_folder, 
+             file_size, folder)
+            VALUES 
+            (%s, NOW(), NOW(), 'Administrator', 'Administrator', 0, 0,
+             %s, %s, 0, 0, 0, 
+             0, 'Home')
+        """, (frappe.generate_hash(), filename, file_url))
+        
+        # Commit immediately to ensure it's available
+        frappe.db.commit()
+
+
 def create_lesson(course, chapter, video_data, idx):
     """Create a Course Lesson from video data."""
     
-    # Use the direct Wistia video URL (works immediately, no file serving needed)
-    video_path = video_data.get('video_direct_url', '')
+    # Prioritize local path logic
+    original_path = video_data.get('local_path', '')
+    video_path = ""
     
-    # Fallback to local path if no direct URL
+    if original_path:
+        # Extract filename (handle both simple filenames and paths like mathmo_assets/foo.mp4)
+        filename = os.path.basename(original_path)
+        video_path = f"/files/{filename}"
+        
+        # Ensure the File record exists in the database
+        ensure_file_record(filename, video_path)
+    
+    # Fallback to direct URL if local path resolution failed or wasn't provided
     if not video_path:
-        original_path = video_data.get('local_path', '')
-        if original_path.startswith('mathmo_assets/'):
-            video_path = original_path.replace('mathmo_assets/', '/files/')
-        else:
-            video_path = f"/files/{original_path}"
-    
+        video_path = video_data.get('video_direct_url', '')
+
     # Build the lesson body with video macro
     body_parts = []
     
     # Add video using the Video macro
-    body_parts.append(f'{{{{ Video("{video_path}") }}}}')
+    if video_path:
+        body_parts.append(f'{{{{ Video("{video_path}") }}}}')
     
     # Add subtitle as description if present
     subtitle = video_data.get('subtitle', '')
