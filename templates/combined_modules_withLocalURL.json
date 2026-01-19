@@ -1,0 +1,3556 @@
+[
+  {
+    "module_name": "Intro",
+    "module_id": "2156841131",
+    "videos": [
+      {
+        "title": "Intro",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841131/posts/2184141671",
+        "wistia_id": "slidifntia",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/fa5b5df6269ca22966f46f2ec5c54e1196bb8196.mp4",
+        "quality": "720p",
+        "video_number": 1,
+        "local_path": "mathmo_assets/wistia_slidifntia.mp4"
+      },
+      {
+        "title": "How It Works",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841131/posts/2184141673",
+        "wistia_id": "razb6uo716",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/96fc2e4d55c21964696ede099705fb32b8b3a803.mp4",
+        "quality": "1080p",
+        "video_number": 2,
+        "local_path": "mathmo_assets/wistia_razb6uo716.mp4"
+      },
+      {
+        "title": "Micro Revision",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841131/posts/2184141676",
+        "wistia_id": "x4p8rlrngv",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9542741e87d90cb88b75a034004d38b173cd545c.mp4",
+        "quality": "720p",
+        "video_number": 3,
+        "local_path": "mathmo_assets/wistia_x4p8rlrngv.mp4"
+      },
+      {
+        "title": "Fixed vs Growth Mindset",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841131/posts/2184141674",
+        "wistia_id": "rfkjon3af5",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/40cdd3fe5f10e97d06efa4aa15a27877d38894fd.mp4",
+        "quality": "720p",
+        "video_number": 4,
+        "local_path": "mathmo_assets/wistia_rfkjon3af5.mp4"
+      },
+      {
+        "title": "Motivation",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841131/posts/2184141679",
+        "wistia_id": "bziczpu8q4",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a108da3c18e562a8e775ea1e6454bd8e7ba31271.mp4",
+        "quality": "720p",
+        "video_number": 5,
+        "local_path": "mathmo_assets/wistia_bziczpu8q4.mp4"
+      },
+      {
+        "title": "Asking Good Questions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841131/posts/2184141681",
+        "wistia_id": "bbocncy55s",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/25e411d630c4d01738ad6a653392900901996bef.mp4",
+        "quality": "720p",
+        "video_number": 6,
+        "local_path": "mathmo_assets/wistia_bbocncy55s.mp4"
+      }
+    ],
+    "module_number": 0.1
+  },
+  {
+    "module_name": "Course Overview",
+    "module_id": "2156841579",
+    "videos": [
+      {
+        "title": "Course Overview Intro",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841579/posts/2184144221",
+        "wistia_id": "ipffrxhuqh",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/e701be6ab6ffbd7e10030dd8cb02164582a66dd6.mp4",
+        "quality": "720p",
+        "video_number": 1,
+        "local_path": "mathmo_assets/wistia_ipffrxhuqh.mp4"
+      },
+      {
+        "title": "The Ladder",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841579/posts/2184144224",
+        "wistia_id": "vaxt4788ii",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/e3c14f9cf28e25713e77cabbc148af7274645caf.mp4",
+        "quality": "720p",
+        "video_number": 2,
+        "local_path": "mathmo_assets/wistia_vaxt4788ii.mp4"
+      },
+      {
+        "title": "Adding Is Harder Than Multiplying",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841579/posts/2184144226",
+        "wistia_id": "t01zuv1ye9",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/11ecf66daa4e8bbbb1942d96b0abc9512391366d.mp4",
+        "quality": "720p",
+        "video_number": 3,
+        "local_path": "mathmo_assets/wistia_t01zuv1ye9.mp4"
+      },
+      {
+        "title": "Numbers & Fractions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841579/posts/2184144236",
+        "wistia_id": "oc2b9z24wh",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/78baa9c60775bfe9a1a4658aeeb3d6400b186ff7.mp4",
+        "quality": "720p",
+        "video_number": 4,
+        "local_path": "mathmo_assets/wistia_oc2b9z24wh.mp4"
+      },
+      {
+        "title": "Percentages",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841579/posts/2184144237",
+        "wistia_id": "hzqzeit6zz",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ebebd4fc8c07b9720bb7ad4c7f183452ca7673e3.mp4",
+        "quality": "720p",
+        "video_number": 5,
+        "local_path": "mathmo_assets/wistia_hzqzeit6zz.mp4"
+      },
+      {
+        "title": "Algebra",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841579/posts/2184144241",
+        "wistia_id": "y3g5fj5817",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4761f12e908ae268ba129e133b80cca13a2dd477.mp4",
+        "quality": "720p",
+        "video_number": 6,
+        "local_path": "mathmo_assets/wistia_y3g5fj5817.mp4"
+      },
+      {
+        "title": "Substitution",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841579/posts/2184144245",
+        "wistia_id": "ibthvr7nn9",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d71401f14d430117e6c813275f9b1c4e86ed1161.mp4",
+        "quality": "720p",
+        "video_number": 7,
+        "local_path": "mathmo_assets/wistia_ibthvr7nn9.mp4"
+      },
+      {
+        "title": "Equations & Inequalities",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841579/posts/2184144264",
+        "wistia_id": "nsahau2hy1",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d3d33da8810e8028e17515f684e34dab0a36e312.mp4",
+        "quality": "720p",
+        "video_number": 8,
+        "local_path": "mathmo_assets/wistia_nsahau2hy1.mp4"
+      },
+      {
+        "title": "Graphs",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841579/posts/2184144265",
+        "wistia_id": "uolwe4cx48",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ffa09eda41a91b776363c8fbaaa830ed981f1c8d.mp4",
+        "quality": "720p",
+        "video_number": 9,
+        "local_path": "mathmo_assets/wistia_uolwe4cx48.mp4"
+      },
+      {
+        "title": "Angles",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841579/posts/2184144278",
+        "wistia_id": "9c7vqn0zbe",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/e5f6d639d966abebcbdaf09c16fd55cedbf7e48d.mp4",
+        "quality": "720p",
+        "video_number": 10,
+        "local_path": "mathmo_assets/wistia_9c7vqn0zbe.mp4"
+      },
+      {
+        "title": "Shapes",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841579/posts/2184144279",
+        "wistia_id": "su5alal2t0",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8cc9de8c8985e3dfa960d9a0dc4f218e941ae893.mp4",
+        "quality": "720p",
+        "video_number": 11,
+        "local_path": "mathmo_assets/wistia_su5alal2t0.mp4"
+      },
+      {
+        "title": "Statistics",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841579/posts/2184144281",
+        "wistia_id": "wit2hxhloe",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ceeb7090263dc3625eda2ac56c8f37cf56db9f07.mp4",
+        "quality": "720p",
+        "video_number": 12,
+        "local_path": "mathmo_assets/wistia_wit2hxhloe.mp4"
+      },
+      {
+        "title": "Probability Basics",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841579/posts/2184144285",
+        "wistia_id": "2zkgg8nvzb",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/43b07a1ce7db1a34b1c33c7d51726a7cfe2a9d73.mp4",
+        "quality": "720p",
+        "video_number": 13,
+        "local_path": "mathmo_assets/wistia_2zkgg8nvzb.mp4"
+      },
+      {
+        "title": "Tree Diagrams (Higher Tier Only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841579/posts/2184144284",
+        "wistia_id": "zai7e8n8uf",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5b29755b239bbf07db05d264bc0c7e601b9b8f92.mp4",
+        "quality": "720p",
+        "video_number": 14,
+        "local_path": "mathmo_assets/wistia_zai7e8n8uf.mp4"
+      }
+    ],
+    "module_number": 0.2
+  },
+  {
+    "module_name": "Exam Technique",
+    "module_id": "2156841190",
+    "videos": [
+      {
+        "title": "You're Supposed To Get Stuck",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841190/posts/2184144230",
+        "wistia_id": "5mj537qb0m",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/85cc825a87af1b0543c9bf44d12a6203cb0ed166.mp4",
+        "quality": "720p",
+        "video_number": 1,
+        "local_path": "mathmo_assets/wistia_5mj537qb0m.mp4"
+      },
+      {
+        "title": "The Answer Box Is Sacred (Foundation)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841190/posts/2184150186",
+        "wistia_id": "xy27crccwi",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d9a724d1895ea242b7822c44bdccc9bf5f2bb7a9.mp4",
+        "quality": "540p",
+        "video_number": 2,
+        "local_path": "mathmo_assets/wistia_xy27crccwi.mp4"
+      },
+      {
+        "title": "The Answer Box Is Sacred (Higher)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841190/posts/2184141969",
+        "wistia_id": "7ik3iskbhk",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8425cd2c98e2565c565979fb7303aab57957a5e7.mp4",
+        "quality": "540p",
+        "video_number": 3,
+        "local_path": "mathmo_assets/wistia_7ik3iskbhk.mp4"
+      },
+      {
+        "title": "Checking Your Work (C U EXAMS)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841190/posts/2184141970",
+        "wistia_id": "eomq5nxpbc",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/18cb95bedcd9a0cb9c738b2a27fe891d1f0e2260.mp4",
+        "quality": "720p",
+        "video_number": 4,
+        "local_path": "mathmo_assets/wistia_eomq5nxpbc.mp4"
+      },
+      {
+        "title": "C - Calculator",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841190/posts/2184144496",
+        "wistia_id": "upjrq90tac",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/3624c012123f45109af0e7e15f7194cf2861411b.mp4",
+        "quality": "720p",
+        "video_number": 5,
+        "local_path": "mathmo_assets/wistia_upjrq90tac.mp4"
+      },
+      {
+        "title": "U - Units & Significant Figures",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841190/posts/2184141971",
+        "wistia_id": "n3n3pglyy6",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5fc7408f882eb222de2dcb55ce8c107b3a96a615.mp4",
+        "quality": "720p",
+        "video_number": 6,
+        "local_path": "mathmo_assets/wistia_n3n3pglyy6.mp4"
+      },
+      {
+        "title": "E - Every Question",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841190/posts/2184141972",
+        "wistia_id": "84kyt8l1nh",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/13b87299191e08a0c4af142daad671961a09a346.mp4",
+        "quality": "720p",
+        "video_number": 7,
+        "local_path": "mathmo_assets/wistia_84kyt8l1nh.mp4"
+      },
+      {
+        "title": "X - Substitute X (Foundation)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841190/posts/2184150215",
+        "wistia_id": "h35o45u2s8",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/09777840ce2ca2f9eca35a413d2416be3a3dd220.mp4",
+        "quality": "720p",
+        "video_number": 8,
+        "local_path": "mathmo_assets/wistia_h35o45u2s8.mp4"
+      },
+      {
+        "title": "X - Substitute X (Higher)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841190/posts/2184141973",
+        "wistia_id": "favidz3w33",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/17ff3ddc5c6e9de2ef42a554aa3888376996f5b4.mp4",
+        "quality": "720p",
+        "video_number": 9,
+        "local_path": "mathmo_assets/wistia_favidz3w33.mp4"
+      },
+      {
+        "title": "A - Plug Your Answer Into The Question (Foundation)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841190/posts/2184150226",
+        "wistia_id": "086r8spgzi",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b8c553e5fb0a2c381f1451176e1aa1b5134cbf6e.mp4",
+        "quality": "720p",
+        "video_number": 10,
+        "local_path": "mathmo_assets/wistia_086r8spgzi.mp4"
+      },
+      {
+        "title": "A - Plug Your Answer Into The Question (Higher)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841190/posts/2184141974",
+        "wistia_id": "t6veces4va",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/0f4bccb7643c28d0b030421e60b575f642d004dc.mp4",
+        "quality": "720p",
+        "video_number": 11,
+        "local_path": "mathmo_assets/wistia_t6veces4va.mp4"
+      },
+      {
+        "title": "M - Marks (Foundation)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841190/posts/2184150231",
+        "wistia_id": "5tvmudcayn",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/35cd3d9d327e402b24b3b8313d4be4896cd40172.mp4",
+        "quality": "720p",
+        "video_number": 12,
+        "local_path": "mathmo_assets/wistia_5tvmudcayn.mp4"
+      },
+      {
+        "title": "M - Marks (Higher)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841190/posts/2184141975",
+        "wistia_id": "zp2bl2h2es",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/83d9885724893032d832149120bf70279e28a88a.mp4",
+        "quality": "720p",
+        "video_number": 13,
+        "local_path": "mathmo_assets/wistia_zp2bl2h2es.mp4"
+      },
+      {
+        "title": "S - Sense Check",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841190/posts/2184141976",
+        "wistia_id": "97zekn2rue",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/114b26485990e6ed9f89eac394495cadad3d0849.mp4",
+        "quality": "720p",
+        "video_number": 14,
+        "local_path": "mathmo_assets/wistia_97zekn2rue.mp4"
+      },
+      {
+        "title": "Formula Sheet (GCSE Foundation)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841190/posts/2184150120",
+        "wistia_id": "hipr3bykog",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a26a33dff1800250a7d600103f1512a26d4f3ad5.mp4",
+        "quality": "720p",
+        "video_number": 15,
+        "local_path": "mathmo_assets/wistia_hipr3bykog.mp4"
+      },
+      {
+        "title": "Formula Sheet (GCSE Higher)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841190/posts/2184141968",
+        "wistia_id": "abhdydn2bs",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/0ba0859ed0f0d941c06bd64e1df943b5042f5879.mp4",
+        "quality": "720p",
+        "video_number": 16,
+        "local_path": "mathmo_assets/wistia_abhdydn2bs.mp4"
+      },
+      {
+        "title": "Formula Sheet (IGCSE Foundation)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841190/posts/2184150144",
+        "wistia_id": "6xh799w1o1",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8f1cec3af9904b954b888b496638347864e1cbcd.mp4",
+        "quality": "720p",
+        "video_number": 17,
+        "local_path": "mathmo_assets/wistia_6xh799w1o1.mp4"
+      },
+      {
+        "title": "Formula Sheet (IGCSE Higher)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841190/posts/2184150153",
+        "wistia_id": "xie9f7yu0a",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/45c8fced63952963bff47a66f721bc5c6d6e3f70.mp4",
+        "quality": "540p",
+        "video_number": 18,
+        "local_path": "mathmo_assets/wistia_xie9f7yu0a.mp4"
+      }
+    ],
+    "module_number": 0.3
+  },
+  {
+    "module_name": "Casio FX-991CW",
+    "module_id": "2159032385",
+    "videos": [
+      {
+        "title": "FX-991CW Intro",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193225734",
+        "wistia_id": "2978u36k2b",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/2f4faf895dff3ae037c686eb1776edad2716b94d.mp4",
+        "quality": "720p",
+        "video_number": 1,
+        "local_path": "mathmo_assets/wistia_2978u36k2b.mp4"
+      },
+      {
+        "title": "Solving Equations",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193225786",
+        "wistia_id": "96po0xg8hf",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b25ddbc60d3b0e95c041356e11548225c00dadf2.mp4",
+        "quality": "720p",
+        "video_number": 2,
+        "local_path": "mathmo_assets/wistia_96po0xg8hf.mp4"
+      },
+      {
+        "title": "Simultaneous Equations",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193232632",
+        "wistia_id": "mghhcurdrq",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f3b07150c14afd8db930bf0d68a5e1342f74684d.mp4",
+        "quality": "720p",
+        "video_number": 3,
+        "local_path": "mathmo_assets/wistia_mghhcurdrq.mp4"
+      },
+      {
+        "title": "Product of Prime Factors",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193225920",
+        "wistia_id": "0asxj2br53",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d179b429a592686934bec394430b923cbc0124c6.mp4",
+        "quality": "720p",
+        "video_number": 4,
+        "local_path": "mathmo_assets/wistia_0asxj2br53.mp4"
+      },
+      {
+        "title": "Simplifying Ratios",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193225925",
+        "wistia_id": "mlzvl18pgj",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9679be97f9435163c6d031d740174e10aec2901d.mp4",
+        "quality": "720p",
+        "video_number": 5,
+        "local_path": "mathmo_assets/wistia_mlzvl18pgj.mp4"
+      },
+      {
+        "title": "Table Mode for Plotting Graphs",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193225928",
+        "wistia_id": "bnrkh24qzz",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f485a31c405a8f1df647498610bf3a6e2448914d.mp4",
+        "quality": "720p",
+        "video_number": 6,
+        "local_path": "mathmo_assets/wistia_bnrkh24qzz.mp4"
+      },
+      {
+        "title": "Sketching ANY Graph",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193225930",
+        "wistia_id": "o5v6ejhhc5",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5c73b9299b1c843eea28f2028ea8929e99744bd4.mp4",
+        "quality": "720p",
+        "video_number": 7,
+        "local_path": "mathmo_assets/wistia_o5v6ejhhc5.mp4"
+      },
+      {
+        "title": "Factorising Quadratics",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193225940",
+        "wistia_id": "y1ac1sf6du",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5d9a488f4df52375c10ec4623eb9aea2ce25d032.mp4",
+        "quality": "720p",
+        "video_number": 8,
+        "local_path": "mathmo_assets/wistia_y1ac1sf6du.mp4"
+      },
+      {
+        "title": "Difference Of Two Squares",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193225942",
+        "wistia_id": "wsdvjrc7tk",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/32681513a113719983aa0803112681576765677c.mp4",
+        "quality": "720p",
+        "video_number": 9,
+        "local_path": "mathmo_assets/wistia_wsdvjrc7tk.mp4"
+      },
+      {
+        "title": "Solving Quadratics",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193225944",
+        "wistia_id": "iq8idchwpx",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c1a6972a0c19d2912377505858098596aed86207.mp4",
+        "quality": "720p",
+        "video_number": 10,
+        "local_path": "mathmo_assets/wistia_iq8idchwpx.mp4"
+      },
+      {
+        "title": "Turning Point",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193226027",
+        "wistia_id": "xdjs5u9mig",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/379f09d972a6a4c3a1db8c039b812f62e019e528.mp4",
+        "quality": "720p",
+        "video_number": 11,
+        "local_path": "mathmo_assets/wistia_xdjs5u9mig.mp4"
+      },
+      {
+        "title": "Mean and Median",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193225985",
+        "wistia_id": "qmm7qcohgl",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ceebcdcd82f0779fd2308d0e89050593896c8658.mp4",
+        "quality": "720p",
+        "video_number": 12,
+        "local_path": "mathmo_assets/wistia_qmm7qcohgl.mp4"
+      },
+      {
+        "title": "Frequency Tables",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193225997",
+        "wistia_id": "7ouhdl0k55",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/43946f7594f7c067c484f65fa497f082e00b60fa.mp4",
+        "quality": "720p",
+        "video_number": 13,
+        "local_path": "mathmo_assets/wistia_7ouhdl0k55.mp4"
+      },
+      {
+        "title": "Grouped Frequency Tables",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193226000",
+        "wistia_id": "p3lxyx7miw",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c622fd75be65228857bd6497a7afd3910d763fe2.mp4",
+        "quality": "720p",
+        "video_number": 14,
+        "local_path": "mathmo_assets/wistia_p3lxyx7miw.mp4"
+      },
+      {
+        "title": "Powers",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193225933",
+        "wistia_id": "gxr464oiq9",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/10e9349518b0d319f504ce265b99621457bbf7aa.mp4",
+        "quality": "720p",
+        "video_number": 15,
+        "local_path": "mathmo_assets/wistia_gxr464oiq9.mp4"
+      },
+      {
+        "title": "Conversions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193225961",
+        "wistia_id": "xzbg2l9l27",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9e39df816fff702f5845ab9d61d12af79ff24610.mp4",
+        "quality": "720p",
+        "video_number": 16,
+        "local_path": "mathmo_assets/wistia_xzbg2l9l27.mp4"
+      },
+      {
+        "title": "Time Questions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193225967",
+        "wistia_id": "ntf3kn8xcu",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8057b9eee5a4b824cd786078f122b55fe82823a2.mp4",
+        "quality": "720p",
+        "video_number": 17,
+        "local_path": "mathmo_assets/wistia_ntf3kn8xcu.mp4"
+      },
+      {
+        "title": "Mixed Fractions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193225971",
+        "wistia_id": "mgiqp8li4w",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/15cde3e806d1084c5a83f2d4d0bb4db2a918aa4e.mp4",
+        "quality": "720p",
+        "video_number": 18,
+        "local_path": "mathmo_assets/wistia_mgiqp8li4w.mp4"
+      },
+      {
+        "title": "Standard Form",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193225977",
+        "wistia_id": "g9078toro3",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b987bd8af3dde48772200a2ea8e797ac0348c5aa.mp4",
+        "quality": "720p",
+        "video_number": 19,
+        "local_path": "mathmo_assets/wistia_g9078toro3.mp4"
+      },
+      {
+        "title": "Vectors",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193226013",
+        "wistia_id": "2uoefovvg2",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/031c3a89fa8c0aa1adfa2370718d3ffae850a9d6.mp4",
+        "quality": "720p",
+        "video_number": 20,
+        "local_path": "mathmo_assets/wistia_2uoefovvg2.mp4"
+      },
+      {
+        "title": "Solving Equations with Multiple Answers",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193226020",
+        "wistia_id": "g9loaav2ll",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/2c8e7331d63d7c788423dfc10367a4a36a9de59e.mp4",
+        "quality": "720p",
+        "video_number": 21,
+        "local_path": "mathmo_assets/wistia_g9loaav2ll.mp4"
+      },
+      {
+        "title": "Functions (Higher Tier Only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193226040",
+        "wistia_id": "6i2iqkziz3",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c6606df1b75b58ec47590de61b8e163e1c660205.mp4",
+        "quality": "720p",
+        "video_number": 22,
+        "local_path": "mathmo_assets/wistia_6i2iqkziz3.mp4"
+      },
+      {
+        "title": "Quartiles and IQR (Higher Tier Only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193226008",
+        "wistia_id": "nmih9mlx69",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d53278fda7d94e98f31a55d9a486435a13459618.mp4",
+        "quality": "720p",
+        "video_number": 23,
+        "local_path": "mathmo_assets/wistia_nmih9mlx69.mp4"
+      },
+      {
+        "title": "Harder Quadratics (Higher Tier Only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193225951",
+        "wistia_id": "e5o2od3pda",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/963da07df89812c33d182514cfd7bbbdc818f421.mp4",
+        "quality": "720p",
+        "video_number": 24,
+        "local_path": "mathmo_assets/wistia_e5o2od3pda.mp4"
+      },
+      {
+        "title": "Quadratics In Algebraic Fractions (Higher Tier Only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193225957",
+        "wistia_id": "913iicdher",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8bea71122645399bcf212aeb5ca1db7c59536266.mp4",
+        "quality": "720p",
+        "video_number": 25,
+        "local_path": "mathmo_assets/wistia_913iicdher.mp4"
+      },
+      {
+        "title": "Simplifying Surds (Higher Tier Only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193225974",
+        "wistia_id": "2it94w3w90",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/1c38705f70dd0215bc0006cf851f6a9be4e474c1.mp4",
+        "quality": "720p",
+        "video_number": 26,
+        "local_path": "mathmo_assets/wistia_2it94w3w90.mp4"
+      },
+      {
+        "title": "Quadratic Inequalities (Higher Tier Only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032385/posts/2193226033",
+        "wistia_id": "o52f4xtaft",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f28e3789b1b161abb9dd43e9b395b0031ab2143b.mp4",
+        "quality": "720p",
+        "video_number": 27,
+        "local_path": "mathmo_assets/wistia_o52f4xtaft.mp4"
+      }
+    ],
+    "module_number": 0.4
+  },
+  {
+    "module_name": "Casio FX-991EX",
+    "module_id": "2159032361",
+    "videos": [
+      {
+        "title": "Simultaneous Equations",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306458",
+        "wistia_id": "009290s2am",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/3ed65eca005f1acd7dd682d931c863d9be5da879.mp4",
+        "quality": "720p",
+        "video_number": 1,
+        "local_path": "mathmo_assets/wistia_009290s2am.mp4"
+      },
+      {
+        "title": "Product Of Prime Factors",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306460",
+        "wistia_id": "vczo9xuzvn",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b0ec57e5b7de981d859313618fca75b271cd3b4f.mp4",
+        "quality": "720p",
+        "video_number": 2,
+        "local_path": "mathmo_assets/wistia_vczo9xuzvn.mp4"
+      },
+      {
+        "title": "Simplifying Ratios",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306464",
+        "wistia_id": "rolayiemrl",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/bee6ab94162888053f7f399db77643d2d42102dd.mp4",
+        "quality": "720p",
+        "video_number": 3,
+        "local_path": "mathmo_assets/wistia_rolayiemrl.mp4"
+      },
+      {
+        "title": "Table Mode For Plotting Graphs",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306469",
+        "wistia_id": "m8fmzqugwt",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d7e1e8292fdeae58fb469d624e0c977b02cf1a1c.mp4",
+        "quality": "720p",
+        "video_number": 4,
+        "local_path": "mathmo_assets/wistia_m8fmzqugwt.mp4"
+      },
+      {
+        "title": "Sketching ANY Graph",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306473",
+        "wistia_id": "kchsls555f",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/20d28573127091082099105499caae0bce32b608.mp4",
+        "quality": "720p",
+        "video_number": 5,
+        "local_path": "mathmo_assets/wistia_kchsls555f.mp4"
+      },
+      {
+        "title": "Solving Equations",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306477",
+        "wistia_id": "q2xglvc1oc",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c6aaaee96a9ae0a409ed3ffecffaf75c5e954964.mp4",
+        "quality": "720p",
+        "video_number": 6,
+        "local_path": "mathmo_assets/wistia_q2xglvc1oc.mp4"
+      },
+      {
+        "title": "Powers",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2187568166",
+        "wistia_id": "c2cpl5azx7",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c5d33bdfd0cdf860364f6e747be7cbed095405ee.mp4",
+        "quality": "1080p",
+        "video_number": 7,
+        "local_path": "mathmo_assets/wistia_c2cpl5azx7.mp4"
+      },
+      {
+        "title": "Factorising Quadratics",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306502",
+        "wistia_id": "rbx8v3oalq",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d392af5acb88b7a37c818e7edd46e8bda796b852.mp4",
+        "quality": "720p",
+        "video_number": 8,
+        "local_path": "mathmo_assets/wistia_rbx8v3oalq.mp4"
+      },
+      {
+        "title": "Solving Quadratics",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306505",
+        "wistia_id": "dcmm04t9it",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/3f90a720fb38dae7e739f6c0d3aa06d34a9868c2.mp4",
+        "quality": "720p",
+        "video_number": 9,
+        "local_path": "mathmo_assets/wistia_dcmm04t9it.mp4"
+      },
+      {
+        "title": "Harder Quadratics (Higher Tier Only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306510",
+        "wistia_id": "fggmk3d8v0",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b2bf14b11b5a2b3994e74ce77697a596f6889e2a.mp4",
+        "quality": "720p",
+        "video_number": 10,
+        "local_path": "mathmo_assets/wistia_fggmk3d8v0.mp4"
+      },
+      {
+        "title": "Quadratics In Algebraic Fractions (Higher Tier Only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306513",
+        "wistia_id": "iulo13bcb5",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4dae73a5a4740158ffd3522d8a58600e0f8b795a.mp4",
+        "quality": "720p",
+        "video_number": 11,
+        "local_path": "mathmo_assets/wistia_iulo13bcb5.mp4"
+      },
+      {
+        "title": "Conversions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306516",
+        "wistia_id": "alijkctzm4",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6fb7bf17c0c792c468d261404ce0188415e42c4a.mp4",
+        "quality": "720p",
+        "video_number": 12,
+        "local_path": "mathmo_assets/wistia_alijkctzm4.mp4"
+      },
+      {
+        "title": "Time Questions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306521",
+        "wistia_id": "0474jxoyoa",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f29d7c6c061c718f9186405eb20421a1cd3530a5.mp4",
+        "quality": "720p",
+        "video_number": 13,
+        "local_path": "mathmo_assets/wistia_0474jxoyoa.mp4"
+      },
+      {
+        "title": "Mixed Fractions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306525",
+        "wistia_id": "tzvpsdarj9",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/698d099185086a24c72b9180f6b47bbdf81a04ae.mp4",
+        "quality": "720p",
+        "video_number": 14,
+        "local_path": "mathmo_assets/wistia_tzvpsdarj9.mp4"
+      },
+      {
+        "title": "Simplifying Surds (Higher Tier Only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306529",
+        "wistia_id": "kd38sokfpu",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f99f40cdf93d615501c6e86ff6b4a02b84a934d9.mp4",
+        "quality": "720p",
+        "video_number": 15,
+        "local_path": "mathmo_assets/wistia_kd38sokfpu.mp4"
+      },
+      {
+        "title": "Standard Form",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306540",
+        "wistia_id": "1p2cdvxjye",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/fa56cb0cb4cdf52f780c8a0cc28a54c6a03468b8.mp4",
+        "quality": "720p",
+        "video_number": 16,
+        "local_path": "mathmo_assets/wistia_1p2cdvxjye.mp4"
+      },
+      {
+        "title": "Quadratic Inequalities (Higher Tier Only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306550",
+        "wistia_id": "ihgetlxlp6",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/07b009400139c0d55a9fb21c30628e7637e3b978.mp4",
+        "quality": "720p",
+        "video_number": 17,
+        "local_path": "mathmo_assets/wistia_ihgetlxlp6.mp4"
+      },
+      {
+        "title": "Turning Point",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306554",
+        "wistia_id": "9u97wn4bz8",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/324a58647f5a52cf066143679e20754d7e40c4ff.mp4",
+        "quality": "720p",
+        "video_number": 18,
+        "local_path": "mathmo_assets/wistia_9u97wn4bz8.mp4"
+      },
+      {
+        "title": "Completing The Square (Higher Tier Only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306557",
+        "wistia_id": "jn60ej4dg2",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/201062069476f6924b80192e7421b43cd4eebd97.mp4",
+        "quality": "720p",
+        "video_number": 19,
+        "local_path": "mathmo_assets/wistia_jn60ej4dg2.mp4"
+      },
+      {
+        "title": "Mean And Median",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306559",
+        "wistia_id": "sq2pciaa61",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/485e0d9140a51099ea0094a7f1614a12a38c84a3.mp4",
+        "quality": "720p",
+        "video_number": 20,
+        "local_path": "mathmo_assets/wistia_sq2pciaa61.mp4"
+      },
+      {
+        "title": "Frequency Tables",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306561",
+        "wistia_id": "9pnhyl7z7u",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/21c43fe84a45dc623fe5d5875cda815294cf5269.mp4",
+        "quality": "720p",
+        "video_number": 21,
+        "local_path": "mathmo_assets/wistia_9pnhyl7z7u.mp4"
+      },
+      {
+        "title": "Grouped Frequency Tables",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306565",
+        "wistia_id": "pu6y0tn4mx",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/02050eaba2842ca50f3f914cb75dffef4069607f.mp4",
+        "quality": "720p",
+        "video_number": 22,
+        "local_path": "mathmo_assets/wistia_pu6y0tn4mx.mp4"
+      },
+      {
+        "title": "Quartiles & Interquartile Range (Higher Tier Only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2186306676",
+        "wistia_id": "xthsmvkjb5",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/19aca121de4bf9b4863b39a15f8c3e9ac8cf7449.mp4",
+        "quality": "720p",
+        "video_number": 23,
+        "local_path": "mathmo_assets/wistia_xthsmvkjb5.mp4"
+      },
+      {
+        "title": "Vectors",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-calculator-hacks/categories/2159032361/posts/2187568145",
+        "wistia_id": "1p89w50wpy",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/710adad72deb574306523b9f1d1808a2735c40e4.mp4",
+        "quality": "1080p",
+        "video_number": 24,
+        "local_path": "mathmo_assets/wistia_1p89w50wpy.mp4"
+      }
+    ],
+    "module_number": 0.5
+  },
+  {
+    "module_name": "1 - Number",
+    "module_id": "2156841136",
+    "videos": [
+      {
+        "title": "Integers Squares and Cubes",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841137/posts/2184141702",
+        "wistia_id": "oa0xoxfrex",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ce41c4e3f33f12309c3056744c858df74f18a956.mp4",
+        "quality": "540p",
+        "video_number": 1,
+        "local_path": "mathmo_assets/wistia_oa0xoxfrex.mp4"
+      },
+      {
+        "title": "BIDMAS or BODMAS",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841137/posts/2184141703",
+        "wistia_id": "9kvcon9r5z",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8dd06a5c46735d0665067f3642f9c4311b404b40.mp4",
+        "quality": "540p",
+        "video_number": 2,
+        "local_path": "mathmo_assets/wistia_9kvcon9r5z.mp4"
+      },
+      {
+        "title": "Minus Signs",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841137/posts/2184141707",
+        "wistia_id": "plq7nwnum2",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/3ea7eb6dd6bfbcf732ef538ab4d9edb303e18e3e.mp4",
+        "quality": "540p",
+        "video_number": 3,
+        "local_path": "mathmo_assets/wistia_plq7nwnum2.mp4"
+      },
+      {
+        "title": "Dividing",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841137/posts/2184141708",
+        "wistia_id": "rgizg1pftj",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/0fb95df78e603ffa2c016114262380f4d37d6013.mp4",
+        "quality": "540p",
+        "video_number": 4,
+        "local_path": "mathmo_assets/wistia_rgizg1pftj.mp4"
+      },
+      {
+        "title": "The Over 1 Trick",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841137/posts/2184141709",
+        "wistia_id": "vpil31n1be",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/130a17b677726ca57adcedf1481b2b94ab4212b4.mp4",
+        "quality": "540p",
+        "video_number": 5,
+        "local_path": "mathmo_assets/wistia_vpil31n1be.mp4"
+      },
+      {
+        "title": "Using a Calculator",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841137/posts/2184141710",
+        "wistia_id": "e5xfhhcnuw",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/762c36f027463709acd57f109af0046b16faab4b.mp4",
+        "quality": "540p",
+        "video_number": 6,
+        "local_path": "mathmo_assets/wistia_e5xfhhcnuw.mp4"
+      },
+      {
+        "title": "Rational and Irrational Numbers (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841137/posts/2184141711",
+        "wistia_id": "yhl8glolij",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ceb58ae333744d2d061b375d810b7242a95b8a54.mp4",
+        "quality": "540p",
+        "video_number": 7,
+        "local_path": "mathmo_assets/wistia_yhl8glolij.mp4"
+      },
+      {
+        "title": "Square Roots and Cube Roots",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841137/posts/2184141712",
+        "wistia_id": "mzcszo6n0l",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/601aded24bc0bfecb38a1be919c3c3df3cdeaf3a.mp4",
+        "quality": "540p",
+        "video_number": 8,
+        "local_path": "mathmo_assets/wistia_mzcszo6n0l.mp4"
+      },
+      {
+        "title": "Factors, Multiples & Prime Numbers",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841138/posts/2184141713",
+        "wistia_id": "gqm0j95411",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6b430539c31a5705db2cfe2864b3dcab6cfb35b8.mp4",
+        "quality": "540p",
+        "video_number": 9,
+        "local_path": "mathmo_assets/wistia_gqm0j95411.mp4"
+      },
+      {
+        "title": "Prime Factors",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841138/posts/2184141714",
+        "wistia_id": "libzqq5k95",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/73ad470aa357c07b18da203a5f1b3c2ec7c09373.mp4",
+        "quality": "540p",
+        "video_number": 10,
+        "local_path": "mathmo_assets/wistia_libzqq5k95.mp4"
+      },
+      {
+        "title": "HCF & LCM",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841138/posts/2184141715",
+        "wistia_id": "j6gva3ip29",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/50aaae72fa0921d6314b694afab00286ef759c74.mp4",
+        "quality": "540p",
+        "video_number": 11,
+        "local_path": "mathmo_assets/wistia_j6gva3ip29.mp4"
+      },
+      {
+        "title": "Fractions Basics",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841141/posts/2184141719",
+        "wistia_id": "3wpkb4elwz",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7425ab4a57848b852faf422940b7f3510b8094b7.mp4",
+        "quality": "540p",
+        "video_number": 12,
+        "local_path": "mathmo_assets/wistia_3wpkb4elwz.mp4"
+      },
+      {
+        "title": "Multiplying & Dividing Fractions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841141/posts/2184141720",
+        "wistia_id": "7yhsdjsiiv",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c703cb42e126c521a2151334956e6018c8362d8f.mp4",
+        "quality": "540p",
+        "video_number": 13,
+        "local_path": "mathmo_assets/wistia_7yhsdjsiiv.mp4"
+      },
+      {
+        "title": "Cross-Cancelling",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841141/posts/2184141721",
+        "wistia_id": "93ab4qmguj",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/fc37af8d3aa77673fd3bb1a0f6c4dcec4e24b035.mp4",
+        "quality": "540p",
+        "video_number": 14,
+        "local_path": "mathmo_assets/wistia_93ab4qmguj.mp4"
+      },
+      {
+        "title": "Comparing Fractions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841141/posts/2184141722",
+        "wistia_id": "8493lexqn8",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f318d95a2eccaa3c0f5e3e81c4f04898277f84b2.mp4",
+        "quality": "540p",
+        "video_number": 15,
+        "local_path": "mathmo_assets/wistia_8493lexqn8.mp4"
+      },
+      {
+        "title": "Adding & Subtracting Fractions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841141/posts/2184141723",
+        "wistia_id": "v0dwy2zq39",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/454757936e3e3a9056ccfb7494e6193c5cc693b4.mp4",
+        "quality": "540p",
+        "video_number": 16,
+        "local_path": "mathmo_assets/wistia_v0dwy2zq39.mp4"
+      },
+      {
+        "title": "Mixed Fractions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841141/posts/2184141724",
+        "wistia_id": "haoprjj59m",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a0f814eee6d5e93f0c6725d7334c45096efd1953.mp4",
+        "quality": "540p",
+        "video_number": 17,
+        "local_path": "mathmo_assets/wistia_haoprjj59m.mp4"
+      },
+      {
+        "title": "Fractions, Decimals & Percentages",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841142/posts/2184141725",
+        "wistia_id": "9g1hg5mcdf",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/793fd2688955d3a73952fc65f4fd2237fce5df23.mp4",
+        "quality": "540p",
+        "video_number": 18,
+        "local_path": "mathmo_assets/wistia_9g1hg5mcdf.mp4"
+      },
+      {
+        "title": "Recurring Or Terminating (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841142/posts/2184141726",
+        "wistia_id": "l286nrnh7q",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8655b0fa9aa7c513a8340fb2a756e536411f4a02.mp4",
+        "quality": "540p",
+        "video_number": 19,
+        "local_path": "mathmo_assets/wistia_l286nrnh7q.mp4"
+      },
+      {
+        "title": "Recurring Decimals (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841142/posts/2184141727",
+        "wistia_id": "fz7zt0r2ex",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/0967243a7ed1bfc10e59548c1ff1792b7efb63dc.mp4",
+        "quality": "540p",
+        "video_number": 20,
+        "local_path": "mathmo_assets/wistia_fz7zt0r2ex.mp4"
+      },
+      {
+        "title": "Rounding",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841139/posts/2184141716",
+        "wistia_id": "a1luq81x1v",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f865e5c50156c6e629eedde19e9edf7bf848a1d6.mp4",
+        "quality": "540p",
+        "video_number": 21,
+        "local_path": "mathmo_assets/wistia_a1luq81x1v.mp4"
+      },
+      {
+        "title": "Estimating",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841139/posts/2184141717",
+        "wistia_id": "onyg1wmix9",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/dd0f8b3cc0e325068e7f3e2cb756033abcd5d4bb.mp4",
+        "quality": "540p",
+        "video_number": 22,
+        "local_path": "mathmo_assets/wistia_onyg1wmix9.mp4"
+      },
+      {
+        "title": "Bounds (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841139/posts/2184141718",
+        "wistia_id": "r64xotoakx",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c1fad49e97993d99bde8a8976464dd8775a1efbf.mp4",
+        "quality": "540p",
+        "video_number": 23,
+        "local_path": "mathmo_assets/wistia_r64xotoakx.mp4"
+      },
+      {
+        "title": "Standard Form",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841144/posts/2184141731",
+        "wistia_id": "j63gdpykg8",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/89954f4d8dba47c389f082820a41f6dd6f3eccc9.mp4",
+        "quality": "540p",
+        "video_number": 24,
+        "local_path": "mathmo_assets/wistia_j63gdpykg8.mp4"
+      },
+      {
+        "title": "Nasty Standard Form (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841144/posts/2184141732",
+        "wistia_id": "0h3hskbzhi",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/41b4de553968ffa430030ce7b1017752262facb4.mp4",
+        "quality": "540p",
+        "video_number": 25,
+        "local_path": "mathmo_assets/wistia_0h3hskbzhi.mp4"
+      }
+    ],
+    "module_number": 1.0
+  },
+  {
+    "module_name": "2 - Algebra",
+    "module_id": "2156841148",
+    "videos": [
+      {
+        "title": "What Is Algebra?",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841149/posts/2184141751",
+        "wistia_id": "i8jyx79mzt",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/2d893336cba012dc59af85c4975c29d8d7d2e08e.mp4",
+        "quality": "720p",
+        "video_number": 1,
+        "local_path": "mathmo_assets/wistia_i8jyx79mzt.mp4"
+      },
+      {
+        "title": "Adding & Subtracting Algebra",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841149/posts/2184141752",
+        "wistia_id": "7apmn3y8d7",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/0efc6666478317458d517c77ca8419630db8e23d.mp4",
+        "quality": "720p",
+        "video_number": 2,
+        "local_path": "mathmo_assets/wistia_7apmn3y8d7.mp4"
+      },
+      {
+        "title": "Multiplying & Dividing Algebra",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841149/posts/2184141753",
+        "wistia_id": "kigwov79yv",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9fb9a8ed90ab7bdd448f1c35fb3ee99f15fa78dc.mp4",
+        "quality": "720p",
+        "video_number": 3,
+        "local_path": "mathmo_assets/wistia_kigwov79yv.mp4"
+      },
+      {
+        "title": "Minus Signs In Algebra",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841149/posts/2184141754",
+        "wistia_id": "q44trqvoin",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/64d009c0daae9fd1d419bda3790b7317594e3273.mp4",
+        "quality": "720p",
+        "video_number": 4,
+        "local_path": "mathmo_assets/wistia_q44trqvoin.mp4"
+      },
+      {
+        "title": "The Over 1 Trick In Algebra",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841149/posts/2184141755",
+        "wistia_id": "bkvipbwwgk",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4dd5f7b84f0bfbb14978595fb1a61c33b1dd98d8.mp4",
+        "quality": "720p",
+        "video_number": 5,
+        "local_path": "mathmo_assets/wistia_bkvipbwwgk.mp4"
+      },
+      {
+        "title": "'Unpacking'",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841149/posts/2184141756",
+        "wistia_id": "8a6vbk6by6",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/e85e6beeae2c25e6260ba8956c72daa9edc33577.mp4",
+        "quality": "720p",
+        "video_number": 6,
+        "local_path": "mathmo_assets/wistia_8a6vbk6by6.mp4"
+      },
+      {
+        "title": "False Moves",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841149/posts/2184141757",
+        "wistia_id": "eo50pztwhx",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/e8f773ba74f7710b327b3c6f6ba6e63f687a70a7.mp4",
+        "quality": "720p",
+        "video_number": 7,
+        "local_path": "mathmo_assets/wistia_eo50pztwhx.mp4"
+      },
+      {
+        "title": "Single Brackets",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841150/posts/2184141758",
+        "wistia_id": "hjy4whqy79",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/cb37a61da9e57a8881fc83e552d7a82bc56757c4.mp4",
+        "quality": "720p",
+        "video_number": 8,
+        "local_path": "mathmo_assets/wistia_hjy4whqy79.mp4"
+      },
+      {
+        "title": "Double Brackets",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841150/posts/2184141759",
+        "wistia_id": "962xt29i6n",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5e0bedb85b6fae798eec38399cadff15895fc39b.mp4",
+        "quality": "720p",
+        "video_number": 9,
+        "local_path": "mathmo_assets/wistia_962xt29i6n.mp4"
+      },
+      {
+        "title": "Triple Brackets (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841150/posts/2184141760",
+        "wistia_id": "08erkmcf7x",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4effc472bd0a1d90b6a83e5579cee1ff41bd3782.mp4",
+        "quality": "720p",
+        "video_number": 10,
+        "local_path": "mathmo_assets/wistia_08erkmcf7x.mp4"
+      },
+      {
+        "title": "Factorising",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841150/posts/2184141761",
+        "wistia_id": "jusx3x4kb3",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ffaddd07715df774e568ed0cb456542038f81354.mp4",
+        "quality": "720p",
+        "video_number": 11,
+        "local_path": "mathmo_assets/wistia_jusx3x4kb3.mp4"
+      },
+      {
+        "title": "The Difference Of Two Squares",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841150/posts/2184141762",
+        "wistia_id": "5j1i8dne7m",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b6fafe3132f6d0c85999187f77501717ed3d31f4.mp4",
+        "quality": "720p",
+        "video_number": 12,
+        "local_path": "mathmo_assets/wistia_5j1i8dne7m.mp4"
+      },
+      {
+        "title": "Writing An Expression",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841150/posts/2184141763",
+        "wistia_id": "26ekt3o2bn",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/25f5ed2c4d4595de14e42643f1891088a99cc759.mp4",
+        "quality": "720p",
+        "video_number": 13,
+        "local_path": "mathmo_assets/wistia_26ekt3o2bn.mp4"
+      },
+      {
+        "title": "Algebraic Fractions Basics (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841150/posts/2184141764",
+        "wistia_id": "r8wk1lw2iu",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/12f2da6e65a1196b396639c7807cf2662ed50e59.mp4",
+        "quality": "720p",
+        "video_number": 14,
+        "local_path": "mathmo_assets/wistia_r8wk1lw2iu.mp4"
+      },
+      {
+        "title": "Algebraic Fractions (Common Denominators) (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841150/posts/2184141765",
+        "wistia_id": "njw5malyfg",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a5704930186126c37eddede2bee96786d38fbf72.mp4",
+        "quality": "720p",
+        "video_number": 15,
+        "local_path": "mathmo_assets/wistia_njw5malyfg.mp4"
+      },
+      {
+        "title": "Powers Basics",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841151/posts/2184141766",
+        "wistia_id": "tsw1evwens",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4efb69981fd90c3fdbd2176759718c74cf22c910.mp4",
+        "quality": "540p",
+        "video_number": 16,
+        "local_path": "mathmo_assets/wistia_tsw1evwens.mp4"
+      },
+      {
+        "title": "Fractional & Negative Powers (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841151/posts/2184141767",
+        "wistia_id": "fgeusualqg",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a94daced1979b4b9f52d334f1d75be0d788afaad.mp4",
+        "quality": "540p",
+        "video_number": 17,
+        "local_path": "mathmo_assets/wistia_fgeusualqg.mp4"
+      },
+      {
+        "title": "Nasty Powers Questions (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841151/posts/2184141768",
+        "wistia_id": "d8f3gj84d5",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/41f57f85fb5f78af53991ff8cb65a7837245f8fa.mp4",
+        "quality": "540p",
+        "video_number": 18,
+        "local_path": "mathmo_assets/wistia_d8f3gj84d5.mp4"
+      },
+      {
+        "title": "Multiplying & Dividing Surds",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841188/posts/2184141953",
+        "wistia_id": "b2gfexhmjr",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d4a1f2a5203d3535dc15a2132c900e1577440b88.mp4",
+        "quality": "720p",
+        "video_number": 19,
+        "local_path": "mathmo_assets/wistia_b2gfexhmjr.mp4"
+      },
+      {
+        "title": "Adding & Subtracting Surds",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841188/posts/2184141954",
+        "wistia_id": "znlqr0pu66",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/fa6a85cd94cf29be27198ae7160e8055d6f02375.mp4",
+        "quality": "720p",
+        "video_number": 20,
+        "local_path": "mathmo_assets/wistia_znlqr0pu66.mp4"
+      },
+      {
+        "title": "Simplifying Surds",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841188/posts/2184141955",
+        "wistia_id": "1kid31g695",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7023fff7497ddfa7a23481b3b3e401c2fdeca300.mp4",
+        "quality": "720p",
+        "video_number": 21,
+        "local_path": "mathmo_assets/wistia_1kid31g695.mp4"
+      },
+      {
+        "title": "Expanding Surds",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841188/posts/2184141956",
+        "wistia_id": "dfvbw8npyk",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/34e9f9b85b3e05073af2970722d4ee21c05e8eff.mp4",
+        "quality": "720p",
+        "video_number": 22,
+        "local_path": "mathmo_assets/wistia_dfvbw8npyk.mp4"
+      },
+      {
+        "title": "Rationalising The Denominator",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841188/posts/2184141957",
+        "wistia_id": "b4sa3hc71s",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/681fac316126e54143679741d0f868a314c892a8.mp4",
+        "quality": "720p",
+        "video_number": 23,
+        "local_path": "mathmo_assets/wistia_b4sa3hc71s.mp4"
+      },
+      {
+        "title": "Surds With Algebra",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841188/posts/2184141958",
+        "wistia_id": "c81188zvw4",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/399d9194780b3a69e3450b97f8b5b96c0bbd4986.mp4",
+        "quality": "720p",
+        "video_number": 24,
+        "local_path": "mathmo_assets/wistia_c81188zvw4.mp4"
+      },
+      {
+        "title": "Nasty Surds Questions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841188/posts/2184141959",
+        "wistia_id": "jhq98tbwmt",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/409b004c2a8a62507d9be6e488c8a922375aaa30.mp4",
+        "quality": "540p",
+        "video_number": 25,
+        "local_path": "mathmo_assets/wistia_jhq98tbwmt.mp4"
+      },
+      {
+        "title": "Equations Intro",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841153/posts/2184141770",
+        "wistia_id": "z945b9gw3f",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/3b70c6ae4422ed486bed68ba2bb04fae984d23b0.mp4",
+        "quality": "720p",
+        "video_number": 26,
+        "local_path": "mathmo_assets/wistia_z945b9gw3f.mp4"
+      },
+      {
+        "title": "Chucking",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841153/posts/2184141771",
+        "wistia_id": "9jq4gta7mu",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9d3f2ad6398c71fc3829241b35ea8e5ad3ef8726.mp4",
+        "quality": "720p",
+        "video_number": 27,
+        "local_path": "mathmo_assets/wistia_9jq4gta7mu.mp4"
+      },
+      {
+        "title": "Sliding",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841153/posts/2184141772",
+        "wistia_id": "no4i58uvri",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8f026a2af6cb40683ecf8c59aed0f716b924a1a4.mp4",
+        "quality": "720p",
+        "video_number": 28,
+        "local_path": "mathmo_assets/wistia_no4i58uvri.mp4"
+      },
+      {
+        "title": "The Earthquake",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841153/posts/2184141773",
+        "wistia_id": "zlqey53wka",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/96652f9d9d31732e337ccf1ae93fbd09552e297e.mp4",
+        "quality": "720p",
+        "video_number": 29,
+        "local_path": "mathmo_assets/wistia_zlqey53wka.mp4"
+      },
+      {
+        "title": "Solving Equations Practice",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841153/posts/2184141774",
+        "wistia_id": "53yziywrlu",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/0a01bbd1815117b1843fef10fc766e7dcaa1c3a6.mp4",
+        "quality": "720p",
+        "video_number": 30,
+        "local_path": "mathmo_assets/wistia_53yziywrlu.mp4"
+      },
+      {
+        "title": "Using Brackets In Equations",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841153/posts/2184141775",
+        "wistia_id": "69bj1mvbgk",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/be1714a795793a792ba845c0c83ddb6244340368.mp4",
+        "quality": "720p",
+        "video_number": 31,
+        "local_path": "mathmo_assets/wistia_69bj1mvbgk.mp4"
+      },
+      {
+        "title": "Getting Rid Of Fractions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841153/posts/2184141776",
+        "wistia_id": "yeyi86qrje",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/44b0023c562dfb8a9b2671d8107b1c5280ebc3fc.mp4",
+        "quality": "720p",
+        "video_number": 32,
+        "local_path": "mathmo_assets/wistia_yeyi86qrje.mp4"
+      },
+      {
+        "title": "Number Of Terms",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841153/posts/2184141777",
+        "wistia_id": "jwaq2w6xy2",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/2fcec8bd1e4755ad4f787fe73259b973c9b5af8e.mp4",
+        "quality": "720p",
+        "video_number": 33,
+        "local_path": "mathmo_assets/wistia_jwaq2w6xy2.mp4"
+      },
+      {
+        "title": "Squares In Equations (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841153/posts/2184141778",
+        "wistia_id": "atxtihneso",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b9e2de8afb86e89830fbf8a3fb93fafef2f4dd3e.mp4",
+        "quality": "720p",
+        "video_number": 34,
+        "local_path": "mathmo_assets/wistia_atxtihneso.mp4"
+      },
+      {
+        "title": "Algebraic Fractions In Equations (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841153/posts/2184141779",
+        "wistia_id": "ov7y6qi2wc",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ec8361ea19c4c62ea7e61d8f688e63f7064beadb.mp4",
+        "quality": "720p",
+        "video_number": 35,
+        "local_path": "mathmo_assets/wistia_ov7y6qi2wc.mp4"
+      },
+      {
+        "title": "Inequalities Intro",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841154/posts/2184141785",
+        "wistia_id": "8x8ekvz3ux",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f561416e5a4fc39f4761c5c13af4b7db086fee5c.mp4",
+        "quality": "720p",
+        "video_number": 36,
+        "local_path": "mathmo_assets/wistia_8x8ekvz3ux.mp4"
+      },
+      {
+        "title": "Solving Inequalities",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841154/posts/2184141786",
+        "wistia_id": "rlzvplxqfz",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7e66c415dc828f5c36a68a3585aa3068cff49bcd.mp4",
+        "quality": "720p",
+        "video_number": 37,
+        "local_path": "mathmo_assets/wistia_rlzvplxqfz.mp4"
+      },
+      {
+        "title": "3-Part Inequalities",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841154/posts/2184141787",
+        "wistia_id": "8kduol9mlg",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b732ddc0a43511c1e244279798cf5d46b9365a2c.mp4",
+        "quality": "720p",
+        "video_number": 38,
+        "local_path": "mathmo_assets/wistia_8kduol9mlg.mp4"
+      },
+      {
+        "title": "Quadratic Inequalities (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841154/posts/2184141788",
+        "wistia_id": "zq3n4u8eyz",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5ff987ec0fcedeae5b874e27d74f7c6f5ab2fcee.mp4",
+        "quality": "720p",
+        "video_number": 39,
+        "local_path": "mathmo_assets/wistia_zq3n4u8eyz.mp4"
+      },
+      {
+        "title": "Simultaneous Equations (Substitution)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841155/posts/2184141790",
+        "wistia_id": "yl2p0cy9ef",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/97112673c17e68040eab727cc2921eb8b8b9df96.mp4",
+        "quality": "720p",
+        "video_number": 40,
+        "local_path": "mathmo_assets/wistia_yl2p0cy9ef.mp4"
+      },
+      {
+        "title": "Simultaneous Equations (Elimination)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841155/posts/2184141791",
+        "wistia_id": "wpgpw664ud",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c1531a60c5021a9623d6969f4cf9fb8cc1c9554b.mp4",
+        "quality": "720p",
+        "video_number": 41,
+        "local_path": "mathmo_assets/wistia_wpgpw664ud.mp4"
+      },
+      {
+        "title": "Quadratics Intro",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841184/posts/2184141930",
+        "wistia_id": "hiz0tanxi1",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/629c9cdb00f3a01e2afdbe612a4a0c439409249e.mp4",
+        "quality": "720p",
+        "video_number": 42,
+        "local_path": "mathmo_assets/wistia_hiz0tanxi1.mp4"
+      },
+      {
+        "title": "Factorising Quadratics",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841184/posts/2184141931",
+        "wistia_id": "uazxppzt9u",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/e02c657f28f03fb19d542ec21a00511c62ea4690.mp4",
+        "quality": "720p",
+        "video_number": 43,
+        "local_path": "mathmo_assets/wistia_uazxppzt9u.mp4"
+      },
+      {
+        "title": "Factorising Harder Quadratics (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841184/posts/2184141932",
+        "wistia_id": "9m63y26ppz",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f1c69601247cdc430d1a1b8c1b401a7f5a532298.mp4",
+        "quality": "720p",
+        "video_number": 44,
+        "local_path": "mathmo_assets/wistia_9m63y26ppz.mp4"
+      },
+      {
+        "title": "Solving Quadratics",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841184/posts/2184141933",
+        "wistia_id": "44h8t7ml63",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/e8a456d6e0efdf22649272e1b9c178c4c5d62d05.mp4",
+        "quality": "720p",
+        "video_number": 45,
+        "local_path": "mathmo_assets/wistia_44h8t7ml63.mp4"
+      },
+      {
+        "title": "Quadratic Formula (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841184/posts/2184141934",
+        "wistia_id": "hbwn9zlvg7",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/320c67c8252ca81ea7b2d25b98199d2227b54fc3.mp4",
+        "quality": "720p",
+        "video_number": 46,
+        "local_path": "mathmo_assets/wistia_hbwn9zlvg7.mp4"
+      },
+      {
+        "title": "Solving Harder Quadratics (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841184/posts/2184141935",
+        "wistia_id": "doxy2uzcj4",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a008646ea7e687891bb7fa19f1655c30cb8d8c2e.mp4",
+        "quality": "720p",
+        "video_number": 47,
+        "local_path": "mathmo_assets/wistia_doxy2uzcj4.mp4"
+      },
+      {
+        "title": "Simplifying Quadratics (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841184/posts/2184141936",
+        "wistia_id": "nnor2iufyh",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/89861809e717d5192eb1c3cd58864f06137a6002.mp4",
+        "quality": "720p",
+        "video_number": 48,
+        "local_path": "mathmo_assets/wistia_nnor2iufyh.mp4"
+      },
+      {
+        "title": "Completing The Square (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841184/posts/2184141937",
+        "wistia_id": "1iof56fc7v",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/edaa0b2f8f0edd19fdc0e2ae9570dbf546d95946.mp4",
+        "quality": "720p",
+        "video_number": 49,
+        "local_path": "mathmo_assets/wistia_1iof56fc7v.mp4"
+      },
+      {
+        "title": "Nasty Completing The Square (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841184/posts/2184141938",
+        "wistia_id": "2n45uksjhn",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/1960552f571674605e3a28c313e5bc91b42ba45c.mp4",
+        "quality": "720p",
+        "video_number": 50,
+        "local_path": "mathmo_assets/wistia_2n45uksjhn.mp4"
+      },
+      {
+        "title": "Quadratics In Algebraic Fractions (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841184/posts/2184141939",
+        "wistia_id": "avrkvaw7uw",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/99c1556f860ba236ee71c53bdee5e3ae9c459b7e.mp4",
+        "quality": "720p",
+        "video_number": 51,
+        "local_path": "mathmo_assets/wistia_avrkvaw7uw.mp4"
+      },
+      {
+        "title": "Number Sequences",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841185/posts/2184141942",
+        "wistia_id": "ta95gbjrw0",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/897107807750bb0064f7d8ef0d9c001964f35bba.mp4",
+        "quality": "720p",
+        "video_number": 52,
+        "local_path": "mathmo_assets/wistia_ta95gbjrw0.mp4"
+      },
+      {
+        "title": "Fibonacci Sequences",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841185/posts/2184141943",
+        "wistia_id": "sawjz274qe",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/afb884027e6cd60d45904c0a78f536412c418bf0.mp4",
+        "quality": "720p",
+        "video_number": 53,
+        "local_path": "mathmo_assets/wistia_sawjz274qe.mp4"
+      },
+      {
+        "title": "Triangular Numbers",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841185/posts/2184141944",
+        "wistia_id": "powv9gloyb",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/72ded4398a6a6f4d675738461d7e9caf56d30fc2.mp4",
+        "quality": "720p",
+        "video_number": 54,
+        "local_path": "mathmo_assets/wistia_powv9gloyb.mp4"
+      },
+      {
+        "title": "Square & Cube Numbers",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841185/posts/2184141945",
+        "wistia_id": "4o2xa4uw24",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/cc1c2ff8f856c10f76f1189a691b993ca0924c54.mp4",
+        "quality": "720p",
+        "video_number": 55,
+        "local_path": "mathmo_assets/wistia_4o2xa4uw24.mp4"
+      },
+      {
+        "title": "Shape Sequences",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841185/posts/2184141946",
+        "wistia_id": "0ru7yq6q5y",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8ba41e32031fc28a8b6fb5c24bf0fcd913b6eb07.mp4",
+        "quality": "720p",
+        "video_number": 56,
+        "local_path": "mathmo_assets/wistia_0ru7yq6q5y.mp4"
+      },
+      {
+        "title": "Geometric Progressions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841185/posts/2184141947",
+        "wistia_id": "2mon4z0jjo",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4d98ecc928edd45709e44456fd29db7e553a13f4.mp4",
+        "quality": "720p",
+        "video_number": 57,
+        "local_path": "mathmo_assets/wistia_2mon4z0jjo.mp4"
+      },
+      {
+        "title": "nth Term",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841185/posts/2184141948",
+        "wistia_id": "5yhkek1lyq",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d0830047d7bdd970282d202f545bf8ff74ef84e0.mp4",
+        "quality": "720p",
+        "video_number": 58,
+        "local_path": "mathmo_assets/wistia_5yhkek1lyq.mp4"
+      },
+      {
+        "title": "Finding The nth Term",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841185/posts/2184141949",
+        "wistia_id": "e8c2kic8vy",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c50791c5ca4bb0b69fe70df26807e915623a7169.mp4",
+        "quality": "720p",
+        "video_number": 59,
+        "local_path": "mathmo_assets/wistia_e8c2kic8vy.mp4"
+      },
+      {
+        "title": "Harder Sequences Questions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841185/posts/2184141950",
+        "wistia_id": "xr6f9vmze6",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6d56fbec31b96b27e38b40b69a11346f4a21a35a.mp4",
+        "quality": "720p",
+        "video_number": 60,
+        "local_path": "mathmo_assets/wistia_xr6f9vmze6.mp4"
+      },
+      {
+        "title": "Arithmetic Series (IGCSE Higher only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841185/posts/2184148534",
+        "wistia_id": "8hi4272sc4",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/174f240a3aafeefa3b3add4866bdd5c8dda63b81.mp4",
+        "quality": "720p",
+        "video_number": 61,
+        "local_path": "mathmo_assets/wistia_8hi4272sc4.mp4"
+      },
+      {
+        "title": "Disproof By Counterexample",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841186/posts/2184141951",
+        "wistia_id": "9b373vakyk",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5b3684b84ec62900b0d7f2361798462c2557219a.mp4",
+        "quality": "720p",
+        "video_number": 62,
+        "local_path": "mathmo_assets/wistia_9b373vakyk.mp4"
+      },
+      {
+        "title": "Proof",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841186/posts/2184141952",
+        "wistia_id": "4cslfoecou",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8055078c50c88ea9f236fbfe6226b8cd0188ba42.mp4",
+        "quality": "720p",
+        "video_number": 63,
+        "local_path": "mathmo_assets/wistia_4cslfoecou.mp4"
+      },
+      {
+        "title": "Functions Intro",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841182/posts/2184141926",
+        "wistia_id": "q7xae8reho",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/000cb4ba2ee82238c25f18c074ba44fb6b9ce684.mp4",
+        "quality": "720p",
+        "video_number": 64,
+        "local_path": "mathmo_assets/wistia_q7xae8reho.mp4"
+      },
+      {
+        "title": "Composite Functions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841182/posts/2184141927",
+        "wistia_id": "pgjzrfu9uo",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7f643b524fd72d10d649c71f475ca9dfb3fefcc3.mp4",
+        "quality": "720p",
+        "video_number": 65,
+        "local_path": "mathmo_assets/wistia_pgjzrfu9uo.mp4"
+      },
+      {
+        "title": "Inverse Functions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841182/posts/2184141928",
+        "wistia_id": "4tl2lto2zr",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/21aa854a001ebd7b842013ce2d2536e1496b2501.mp4",
+        "quality": "720p",
+        "video_number": 66,
+        "local_path": "mathmo_assets/wistia_4tl2lto2zr.mp4"
+      },
+      {
+        "title": "Range & Domain (IGCSE Higher only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841182/posts/2184149384",
+        "wistia_id": "1iq3e6f8yf",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4324f4a58061a079a913608d705b0a7e3dd18667.mp4",
+        "quality": "720p",
+        "video_number": 67,
+        "local_path": "mathmo_assets/wistia_1iq3e6f8yf.mp4"
+      },
+      {
+        "title": "Excluding Values From A Domain (IGCSE Higher only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841182/posts/2184149388",
+        "wistia_id": "8tlyoh2av7",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4a93919841d692943d57fddfbdb485216975385f.mp4",
+        "quality": "720p",
+        "video_number": 68,
+        "local_path": "mathmo_assets/wistia_8tlyoh2av7.mp4"
+      },
+      {
+        "title": "Nasty Functions Questions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841182/posts/2184141929",
+        "wistia_id": "krp29kenss",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6cdc21be96e8fba95b662a22bad5272da61a41a1.mp4",
+        "quality": "720p",
+        "video_number": 69,
+        "local_path": "mathmo_assets/wistia_krp29kenss.mp4"
+      },
+      {
+        "title": "Iteration Basics",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2157625650/posts/2187568131",
+        "wistia_id": "dp96cqruu5",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/40d0e053848de1083778e4280f4b1f93be02af67.mp4",
+        "quality": "1080p",
+        "video_number": 70,
+        "local_path": "mathmo_assets/wistia_dp96cqruu5.mp4"
+      },
+      {
+        "title": "Harder Iteration",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2157625650/posts/2187568137",
+        "wistia_id": "gy6a41zuuy",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4bb9b0927980e6ddc63eb61fca1be31d775a6fd8.mp4",
+        "quality": "1080p",
+        "video_number": 71,
+        "local_path": "mathmo_assets/wistia_gy6a41zuuy.mp4"
+      }
+    ],
+    "module_number": 2.0
+  },
+  {
+    "module_name": "3 - Graphs",
+    "module_id": "2156841175",
+    "videos": [
+      {
+        "title": "Coordinates & Quadrants",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841176/posts/2184141884",
+        "wistia_id": "o562xsn6in",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f0e9300181d47326758022fc45d1acb0831e6b1b.mp4",
+        "quality": "720p",
+        "video_number": 1,
+        "local_path": "mathmo_assets/wistia_o562xsn6in.mp4"
+      },
+      {
+        "title": "Midpoint",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841176/posts/2184141885",
+        "wistia_id": "m65gmb0qzg",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/109b98ee38559d2dead9c5cf85cd420257c0e67e.mp4",
+        "quality": "720p",
+        "video_number": 2,
+        "local_path": "mathmo_assets/wistia_m65gmb0qzg.mp4"
+      },
+      {
+        "title": "Horizontal & Vertical Lines",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841176/posts/2184141886",
+        "wistia_id": "bjhfjx7xz4",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/76b476567d1b22dbb3397f948ebd70ae7f0f1f3f.mp4",
+        "quality": "720p",
+        "video_number": 3,
+        "local_path": "mathmo_assets/wistia_bjhfjx7xz4.mp4"
+      },
+      {
+        "title": "Gradient",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841176/posts/2184141887",
+        "wistia_id": "1n4ewxk1v0",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7a9dc825b10d7b6ffd6ae9ee806247235b4f0e72.mp4",
+        "quality": "720p",
+        "video_number": 4,
+        "local_path": "mathmo_assets/wistia_1n4ewxk1v0.mp4"
+      },
+      {
+        "title": "y = mx + c",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841176/posts/2184141888",
+        "wistia_id": "gpvtkpbkjx",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ddbcb0ce18eb774e312fc18e952f4937166ab12f.mp4",
+        "quality": "720p",
+        "video_number": 5,
+        "local_path": "mathmo_assets/wistia_gpvtkpbkjx.mp4"
+      },
+      {
+        "title": "Straight Lines Through The Origin",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841176/posts/2184141889",
+        "wistia_id": "wwliyd10g2",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c803a121e97b97910dee62d61225fd1c4bc531e6.mp4",
+        "quality": "720p",
+        "video_number": 6,
+        "local_path": "mathmo_assets/wistia_wwliyd10g2.mp4"
+      },
+      {
+        "title": "Rearranging",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841176/posts/2184141890",
+        "wistia_id": "7lawunacof",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/66a306a91c186ee1424bbc5deda23a2b05ca7109.mp4",
+        "quality": "720p",
+        "video_number": 7,
+        "local_path": "mathmo_assets/wistia_7lawunacof.mp4"
+      },
+      {
+        "title": "Parallel Lines",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841176/posts/2184141891",
+        "wistia_id": "dooozenddk",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/daecdf74174904868496e1af21619f786ddc0372.mp4",
+        "quality": "720p",
+        "video_number": 8,
+        "local_path": "mathmo_assets/wistia_dooozenddk.mp4"
+      },
+      {
+        "title": "Table Of Values",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841176/posts/2184141892",
+        "wistia_id": "jzd1jn1b40",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/493c7502e401c776c1dc0fcc5024d8448ffa7cf7.mp4",
+        "quality": "720p",
+        "video_number": 9,
+        "local_path": "mathmo_assets/wistia_jzd1jn1b40.mp4"
+      },
+      {
+        "title": "x=0, y=0",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841176/posts/2184141893",
+        "wistia_id": "kfspfblom9",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ebf5c6b758a76e3c6a095b64991f0c32ac764bcf.mp4",
+        "quality": "720p",
+        "video_number": 10,
+        "local_path": "mathmo_assets/wistia_kfspfblom9.mp4"
+      },
+      {
+        "title": "Quadratic Graphs Intro",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841178/posts/2184141900",
+        "wistia_id": "zbxcouvd8c",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4be2612cbd0af3a35f2ea2e9011c8a5c60e93af7.mp4",
+        "quality": "720p",
+        "video_number": 11,
+        "local_path": "mathmo_assets/wistia_zbxcouvd8c.mp4"
+      },
+      {
+        "title": "Plotting Quadratics",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841178/posts/2184141901",
+        "wistia_id": "p07pl9k1ku",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/60c9da7230095f3e4c237973015a249134efd3a6.mp4",
+        "quality": "720p",
+        "video_number": 12,
+        "local_path": "mathmo_assets/wistia_p07pl9k1ku.mp4"
+      },
+      {
+        "title": "Turning Points",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841178/posts/2184141902",
+        "wistia_id": "umjtv0099e",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/2bf8bad250681670cdbfd8277d1b76d35119e2f5.mp4",
+        "quality": "720p",
+        "video_number": 13,
+        "local_path": "mathmo_assets/wistia_umjtv0099e.mp4"
+      },
+      {
+        "title": "Turning Points (Completing The Square) (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841178/posts/2184141903",
+        "wistia_id": "kacali33id",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6098f6a5d0a4e9d000b3868a7fcb58c8eb191bfe.mp4",
+        "quality": "720p",
+        "video_number": 14,
+        "local_path": "mathmo_assets/wistia_kacali33id.mp4"
+      },
+      {
+        "title": "Roots",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841178/posts/2184141904",
+        "wistia_id": "psa9hepp63",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/e24b4151797f05d12d04923582cb23e71b43024e.mp4",
+        "quality": "720p",
+        "video_number": 15,
+        "local_path": "mathmo_assets/wistia_psa9hepp63.mp4"
+      },
+      {
+        "title": "Sketching Quadratics (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841178/posts/2184141905",
+        "wistia_id": "u2he5qrpbh",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6f9861c870bb5f878aff0c821ceff80c293e06f5.mp4",
+        "quality": "720p",
+        "video_number": 16,
+        "local_path": "mathmo_assets/wistia_u2he5qrpbh.mp4"
+      },
+      {
+        "title": "Cubic Graphs",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841178/posts/2184141906",
+        "wistia_id": "u726erncqp",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4929c12ed6a42f69dd9f82336320c558ee87600c.mp4",
+        "quality": "720p",
+        "video_number": 17,
+        "local_path": "mathmo_assets/wistia_u726erncqp.mp4"
+      },
+      {
+        "title": "Reciprocal Graphs",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841178/posts/2184141907",
+        "wistia_id": "3dbwtetqsl",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a836889c5643227e64943098fe36c3ecb521b1cb.mp4",
+        "quality": "720p",
+        "video_number": 18,
+        "local_path": "mathmo_assets/wistia_3dbwtetqsl.mp4"
+      },
+      {
+        "title": "Exponential Graphs (GCSE Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841178/posts/2184141908",
+        "wistia_id": "jz2fny95i3",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f0bd0e47091802540ac9b6d1d2ecabf56987f2e8.mp4",
+        "quality": "720p",
+        "video_number": 19,
+        "local_path": "mathmo_assets/wistia_jz2fny95i3.mp4"
+      },
+      {
+        "title": "1/x^2 Graphs (IGCSE Higher only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841178/posts/2184149074",
+        "wistia_id": "81agehj0kx",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/72adccbe4e14259f3dc917da72727ec89b437fa6.mp4",
+        "quality": "720p",
+        "video_number": 20,
+        "local_path": "mathmo_assets/wistia_81agehj0kx.mp4"
+      },
+      {
+        "title": "Simultaneous Equations On Graphs",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841180/posts/2184141911",
+        "wistia_id": "ixoo4xm5v5",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6a09ded78b57949dce7d3cb2e9f44235ec89df90.mp4",
+        "quality": "720p",
+        "video_number": 21,
+        "local_path": "mathmo_assets/wistia_ixoo4xm5v5.mp4"
+      },
+      {
+        "title": "Nasty Simultaneous Equations On Graphs (GCSE Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841180/posts/2184552576",
+        "wistia_id": "t3z574ftcg",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a101f68d96757d4dac4189384ca9197ad50e9e04.mp4",
+        "quality": "720p",
+        "video_number": 22,
+        "local_path": "mathmo_assets/wistia_t3z574ftcg.mp4"
+      },
+      {
+        "title": "Estimating Gradient (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841180/posts/2184141912",
+        "wistia_id": "adpyngknk8",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/72befe104605756c1439d863289ee89c0a6b8e85.mp4",
+        "quality": "720p",
+        "video_number": 23,
+        "local_path": "mathmo_assets/wistia_adpyngknk8.mp4"
+      },
+      {
+        "title": "Graph = k",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841180/posts/2184141913",
+        "wistia_id": "a48vxzrype",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d0fa7e93d5b9aca6f87685d37afc71813a460687.mp4",
+        "quality": "720p",
+        "video_number": 24,
+        "local_path": "mathmo_assets/wistia_a48vxzrype.mp4"
+      },
+      {
+        "title": "Nasty Graph = k (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841180/posts/2184141914",
+        "wistia_id": "2wl7kvei7k",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a6dc9ac55dbde5799fb77af5436e3272b201cb66.mp4",
+        "quality": "720p",
+        "video_number": 25,
+        "local_path": "mathmo_assets/wistia_2wl7kvei7k.mp4"
+      },
+      {
+        "title": "Drawing A Suitable Straight Line (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841180/posts/2184141915",
+        "wistia_id": "bzb5qf9a99",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/13319cbb5e07241a183702a476a7fdfbe5380342.mp4",
+        "quality": "720p",
+        "video_number": 26,
+        "local_path": "mathmo_assets/wistia_bzb5qf9a99.mp4"
+      },
+      {
+        "title": "Graph Transformations (Translation) (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841180/posts/2184141916",
+        "wistia_id": "134e9ai83g",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/56e8be8d41f40a0f3289ae75427b4a97bf09c22e.mp4",
+        "quality": "720p",
+        "video_number": 27,
+        "local_path": "mathmo_assets/wistia_134e9ai83g.mp4"
+      },
+      {
+        "title": "Graph Transformations (Reflection) (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841180/posts/2184141917",
+        "wistia_id": "zd71mfjifa",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/bde4acea7da2d36e23515caa0fb6115428942a2e.mp4",
+        "quality": "720p",
+        "video_number": 28,
+        "local_path": "mathmo_assets/wistia_zd71mfjifa.mp4"
+      },
+      {
+        "title": "Graph Transformations (Stretches) (IGCSE Higher only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841180/posts/2184149097",
+        "wistia_id": "uml6t9f4kt",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/80643a6a67f63467c12251d7f72a4edeae4de38e.mp4",
+        "quality": "720p",
+        "video_number": 29,
+        "local_path": "mathmo_assets/wistia_uml6t9f4kt.mp4"
+      },
+      {
+        "title": "Conversion Graphs",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841181/posts/2184141918",
+        "wistia_id": "3tf3zicxpt",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/49212ab93fa9ab8c20c62fa41443f18215679fec.mp4",
+        "quality": "720p",
+        "video_number": 30,
+        "local_path": "mathmo_assets/wistia_3tf3zicxpt.mp4"
+      },
+      {
+        "title": "Money And Time Graphs",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841181/posts/2184141919",
+        "wistia_id": "xekmk8gv8n",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ead5afc4c0f6df898a3b41a3d5b06df529396e79.mp4",
+        "quality": "720p",
+        "video_number": 31,
+        "local_path": "mathmo_assets/wistia_xekmk8gv8n.mp4"
+      },
+      {
+        "title": "Proportion Graphs (Foundation)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841181/posts/2184149144",
+        "wistia_id": "xeao1akgqc",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6f5afd79ea510ca23e2b6eded446443ba7d7b01a.mp4",
+        "quality": "720p",
+        "video_number": 32,
+        "local_path": "mathmo_assets/wistia_xeao1akgqc.mp4"
+      },
+      {
+        "title": "Proportion Graphs (Higher)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841181/posts/2184141920",
+        "wistia_id": "rsttx1tgah",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6281a0fabb1a905f2ec582c7a52e4ad17f157057.mp4",
+        "quality": "720p",
+        "video_number": 33,
+        "local_path": "mathmo_assets/wistia_rsttx1tgah.mp4"
+      },
+      {
+        "title": "Harder Proportion Graphs (GCSE Higher only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841181/posts/2184141922",
+        "wistia_id": "tmku86tlig",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5486fa07e287a099540c7d53d93f317024b2f1a7.mp4",
+        "quality": "720p",
+        "video_number": 34,
+        "local_path": "mathmo_assets/wistia_tmku86tlig.mp4"
+      },
+      {
+        "title": "Distance-Time Graphs",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841181/posts/2184141923",
+        "wistia_id": "to86h7zrc1",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/e60ac37f37e624b92ae0ec0faa651696db2a5712.mp4",
+        "quality": "720p",
+        "video_number": 35,
+        "local_path": "mathmo_assets/wistia_to86h7zrc1.mp4"
+      },
+      {
+        "title": "Speed-Time Graphs",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841181/posts/2184141924",
+        "wistia_id": "cfauef6mtj",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8e04617026ef351d515e38d0d8dcf855e3061973.mp4",
+        "quality": "720p",
+        "video_number": 36,
+        "local_path": "mathmo_assets/wistia_cfauef6mtj.mp4"
+      },
+      {
+        "title": "Estimating Rate Of Change (GCSE Higher only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841181/posts/2184141925",
+        "wistia_id": "dk4oe533lj",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9dbea16e9d53801f70a263c095e86dc6ba1e58e5.mp4",
+        "quality": "720p",
+        "video_number": 37,
+        "local_path": "mathmo_assets/wistia_dk4oe533lj.mp4"
+      },
+      {
+        "title": "How To Differentiate",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841843/posts/2184149465",
+        "wistia_id": "kcpkjmi3aq",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/31e83e41ff0eb2ba4335a77c699f93660cae65df.mp4",
+        "quality": "720p",
+        "video_number": 38,
+        "local_path": "mathmo_assets/wistia_kcpkjmi3aq.mp4"
+      },
+      {
+        "title": "When To Differentiate",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841843/posts/2184149468",
+        "wistia_id": "4dw00zsu3b",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9f7d0bca715a23db7c3c014b2f2b461f84d60919.mp4",
+        "quality": "720p",
+        "video_number": 39,
+        "local_path": "mathmo_assets/wistia_4dw00zsu3b.mp4"
+      },
+      {
+        "title": "Differentiation Questions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841843/posts/2184149472",
+        "wistia_id": "lsqd9sez0d",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/0207f3d29ece44c9094530d62d736d89081b9aea.mp4",
+        "quality": "720p",
+        "video_number": 40,
+        "local_path": "mathmo_assets/wistia_lsqd9sez0d.mp4"
+      },
+      {
+        "title": "Displacement, Velocity & Acceleration",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841843/posts/2184149476",
+        "wistia_id": "3rlpzu3f5m",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/dd8e3a1a14236cdded7535594ed1c0e9fceb2ad9.mp4",
+        "quality": "720p",
+        "video_number": 41,
+        "local_path": "mathmo_assets/wistia_3rlpzu3f5m.mp4"
+      },
+      {
+        "title": "Maximum Or Minimum",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841843/posts/2184149478",
+        "wistia_id": "h2pm3rop6k",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/3b850c6b36e6de6fcab573bfbf3cf2d2f3787587.mp4",
+        "quality": "720p",
+        "video_number": 42,
+        "local_path": "mathmo_assets/wistia_h2pm3rop6k.mp4"
+      }
+    ],
+    "module_number": 3.0
+  },
+  {
+    "module_name": "4 - Ratio, Proportion & Rates of Change",
+    "module_id": "2156841145",
+    "videos": [
+      {
+        "title": "Ratios Intro",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841146/posts/2184141733",
+        "wistia_id": "ikyp34fyrp",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ad6e180c705d3ea4b4237a6b4941fdf8104af388.mp4",
+        "quality": "540p",
+        "video_number": 1,
+        "local_path": "mathmo_assets/wistia_ikyp34fyrp.mp4"
+      },
+      {
+        "title": "Simplifying Ratios",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841146/posts/2184141734",
+        "wistia_id": "2u84aro0p6",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/3174143d1a158ca10da246a6d61efbfb24f6489c.mp4",
+        "quality": "540p",
+        "video_number": 2,
+        "local_path": "mathmo_assets/wistia_2u84aro0p6.mp4"
+      },
+      {
+        "title": "Using Ratios",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841146/posts/2184141735",
+        "wistia_id": "labri21ljc",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7c899c6c96ee3d4d08514680a0c13468d30296f7.mp4",
+        "quality": "540p",
+        "video_number": 3,
+        "local_path": "mathmo_assets/wistia_labri21ljc.mp4"
+      },
+      {
+        "title": "Best Buy",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841146/posts/2184141736",
+        "wistia_id": "850d49upec",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6813a49abec051f8d22f2265eb9dd7c9d9239414.mp4",
+        "quality": "540p",
+        "video_number": 4,
+        "local_path": "mathmo_assets/wistia_850d49upec.mp4"
+      },
+      {
+        "title": "Recipes",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841146/posts/2184148174",
+        "wistia_id": "mssupi6qsk",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/34d741a382e500bf8cdf0bf1542ef6fd65e3f9a7.mp4",
+        "quality": "540p",
+        "video_number": 5,
+        "local_path": "mathmo_assets/wistia_mssupi6qsk.mp4"
+      },
+      {
+        "title": "Proportion",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841146/posts/2184141737",
+        "wistia_id": "jk0muw05ja",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/52182dd93469f20375bd17c5c60c2d5c86106851.mp4",
+        "quality": "540p",
+        "video_number": 6,
+        "local_path": "mathmo_assets/wistia_jk0muw05ja.mp4"
+      },
+      {
+        "title": "Inverse Proportion (Numbers Only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841146/posts/2184141738",
+        "wistia_id": "sjh72xulrd",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5b9f7245d8fb1cfb7ec8eb3ac78380cb52c9a831.mp4",
+        "quality": "540p",
+        "video_number": 7,
+        "local_path": "mathmo_assets/wistia_sjh72xulrd.mp4"
+      },
+      {
+        "title": "Using Difference in Ratios (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841146/posts/2184141739",
+        "wistia_id": "ndr8iplvta",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/14e742ef724fc4ae7be2d7f56e46b6cbfd6dcc89.mp4",
+        "quality": "540p",
+        "video_number": 8,
+        "local_path": "mathmo_assets/wistia_ndr8iplvta.mp4"
+      },
+      {
+        "title": "Writing Ratios As Fractions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841146/posts/2184141740",
+        "wistia_id": "qro1ei13to",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/87408ac146a83ccc9145d43c3fc6d4f13fd6c419.mp4",
+        "quality": "540p",
+        "video_number": 9,
+        "local_path": "mathmo_assets/wistia_qro1ei13to.mp4"
+      },
+      {
+        "title": "Direct & Inverse Proportion (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841146/posts/2184141741",
+        "wistia_id": "ypxrn2ivfc",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b940e067b832d6867347bb866755822ffaec0b72.mp4",
+        "quality": "540p",
+        "video_number": 10,
+        "local_path": "mathmo_assets/wistia_ypxrn2ivfc.mp4"
+      },
+      {
+        "title": "Percentage Basics",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841143/posts/2184141728",
+        "wistia_id": "z69p3tzwah",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/21696ddf8da165b62eb3a9e26b9ea0b9e946aec5.mp4",
+        "quality": "540p",
+        "video_number": 11,
+        "local_path": "mathmo_assets/wistia_z69p3tzwah.mp4"
+      },
+      {
+        "title": "One Pound Theory",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841143/posts/2184141729",
+        "wistia_id": "biogn15unq",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/635afc81600fbcd70ea7f081b0edbac82a7869db.mp4",
+        "quality": "540p",
+        "video_number": 12,
+        "local_path": "mathmo_assets/wistia_biogn15unq.mp4"
+      },
+      {
+        "title": "Reverse Percentages",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841143/posts/2184141730",
+        "wistia_id": "97trzartz4",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f001de17ad826594da5a1e53bea34f225f5f83b3.mp4",
+        "quality": "720p",
+        "video_number": 13,
+        "local_path": "mathmo_assets/wistia_97trzartz4.mp4"
+      },
+      {
+        "title": "Converting Units",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841147/posts/2184141745",
+        "wistia_id": "r47mvq9cud",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/bbe4e1d49d910745ff265383bfe4b40341f1b9a5.mp4",
+        "quality": "540p",
+        "video_number": 14,
+        "local_path": "mathmo_assets/wistia_r47mvq9cud.mp4"
+      },
+      {
+        "title": "Exchange Rates",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841147/posts/2184141746",
+        "wistia_id": "ofdvihwyqw",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6f4381883210ee1b0f68b8ed6337555f7be3218c.mp4",
+        "quality": "540p",
+        "video_number": 15,
+        "local_path": "mathmo_assets/wistia_ofdvihwyqw.mp4"
+      },
+      {
+        "title": "Converting Compound Units",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841147/posts/2184141747",
+        "wistia_id": "0j68hgeogr",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/35bbcf55ca7807456a2a0723468b89e378423c0c.mp4",
+        "quality": "540p",
+        "video_number": 16,
+        "local_path": "mathmo_assets/wistia_0j68hgeogr.mp4"
+      },
+      {
+        "title": "Converting Units (Areas & Volumes)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841147/posts/2184141748",
+        "wistia_id": "6lfs0x0y8l",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c6b2b3dc575e717666eb35e4b324207ef745c43e.mp4",
+        "quality": "540p",
+        "video_number": 17,
+        "local_path": "mathmo_assets/wistia_6lfs0x0y8l.mp4"
+      },
+      {
+        "title": "Speed, Density & Pressure",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841147/posts/2184141749",
+        "wistia_id": "besqxvpquw",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/eabbb72da3b697795c31bc6b53316d78fa12d23a.mp4",
+        "quality": "540p",
+        "video_number": 18,
+        "local_path": "mathmo_assets/wistia_besqxvpquw.mp4"
+      },
+      {
+        "title": "Nasty Speed, Density & Pressure Questions (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841147/posts/2184141750",
+        "wistia_id": "2f5vhtkfjt",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ef97c637d4b12517be0f71a218a152c6c21bdce7.mp4",
+        "quality": "540p",
+        "video_number": 19,
+        "local_path": "mathmo_assets/wistia_2f5vhtkfjt.mp4"
+      }
+    ],
+    "module_number": 4.0
+  },
+  {
+    "module_name": "5 - Geometry & Measures",
+    "module_id": "2156841156",
+    "videos": [
+      {
+        "title": "Angles Basics",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841157/posts/2184141792",
+        "wistia_id": "ocyv2vdu1o",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/da503197b0e8f90c5cf13448545e986d0938ebea.mp4",
+        "quality": "720p",
+        "video_number": 1,
+        "local_path": "mathmo_assets/wistia_ocyv2vdu1o.mp4"
+      },
+      {
+        "title": "Angles Inside Triangles",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841157/posts/2184141793",
+        "wistia_id": "imftpts39x",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b1e7bf57cf62bf1b68cccd7f39fffbe3d9f3dc47.mp4",
+        "quality": "720p",
+        "video_number": 2,
+        "local_path": "mathmo_assets/wistia_imftpts39x.mp4"
+      },
+      {
+        "title": "Angles Inside Polygons",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841157/posts/2184141794",
+        "wistia_id": "xrgw0b8nvi",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7795b54c18f3cc8d95e3def85d8c2717789d67a4.mp4",
+        "quality": "720p",
+        "video_number": 3,
+        "local_path": "mathmo_assets/wistia_xrgw0b8nvi.mp4"
+      },
+      {
+        "title": "Parallel Lines",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841157/posts/2184141795",
+        "wistia_id": "3x5xxxwttt",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4bac8f89aa5155810b258604df476cbb765b2095.mp4",
+        "quality": "720p",
+        "video_number": 4,
+        "local_path": "mathmo_assets/wistia_3x5xxxwttt.mp4"
+      },
+      {
+        "title": "Regular Polygons",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841157/posts/2184141796",
+        "wistia_id": "jxguhwadew",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/3e07a64e77b21b5bde9b1d83aa419131421a7476.mp4",
+        "quality": "720p",
+        "video_number": 5,
+        "local_path": "mathmo_assets/wistia_jxguhwadew.mp4"
+      },
+      {
+        "title": "Nasty Angles Questions (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841157/posts/2184141797",
+        "wistia_id": "1modtmv8pm",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f85a8e23055e2fddb17c40dfb7fe4f28714db77a.mp4",
+        "quality": "720p",
+        "video_number": 6,
+        "local_path": "mathmo_assets/wistia_1modtmv8pm.mp4"
+      },
+      {
+        "title": "Polygon Names",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841158/posts/2184141798",
+        "wistia_id": "civy2udarc",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/e0653b6dcf4841484e1ddcceb6028c63891e99a1.mp4",
+        "quality": "720p",
+        "video_number": 7,
+        "local_path": "mathmo_assets/wistia_civy2udarc.mp4"
+      },
+      {
+        "title": "Types Of Triangle",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841158/posts/2184141799",
+        "wistia_id": "c1z7kbz9h4",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/96b78a16afe32018d4f803b9bb9aca2ad691c014.mp4",
+        "quality": "720p",
+        "video_number": 8,
+        "local_path": "mathmo_assets/wistia_c1z7kbz9h4.mp4"
+      },
+      {
+        "title": "Types of Quadrilateral",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841158/posts/2184141800",
+        "wistia_id": "k63uoj6abu",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9b1920dde070d5c682113489ed263365552940f1.mp4",
+        "quality": "720p",
+        "video_number": 9,
+        "local_path": "mathmo_assets/wistia_k63uoj6abu.mp4"
+      },
+      {
+        "title": "Symmetry",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841158/posts/2184141801",
+        "wistia_id": "vbtas3rxc6",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8c1e795f56a3475472446992550761405c581dea.mp4",
+        "quality": "720p",
+        "video_number": 10,
+        "local_path": "mathmo_assets/wistia_vbtas3rxc6.mp4"
+      },
+      {
+        "title": "Congruent Triangles",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841158/posts/2184141802",
+        "wistia_id": "u0bcz6y6xm",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c1999d0c96d7fc286b0e63eb0565387277cc62e1.mp4",
+        "quality": "540p",
+        "video_number": 11,
+        "local_path": "mathmo_assets/wistia_u0bcz6y6xm.mp4"
+      },
+      {
+        "title": "Similar Shapes",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841158/posts/2184141803",
+        "wistia_id": "upogl9vnaf",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/067b0f51fc76cdc386683b9887fbfaaf2dfaef94.mp4",
+        "quality": "540p",
+        "video_number": 12,
+        "local_path": "mathmo_assets/wistia_upogl9vnaf.mp4"
+      },
+      {
+        "title": "Nasty Similar Shapes (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841158/posts/2184141804",
+        "wistia_id": "8ycgeijq9d",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6e52a6981a06abcb48782bcc1497899b4d9172d0.mp4",
+        "quality": "540p",
+        "video_number": 13,
+        "local_path": "mathmo_assets/wistia_8ycgeijq9d.mp4"
+      },
+      {
+        "title": "The Slide Rule",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841158/posts/2184141805",
+        "wistia_id": "1ph6vgioa5",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/1a2783a1c2dd705a88b3160e849d9257e053eb00.mp4",
+        "quality": "720p",
+        "video_number": 14,
+        "local_path": "mathmo_assets/wistia_1ph6vgioa5.mp4"
+      },
+      {
+        "title": "Area Of A Triangle",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841158/posts/2184141806",
+        "wistia_id": "bimxpcd4mt",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/21aed0cd2f19af1784d64c28403f004565afb76f.mp4",
+        "quality": "720p",
+        "video_number": 15,
+        "local_path": "mathmo_assets/wistia_bimxpcd4mt.mp4"
+      },
+      {
+        "title": "Areas Of Quadrilaterals",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841158/posts/2184141807",
+        "wistia_id": "2war5114u6",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b175c9522da8175554e7911f2b5346c673d151ed.mp4",
+        "quality": "720p",
+        "video_number": 16,
+        "local_path": "mathmo_assets/wistia_2war5114u6.mp4"
+      },
+      {
+        "title": "Parts Of A Circle",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841159/posts/2184141809",
+        "wistia_id": "bwea06qxdx",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f8e9d651e25e016457a39da2c3a8e0cd0581058d.mp4",
+        "quality": "720p",
+        "video_number": 17,
+        "local_path": "mathmo_assets/wistia_bwea06qxdx.mp4"
+      },
+      {
+        "title": "Circles",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841159/posts/2184141810",
+        "wistia_id": "ld1p5xkntc",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/80d36ffb858e696e5de4a25198408bc5e40d6c57.mp4",
+        "quality": "540p",
+        "video_number": 18,
+        "local_path": "mathmo_assets/wistia_ld1p5xkntc.mp4"
+      },
+      {
+        "title": "Sectors",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841159/posts/2184141811",
+        "wistia_id": "3jhze903wt",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/65217fc2c37d626aac79d78b73f93e7c2ca84067.mp4",
+        "quality": "540p",
+        "video_number": 19,
+        "local_path": "mathmo_assets/wistia_3jhze903wt.mp4"
+      },
+      {
+        "title": "Nasty Circles Questions (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841159/posts/2184141812",
+        "wistia_id": "lasa80fs2k",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/430c68decef4af596f92d446d271b1d4bc00b58a.mp4",
+        "quality": "540p",
+        "video_number": 20,
+        "local_path": "mathmo_assets/wistia_lasa80fs2k.mp4"
+      },
+      {
+        "title": "Circle Theorems (Radius & Tangent)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841174/posts/2184141881",
+        "wistia_id": "z5u0dgnx9c",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7b046934a61ece8c8d31bd75e708db42577e58f9.mp4",
+        "quality": "540p",
+        "video_number": 21,
+        "local_path": "mathmo_assets/wistia_z5u0dgnx9c.mp4"
+      },
+      {
+        "title": "Circle Theorems (Shapes)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841174/posts/2184141882",
+        "wistia_id": "z35cg0cuc2",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/206d106703eed4160cdb4fe2da1ac061a62c4b2f.mp4",
+        "quality": "540p",
+        "video_number": 22,
+        "local_path": "mathmo_assets/wistia_z35cg0cuc2.mp4"
+      },
+      {
+        "title": "Circle Theorems (Tricks)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841174/posts/2184141883",
+        "wistia_id": "2esgtiqqk9",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/43258913b9655d479973e5ac1edec676906cb4b5.mp4",
+        "quality": "540p",
+        "video_number": 23,
+        "local_path": "mathmo_assets/wistia_2esgtiqqk9.mp4"
+      },
+      {
+        "title": "Circle Theorems (Intersecting Chords) (IGCSE Higher only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841174/posts/2184149524",
+        "wistia_id": "re6c1svmba",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f51a1fb4638163c78860bac777b9cc7184731513.mp4",
+        "quality": "540p",
+        "video_number": 24,
+        "local_path": "mathmo_assets/wistia_re6c1svmba.mp4"
+      },
+      {
+        "title": "Translations",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841173/posts/2184141875",
+        "wistia_id": "1yyk0tgbcc",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b665488ae5d5cc0ba026b3d83694146e65d6678d.mp4",
+        "quality": "540p",
+        "video_number": 25,
+        "local_path": "mathmo_assets/wistia_1yyk0tgbcc.mp4"
+      },
+      {
+        "title": "Reflections",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841173/posts/2184141876",
+        "wistia_id": "fiqvap23ot",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/83cb25ea75a158f3a098214bf0e783908ab563bd.mp4",
+        "quality": "540p",
+        "video_number": 26,
+        "local_path": "mathmo_assets/wistia_fiqvap23ot.mp4"
+      },
+      {
+        "title": "Rotations",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841173/posts/2184141877",
+        "wistia_id": "8xg3g804j2",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/60e8992965c59c509609177c50f30a940026dd92.mp4",
+        "quality": "540p",
+        "video_number": 27,
+        "local_path": "mathmo_assets/wistia_8xg3g804j2.mp4"
+      },
+      {
+        "title": "Enlargements",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841173/posts/2184141878",
+        "wistia_id": "ujyiu1pmxd",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/342866166c246de48fd515c67f3e2808955f3b3f.mp4",
+        "quality": "540p",
+        "video_number": 28,
+        "local_path": "mathmo_assets/wistia_ujyiu1pmxd.mp4"
+      },
+      {
+        "title": "Enlargements With Negative Scale Factors (GCSE Higher only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841173/posts/2184141879",
+        "wistia_id": "cwxat3mydg",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6afe17685ff827504ab5b2482599cb77eb4a28b5.mp4",
+        "quality": "540p",
+        "video_number": 29,
+        "local_path": "mathmo_assets/wistia_cwxat3mydg.mp4"
+      },
+      {
+        "title": "Mixed Transformations",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841173/posts/2184141880",
+        "wistia_id": "s0cmp2bx9h",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/563a57ca5ffac2887eecad8ca50bb64a7dd83ebf.mp4",
+        "quality": "540p",
+        "video_number": 30,
+        "local_path": "mathmo_assets/wistia_s0cmp2bx9h.mp4"
+      },
+      {
+        "title": "Names Of 3D Shapes",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841163/posts/2184141822",
+        "wistia_id": "m9qsynrcan",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/acaa4270807e6f84435fae499667a49e84cbc90b.mp4",
+        "quality": "720p",
+        "video_number": 31,
+        "local_path": "mathmo_assets/wistia_m9qsynrcan.mp4"
+      },
+      {
+        "title": "Vertices, Faces & Edges",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841163/posts/2184141823",
+        "wistia_id": "bsi9k1jlzr",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6a96890ed45271188143c22444b707e865b70447.mp4",
+        "quality": "720p",
+        "video_number": 32,
+        "local_path": "mathmo_assets/wistia_bsi9k1jlzr.mp4"
+      },
+      {
+        "title": "Surface Area",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841163/posts/2184141824",
+        "wistia_id": "xk56rzjspy",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a20ec17fa38c248b20d15ace188f8df2d7a0525c.mp4",
+        "quality": "720p",
+        "video_number": 33,
+        "local_path": "mathmo_assets/wistia_xk56rzjspy.mp4"
+      },
+      {
+        "title": "Surface Area Of A Cylinder",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841163/posts/2184141825",
+        "wistia_id": "eo2rl3dcfd",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/3aea705146a993a3239cca3317f26c79ea73519d.mp4",
+        "quality": "720p",
+        "video_number": 34,
+        "local_path": "mathmo_assets/wistia_eo2rl3dcfd.mp4"
+      },
+      {
+        "title": "Surface Area Of Cones & Spheres",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841163/posts/2184141826",
+        "wistia_id": "2n4625nzli",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b4a0c20078854579f4628e7a8b968576a35f5597.mp4",
+        "quality": "720p",
+        "video_number": 35,
+        "local_path": "mathmo_assets/wistia_2n4625nzli.mp4"
+      },
+      {
+        "title": "Volumes of Cuboids, Prisms & Cylinders",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841163/posts/2184141827",
+        "wistia_id": "aajcclyc4c",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4884422739a91033f9b173e2325d08bb480022f6.mp4",
+        "quality": "720p",
+        "video_number": 36,
+        "local_path": "mathmo_assets/wistia_aajcclyc4c.mp4"
+      },
+      {
+        "title": "Volumes of Pyramids, Spheres & Cones",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841163/posts/2184141828",
+        "wistia_id": "haim1265nr",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/3b57e8ec2a5516bbf8478ca35592a2ab52b0b08c.mp4",
+        "quality": "720p",
+        "video_number": 37,
+        "local_path": "mathmo_assets/wistia_haim1265nr.mp4"
+      },
+      {
+        "title": "Frustums (Foundation)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841163/posts/2184149486",
+        "wistia_id": "igj8xa5qdw",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f8be8dce0378d70ac8387421f8884b8108889152.mp4",
+        "quality": "720p",
+        "video_number": 38,
+        "local_path": "mathmo_assets/wistia_igj8xa5qdw.mp4"
+      },
+      {
+        "title": "Frustums (Higher)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841163/posts/2184141829",
+        "wistia_id": "ysjjm2iz0w",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7805f8316feb30a15bd151ad031cb631b9c8617f.mp4",
+        "quality": "720p",
+        "video_number": 39,
+        "local_path": "mathmo_assets/wistia_ysjjm2iz0w.mp4"
+      },
+      {
+        "title": "Nasty Volume Questions (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841163/posts/2184141830",
+        "wistia_id": "bouqdk7x3e",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/343bd50d0721b92ba4675790bf4bad5a64851acd.mp4",
+        "quality": "720p",
+        "video_number": 40,
+        "local_path": "mathmo_assets/wistia_bouqdk7x3e.mp4"
+      },
+      {
+        "title": "Constructions",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841172/posts/2184141872",
+        "wistia_id": "5yt2a0fa2c",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/241c16a892a37c8ccead56cd97b451de368c035a.mp4",
+        "quality": "540p",
+        "video_number": 41,
+        "local_path": "mathmo_assets/wistia_5yt2a0fa2c.mp4"
+      },
+      {
+        "title": "Bearings",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841172/posts/2184141873",
+        "wistia_id": "n2t4xy6jtw",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/597e12256b1a9be42e879b73e74143620f1699a2.mp4",
+        "quality": "540p",
+        "video_number": 42,
+        "local_path": "mathmo_assets/wistia_n2t4xy6jtw.mp4"
+      },
+      {
+        "title": "Maps & Scale Drawing",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841172/posts/2184141874",
+        "wistia_id": "cctiicyqbs",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/91e351ad9bbcb1f687ed1fafb21fd37b1695b4f1.mp4",
+        "quality": "720p",
+        "video_number": 43,
+        "local_path": "mathmo_assets/wistia_cctiicyqbs.mp4"
+      }
+    ],
+    "module_number": 5.0
+  },
+  {
+    "module_name": "6 - Pythagoras, Trigonometry & Vectors",
+    "module_id": "2156841160",
+    "videos": [
+      {
+        "title": "Triangles Intro (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841161/posts/2184141813",
+        "wistia_id": "xpsmi5ogtt",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c4c81effd777ded451d26ff3a02273929113cbd3.mp4",
+        "quality": "540p",
+        "video_number": 1,
+        "local_path": "mathmo_assets/wistia_xpsmi5ogtt.mp4"
+      },
+      {
+        "title": "Pythagoras or SOH CAH TOA",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841161/posts/2184141814",
+        "wistia_id": "vlpprr5vr7",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c3b669f2e193baaa210d75e399962d799be3c3cf.mp4",
+        "quality": "540p",
+        "video_number": 2,
+        "local_path": "mathmo_assets/wistia_vlpprr5vr7.mp4"
+      },
+      {
+        "title": "Pythagoras",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841161/posts/2184141815",
+        "wistia_id": "a04626raku",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9c508f651ffca35b8e355089abbfa70370a34c42.mp4",
+        "quality": "540p",
+        "video_number": 3,
+        "local_path": "mathmo_assets/wistia_a04626raku.mp4"
+      },
+      {
+        "title": "SOH CAH TOA",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841161/posts/2184141816",
+        "wistia_id": "cikaik6ffl",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/65e8ec99ef96784bf1b222c03316774700d92ab2.mp4",
+        "quality": "540p",
+        "video_number": 4,
+        "local_path": "mathmo_assets/wistia_cikaik6ffl.mp4"
+      },
+      {
+        "title": "Sine Rule or Cosine Rule (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841161/posts/2184141817",
+        "wistia_id": "qkbf8tysgn",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/1723779a7827a357f62cb1e6e3f924fe10264296.mp4",
+        "quality": "540p",
+        "video_number": 5,
+        "local_path": "mathmo_assets/wistia_qkbf8tysgn.mp4"
+      },
+      {
+        "title": "Sine Rule (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841161/posts/2184141818",
+        "wistia_id": "0u108irb4i",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c2f831bd0d801e176b4381fe326f4f113b139c83.mp4",
+        "quality": "540p",
+        "video_number": 6,
+        "local_path": "mathmo_assets/wistia_0u108irb4i.mp4"
+      },
+      {
+        "title": "Cosine Rule (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841161/posts/2184141819",
+        "wistia_id": "mqic3xo6n6",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a1ef0c73b648638ef355685fe48354bda8a8a852.mp4",
+        "quality": "540p",
+        "video_number": 7,
+        "local_path": "mathmo_assets/wistia_mqic3xo6n6.mp4"
+      },
+      {
+        "title": "Area of a Triangle (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841161/posts/2184141820",
+        "wistia_id": "jzd85hwidp",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/16c5b86aed04b6a9b46c4fb8fdb849b0552ad587.mp4",
+        "quality": "540p",
+        "video_number": 8,
+        "local_path": "mathmo_assets/wistia_jzd85hwidp.mp4"
+      },
+      {
+        "title": "Nasty Triangles Questions (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841161/posts/2184141821",
+        "wistia_id": "r329io5eo6",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/2210c3393024b911b7c19cff80e5d46dfaad1cc1.mp4",
+        "quality": "540p",
+        "video_number": 9,
+        "local_path": "mathmo_assets/wistia_r329io5eo6.mp4"
+      },
+      {
+        "title": "3D Pythagoras (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841161/posts/2184141833",
+        "wistia_id": "6dj96mh971",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/35c289cf5b4ecb9086ed16e7e5db79eefd57480d.mp4",
+        "quality": "720p",
+        "video_number": 10,
+        "local_path": "mathmo_assets/wistia_6dj96mh971.mp4"
+      },
+      {
+        "title": "Vector Basics",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841189/posts/2184141960",
+        "wistia_id": "zcpo2epu0e",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c9f6024717f6225a8625e6725a7234f9a74fbaeb.mp4",
+        "quality": "720p",
+        "video_number": 11,
+        "local_path": "mathmo_assets/wistia_zcpo2epu0e.mp4"
+      },
+      {
+        "title": "Combining Vectors (Cambridge Core)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841189/posts/2184149845",
+        "wistia_id": "cbzj9m8jet",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7a74df3d6808369ed361e624e131e342b2a27063.mp4",
+        "quality": "720p",
+        "video_number": 12,
+        "local_path": "mathmo_assets/wistia_cbzj9m8jet.mp4"
+      },
+      {
+        "title": "Combining Vectors",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841189/posts/2184141961",
+        "wistia_id": "44h56htdg5",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/1ec3e8c58aaf151ee06a82deb0927f3edca4fcc8.mp4",
+        "quality": "720p",
+        "video_number": 13,
+        "local_path": "mathmo_assets/wistia_44h56htdg5.mp4"
+      },
+      {
+        "title": "Magnitude of a Vector (IGCSE Higher & Cambridge Extended only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841189/posts/2184149919",
+        "wistia_id": "0ov1blyg07",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/bbd8d158ead05ee1ec7fa0ad83065132c94e685e.mp4",
+        "quality": "720p",
+        "video_number": 14,
+        "local_path": "mathmo_assets/wistia_0ov1blyg07.mp4"
+      },
+      {
+        "title": "Vectors Involving Ratios (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841189/posts/2184141962",
+        "wistia_id": "1teoitr02v",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a9d830f0b0d96413745be6357696e2be09c899b5.mp4",
+        "quality": "720p",
+        "video_number": 15,
+        "local_path": "mathmo_assets/wistia_1teoitr02v.mp4"
+      },
+      {
+        "title": "Parallel Vectors (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841189/posts/2184141963",
+        "wistia_id": "a4ylm37eu9",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/1212deb889328c3df2333b69d7e775603696a537.mp4",
+        "quality": "720p",
+        "video_number": 16,
+        "local_path": "mathmo_assets/wistia_a4ylm37eu9.mp4"
+      },
+      {
+        "title": "Vectors Along A Straight Line (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841189/posts/2184141964",
+        "wistia_id": "58i9xl7vma",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a74d6b39618f08b94dd6bc8f5bbdc9b2771e72f9.mp4",
+        "quality": "720p",
+        "video_number": 17,
+        "local_path": "mathmo_assets/wistia_58i9xl7vma.mp4"
+      },
+      {
+        "title": "Nasty Vectors Questions (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841189/posts/2184141965",
+        "wistia_id": "hwfu8fkyys",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8790c2ed74b4cc14878ad077d48b8413ca47c918.mp4",
+        "quality": "720p",
+        "video_number": 18,
+        "local_path": "mathmo_assets/wistia_hwfu8fkyys.mp4"
+      }
+    ],
+    "module_number": 6.0
+  },
+  {
+    "module_name": "7 - Probability & Statistics",
+    "module_id": "2156841164",
+    "videos": [
+      {
+        "title": "Probability Basics",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841170/posts/2184141862",
+        "wistia_id": "bq2ep05qkm",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/12d937021af2754fc9093ba7ec7dc12bf7f449d5.mp4",
+        "quality": "540p",
+        "video_number": 1,
+        "local_path": "mathmo_assets/wistia_bq2ep05qkm.mp4"
+      },
+      {
+        "title": "Two-Way Tables",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841170/posts/2184141863",
+        "wistia_id": "iy6kcyg7h3",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/45598cd3ef1bfc5a686dc92124b7cb62d1f5ab75.mp4",
+        "quality": "720p",
+        "video_number": 2,
+        "local_path": "mathmo_assets/wistia_iy6kcyg7h3.mp4"
+      },
+      {
+        "title": "Probability Experiments",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841170/posts/2184141864",
+        "wistia_id": "b3clrdjd13",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/fe2319bc13321336716ae6f9e11fdbdea075406e.mp4",
+        "quality": "540p",
+        "video_number": 3,
+        "local_path": "mathmo_assets/wistia_b3clrdjd13.mp4"
+      },
+      {
+        "title": "Using Algebra in Probability (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841170/posts/2184141865",
+        "wistia_id": "rby1khzxhw",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/15b71875af0531a9d0a760b4d91a1970873f7779.mp4",
+        "quality": "540p",
+        "video_number": 4,
+        "local_path": "mathmo_assets/wistia_rby1khzxhw.mp4"
+      },
+      {
+        "title": "Listing Outcomes",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841170/posts/2184141866",
+        "wistia_id": "bnx8vvnfcn",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/bfb079ec098c8f7872b0769f6bc3bd0c3a3ada7b.mp4",
+        "quality": "720p",
+        "video_number": 5,
+        "local_path": "mathmo_assets/wistia_bnx8vvnfcn.mp4"
+      },
+      {
+        "title": "Tree Diagrams Intro",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841170/posts/2184141867",
+        "wistia_id": "lo24kvc73f",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/991472f6c32389edb5e52a85510a0b96b66ac176.mp4",
+        "quality": "540p",
+        "video_number": 6,
+        "local_path": "mathmo_assets/wistia_lo24kvc73f.mp4"
+      },
+      {
+        "title": "Conditional Probability on Tree Diagrams (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841170/posts/2184141868",
+        "wistia_id": "o5u8y9qlsb",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9e5ce4fccb05b7f10762ed61c476371c49ac242b.mp4",
+        "quality": "540p",
+        "video_number": 7,
+        "local_path": "mathmo_assets/wistia_o5u8y9qlsb.mp4"
+      },
+      {
+        "title": "When To Use Tree Diagrams (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841170/posts/2184141869",
+        "wistia_id": "dmtv90jjwu",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a038da70381509b531098f6e0c493737ed800af0.mp4",
+        "quality": "540p",
+        "video_number": 8,
+        "local_path": "mathmo_assets/wistia_dmtv90jjwu.mp4"
+      },
+      {
+        "title": "The AND/OR Rules (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841170/posts/2184141870",
+        "wistia_id": "if6ltrh9q3",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/dadf8667565b52c8f37775f38d7b29887c7f7f5a.mp4",
+        "quality": "540p",
+        "video_number": 9,
+        "local_path": "mathmo_assets/wistia_if6ltrh9q3.mp4"
+      },
+      {
+        "title": "Nasty Tree Diagrams (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841170/posts/2184141871",
+        "wistia_id": "76j95pg39r",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/637ee52f368cd545160c09acd0671ae9882f9207.mp4",
+        "quality": "540p",
+        "video_number": 10,
+        "local_path": "mathmo_assets/wistia_76j95pg39r.mp4"
+      },
+      {
+        "title": "Set Notation (Cambridge Core)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841168/posts/2184149976",
+        "wistia_id": "688m5egela",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/36c0d537c8b158cd36e2310a22ff54f21ac096b4.mp4",
+        "quality": "720p",
+        "video_number": 11,
+        "local_path": "mathmo_assets/wistia_688m5egela.mp4"
+      },
+      {
+        "title": "Set Notation",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841168/posts/2184141849",
+        "wistia_id": "cmmaj7b1wx",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ac99a6e70ab8bc35e7acac79d2ff97b0021d8794.mp4",
+        "quality": "720p",
+        "video_number": 12,
+        "local_path": "mathmo_assets/wistia_cmmaj7b1wx.mp4"
+      },
+      {
+        "title": "n(A) (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841168/posts/2184141850",
+        "wistia_id": "3d3ys7qqcf",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9bd57f39a66dcf0077315304be5b78789c4d537f.mp4",
+        "quality": "720p",
+        "video_number": 13,
+        "local_path": "mathmo_assets/wistia_3d3ys7qqcf.mp4"
+      },
+      {
+        "title": "Union & Intersection",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841168/posts/2184141851",
+        "wistia_id": "cxobsyjm4y",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/1dd639300453b3dd2e18a78f0e7f8c87f9a91fef.mp4",
+        "quality": "720p",
+        "video_number": 14,
+        "local_path": "mathmo_assets/wistia_cxobsyjm4y.mp4"
+      },
+      {
+        "title": "The Empty Set",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841168/posts/2184141852",
+        "wistia_id": "ht4fplwprd",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7b50454b0d62bf94863d1c89a5cbf12582cbb010.mp4",
+        "quality": "720p",
+        "video_number": 15,
+        "local_path": "mathmo_assets/wistia_ht4fplwprd.mp4"
+      },
+      {
+        "title": "Complement",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841168/posts/2184141853",
+        "wistia_id": "syp66d6ofk",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c0fdc8574f710b70454a5b146474f45626294734.mp4",
+        "quality": "720p",
+        "video_number": 16,
+        "local_path": "mathmo_assets/wistia_syp66d6ofk.mp4"
+      },
+      {
+        "title": "Venn Diagrams Intro",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841169/posts/2184141854",
+        "wistia_id": "pipdq27kjl",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/44099233b7f644d3a6091297bb2dfbf396f20aff.mp4",
+        "quality": "720p",
+        "video_number": 17,
+        "local_path": "mathmo_assets/wistia_pipdq27kjl.mp4"
+      },
+      {
+        "title": "Venn Diagrams (Union & Intersection)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841169/posts/2184141855",
+        "wistia_id": "15a0mb110c",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/acd9cd4081608873fa4de828ed9fe727d3f60cb9.mp4",
+        "quality": "720p",
+        "video_number": 18,
+        "local_path": "mathmo_assets/wistia_15a0mb110c.mp4"
+      },
+      {
+        "title": "Venn Diagrams (Number of Elements) (Foundation)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841169/posts/2184149989",
+        "wistia_id": "xgdiakpt78",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a335d69d73f50b8fd872f61b1c8ef0968f59c619.mp4",
+        "quality": "720p",
+        "video_number": 19,
+        "local_path": "mathmo_assets/wistia_xgdiakpt78.mp4"
+      },
+      {
+        "title": "Venn Diagrams (Number of Elements) (Higher)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841169/posts/2184141856",
+        "wistia_id": "8hobe3uqby",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5572dfb4c2a79e6092d1a07dac9764f660947e7a.mp4",
+        "quality": "720p",
+        "video_number": 20,
+        "local_path": "mathmo_assets/wistia_8hobe3uqby.mp4"
+      },
+      {
+        "title": "Venn Diagrams (Complement)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841169/posts/2184141857",
+        "wistia_id": "327dhih669",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/347661b33d0b1a5c009f35e5d96962cd8b2aebfa.mp4",
+        "quality": "720p",
+        "video_number": 21,
+        "local_path": "mathmo_assets/wistia_327dhih669.mp4"
+      },
+      {
+        "title": "Venn Diagrams (3 Sets) (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841169/posts/2184141858",
+        "wistia_id": "z43tg92d41",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/173a77e8fda17ae97a8fbe14b6e362311f54a7d1.mp4",
+        "quality": "720p",
+        "video_number": 22,
+        "local_path": "mathmo_assets/wistia_z43tg92d41.mp4"
+      },
+      {
+        "title": "Venn Diagrams (3 Sets - Number of Elements) (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841169/posts/2184141859",
+        "wistia_id": "pyo927cz51",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d6150cebd724a179f470476dd82d92d8d58411ff.mp4",
+        "quality": "720p",
+        "video_number": 23,
+        "local_path": "mathmo_assets/wistia_pyo927cz51.mp4"
+      },
+      {
+        "title": "Find Probabilities From Venn Diagrams",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841169/posts/2184141860",
+        "wistia_id": "jhs2xg832v",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/800d504aa5c50b18271fe191035979708ba3ea2a.mp4",
+        "quality": "720p",
+        "video_number": 24,
+        "local_path": "mathmo_assets/wistia_jhs2xg832v.mp4"
+      },
+      {
+        "title": "Find Probabilities From Venn Diagrams (3 Sets) (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841169/posts/2184141861",
+        "wistia_id": "za2z9b2g44",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5ab1daff02fe89b47e750ec3cdbf8edc11e4c687.mp4",
+        "quality": "720p",
+        "video_number": 25,
+        "local_path": "mathmo_assets/wistia_za2z9b2g44.mp4"
+      },
+      {
+        "title": "Mean, Median, Mode & Range",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841165/posts/2184141835",
+        "wistia_id": "gopwsjvolr",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/953c6a0b0369a215f41597965ac445021a3bc825.mp4",
+        "quality": "720p",
+        "video_number": 26,
+        "local_path": "mathmo_assets/wistia_gopwsjvolr.mp4"
+      },
+      {
+        "title": "Means With Unknown Numbers",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841165/posts/2184141836",
+        "wistia_id": "k0od40i6oc",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/13ca387feb91f7762f7d9e319ef38c5fefb5ec22.mp4",
+        "quality": "720p",
+        "video_number": 27,
+        "local_path": "mathmo_assets/wistia_k0od40i6oc.mp4"
+      },
+      {
+        "title": "Mean Times Number",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841165/posts/2184141837",
+        "wistia_id": "dvbjfiqcvf",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/40e743ad738336d47636a579caefd648b688fe62.mp4",
+        "quality": "720p",
+        "video_number": 28,
+        "local_path": "mathmo_assets/wistia_dvbjfiqcvf.mp4"
+      },
+      {
+        "title": "Which Average?",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841165/posts/2184141838",
+        "wistia_id": "ajtpg5qq0d",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d3d3a6a7732bc9a8913ac0424bd2896add65a446.mp4",
+        "quality": "720p",
+        "video_number": 29,
+        "local_path": "mathmo_assets/wistia_ajtpg5qq0d.mp4"
+      },
+      {
+        "title": "Range, Quartiles & IQR (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841165/posts/2184141839",
+        "wistia_id": "8h011daozf",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/721cd47f055240fda9637567d83fcad23b66623c.mp4",
+        "quality": "720p",
+        "video_number": 30,
+        "local_path": "mathmo_assets/wistia_8h011daozf.mp4"
+      },
+      {
+        "title": "Frequency Tables",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841166/posts/2184141840",
+        "wistia_id": "3crrvycyug",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/1065936d638313ba321af9b59b3810b9a7811802.mp4",
+        "quality": "720p",
+        "video_number": 31,
+        "local_path": "mathmo_assets/wistia_3crrvycyug.mp4"
+      },
+      {
+        "title": "Grouped Frequency Tables",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841166/posts/2184141841",
+        "wistia_id": "i78553it6b",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/44d384b794795304c3292b6c464d776df8e07203.mp4",
+        "quality": "720p",
+        "video_number": 32,
+        "local_path": "mathmo_assets/wistia_i78553it6b.mp4"
+      },
+      {
+        "title": "Comparing Data Sets (GCSE Foundation & Cambridge Core)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841166/posts/2184149949",
+        "wistia_id": "qdpa3bsmry",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d85bd3c239e4666815b822b4bc01562d02e06936.mp4",
+        "quality": "720p",
+        "video_number": 33,
+        "local_path": "mathmo_assets/wistia_qdpa3bsmry.mp4"
+      },
+      {
+        "title": "Comparing Data Sets (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841166/posts/2184141842",
+        "wistia_id": "di5e2ta4h1",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/1d52da7df9e11a2a54998c98611e46969ba95b60.mp4",
+        "quality": "720p",
+        "video_number": 34,
+        "local_path": "mathmo_assets/wistia_di5e2ta4h1.mp4"
+      },
+      {
+        "title": "Box Plots (GCSE Higher only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841166/posts/2184141843",
+        "wistia_id": "2q6hjuctlr",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/722bde05667e40c31398d8466001a6eb25e26e00.mp4",
+        "quality": "540p",
+        "video_number": 35,
+        "local_path": "mathmo_assets/wistia_2q6hjuctlr.mp4"
+      },
+      {
+        "title": "Cumulative Frequency (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841166/posts/2184141844",
+        "wistia_id": "tfvxnqtxee",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/52fc2e9b2b5c4099980f68bf289a57bda97de151.mp4",
+        "quality": "540p",
+        "video_number": 36,
+        "local_path": "mathmo_assets/wistia_tfvxnqtxee.mp4"
+      },
+      {
+        "title": "Histograms (Higher Tier only)",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841166/posts/2184141845",
+        "wistia_id": "ckjhckkg06",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f1a7d14f04abf895f5bb9204b3a21ec6ac867f84.mp4",
+        "quality": "540p",
+        "video_number": 37,
+        "local_path": "mathmo_assets/wistia_ckjhckkg06.mp4"
+      },
+      {
+        "title": "Pictograms",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841166/posts/2184141846",
+        "wistia_id": "8yuml4tus7",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/646cf6d3334f92a7d6a9689b34212ee93412d0bb.mp4",
+        "quality": "720p",
+        "video_number": 38,
+        "local_path": "mathmo_assets/wistia_8yuml4tus7.mp4"
+      },
+      {
+        "title": "Bar Charts",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841166/posts/2184141847",
+        "wistia_id": "ne7fjpn06k",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/246e4113999b80a0b8b60fd5e5c48ce1d7c2a471.mp4",
+        "quality": "720p",
+        "video_number": 39,
+        "local_path": "mathmo_assets/wistia_ne7fjpn06k.mp4"
+      },
+      {
+        "title": "Pie Charts",
+        "subtitle": "",
+        "url": "https://www.mathmo.com/products/gcse-video-vault/categories/2156841166/posts/2184141848",
+        "wistia_id": "pbsct2fgfz",
+        "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8f9e07ea668c47fb5bc13f73a126c66b3c2c7f84.mp4",
+        "quality": "720p",
+        "video_number": 40,
+        "local_path": "mathmo_assets/wistia_pbsct2fgfz.mp4"
+      }
+    ],
+    "module_number": 7.0
+  }
+]
