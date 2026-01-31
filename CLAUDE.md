@@ -52,8 +52,13 @@ Official website for documentation: [frappeframework.com/docs](https://frappefra
 
 ## Running the LMS
 
+**IMPORTANT**: 
+- **Start Command**: ALWAYS use `./start_server.sh` (or `honcho start` inside the activated bench). **DO NOT** use `bench start` as it fails to detect the process manager.
+- **Port**: The web server runs on port **9001**.
+- **Services**: The script handles starting MariaDB and Redis for you.
+
 ```bash
-./start_lms.sh  # Starts MariaDB, Redis, and Frappe Bench
+./start_server.sh
 ```
 
 ## Running Imports

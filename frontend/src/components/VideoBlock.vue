@@ -267,7 +267,18 @@ const updateNextQuiz = () => {
 }
 
 const fileURL = computed(() => {
-	return props.file
+	// Route local video files through the streaming endpoint for byte-range support
+	// This enables video seeking (skip forward/backward) functionality
+	const file = props.file
+	
+	// If it's a local file path (starts with /files/), use the streaming endpoint
+	if (file && file.startsWith('/files/')) {
+		const filename = file.replace('/files/', '')
+		return `/api/method/lms.lms.video.stream?file=${encodeURIComponent(filename)}`
+	}
+	
+	// For external URLs (YouTube, Vimeo, direct CDN links), pass through as-is
+	return file
 })
 
 const playVideo = () => {

@@ -15,7 +15,7 @@ fi
 
 # Cleanup existing bench processes
 echo "Cleaning up existing processes..."
-for PORT in 13000 11000 8000; do
+for PORT in 13000 11000 9000 9001 8000; do
     PID=$(lsof -t -i:$PORT)
     if [ -n "$PID" ]; then
         echo "Killing process on port $PORT (PID: $PID)..."
@@ -35,5 +35,5 @@ cd /Users/petetreadaway/Projects/lms-bench
 # Activate virtual environment to ensure 'bench' command is found
 source env/bin/activate
 
-# Run bench start
-bench start
+# Run bench start (using honcho directly)
+honcho start

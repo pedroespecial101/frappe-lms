@@ -11,7 +11,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/fa5b5df6269ca22966f46f2ec5c54e1196bb8196.mp4",
         "quality": "720p",
         "video_number": 1,
-        "local_path": "mathmo_assets/wistia_slidifntia.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_slidifntia.mp4",
+        "runtime_seconds": 117.4,
+        "runtime_formatted": "1m 57s"
       },
       {
         "title": "How It Works",
@@ -21,7 +23,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/96fc2e4d55c21964696ede099705fb32b8b3a803.mp4",
         "quality": "1080p",
         "video_number": 2,
-        "local_path": "mathmo_assets/wistia_razb6uo716.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_razb6uo716.mp4",
+        "runtime_seconds": 150.95,
+        "runtime_formatted": "2m 30s"
       },
       {
         "title": "Micro Revision",
@@ -31,7 +35,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9542741e87d90cb88b75a034004d38b173cd545c.mp4",
         "quality": "720p",
         "video_number": 3,
-        "local_path": "mathmo_assets/wistia_x4p8rlrngv.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_x4p8rlrngv.mp4",
+        "runtime_seconds": 650.55,
+        "runtime_formatted": "10m 50s"
       },
       {
         "title": "Fixed vs Growth Mindset",
@@ -41,7 +47,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/40cdd3fe5f10e97d06efa4aa15a27877d38894fd.mp4",
         "quality": "720p",
         "video_number": 4,
-        "local_path": "mathmo_assets/wistia_rfkjon3af5.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_rfkjon3af5.mp4",
+        "runtime_seconds": 99.97,
+        "runtime_formatted": "1m 39s"
       },
       {
         "title": "Motivation",
@@ -51,7 +59,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a108da3c18e562a8e775ea1e6454bd8e7ba31271.mp4",
         "quality": "720p",
         "video_number": 5,
-        "local_path": "mathmo_assets/wistia_bziczpu8q4.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_bziczpu8q4.mp4",
+        "runtime_seconds": 292.6,
+        "runtime_formatted": "4m 52s"
       },
       {
         "title": "Asking Good Questions",
@@ -61,7 +71,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/25e411d630c4d01738ad6a653392900901996bef.mp4",
         "quality": "720p",
         "video_number": 6,
-        "local_path": "mathmo_assets/wistia_bbocncy55s.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_bbocncy55s.mp4",
+        "runtime_seconds": 160.08,
+        "runtime_formatted": "2m 40s"
       }
     ],
     "module_number": 0.1
@@ -78,7 +90,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/e701be6ab6ffbd7e10030dd8cb02164582a66dd6.mp4",
         "quality": "720p",
         "video_number": 1,
-        "local_path": "mathmo_assets/wistia_ipffrxhuqh.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_ipffrxhuqh.mp4",
+        "runtime_seconds": 66.83,
+        "runtime_formatted": "1m 6s"
       },
       {
         "title": "The Ladder",
@@ -88,7 +102,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/e3c14f9cf28e25713e77cabbc148af7274645caf.mp4",
         "quality": "720p",
         "video_number": 2,
-        "local_path": "mathmo_assets/wistia_vaxt4788ii.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_vaxt4788ii.mp4",
+        "runtime_seconds": 856.98,
+        "runtime_formatted": "14m 16s"
       },
       {
         "title": "Adding Is Harder Than Multiplying",
@@ -98,7 +114,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/11ecf66daa4e8bbbb1942d96b0abc9512391366d.mp4",
         "quality": "720p",
         "video_number": 3,
-        "local_path": "mathmo_assets/wistia_t01zuv1ye9.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_t01zuv1ye9.mp4",
+        "runtime_seconds": 270.86,
+        "runtime_formatted": "4m 30s"
       },
       {
         "title": "Numbers & Fractions",
@@ -108,7 +126,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/78baa9c60775bfe9a1a4658aeeb3d6400b186ff7.mp4",
         "quality": "720p",
         "video_number": 4,
-        "local_path": "mathmo_assets/wistia_oc2b9z24wh.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_oc2b9z24wh.mp4",
+        "runtime_seconds": 391.91,
+        "runtime_formatted": "6m 31s"
       },
       {
         "title": "Percentages",
@@ -118,7 +138,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ebebd4fc8c07b9720bb7ad4c7f183452ca7673e3.mp4",
         "quality": "720p",
         "video_number": 5,
-        "local_path": "mathmo_assets/wistia_hzqzeit6zz.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_hzqzeit6zz.mp4",
+        "runtime_seconds": 539.01,
+        "runtime_formatted": "8m 59s"
       },
       {
         "title": "Algebra",
@@ -128,7 +150,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4761f12e908ae268ba129e133b80cca13a2dd477.mp4",
         "quality": "720p",
         "video_number": 6,
-        "local_path": "mathmo_assets/wistia_y3g5fj5817.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_y3g5fj5817.mp4",
+        "runtime_seconds": 741.79,
+        "runtime_formatted": "12m 21s"
       },
       {
         "title": "Substitution",
@@ -138,7 +162,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d71401f14d430117e6c813275f9b1c4e86ed1161.mp4",
         "quality": "720p",
         "video_number": 7,
-        "local_path": "mathmo_assets/wistia_ibthvr7nn9.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_ibthvr7nn9.mp4",
+        "runtime_seconds": 747.17,
+        "runtime_formatted": "12m 27s"
       },
       {
         "title": "Equations & Inequalities",
@@ -148,7 +174,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d3d33da8810e8028e17515f684e34dab0a36e312.mp4",
         "quality": "720p",
         "video_number": 8,
-        "local_path": "mathmo_assets/wistia_nsahau2hy1.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_nsahau2hy1.mp4",
+        "runtime_seconds": 718.12,
+        "runtime_formatted": "11m 58s"
       },
       {
         "title": "Graphs",
@@ -158,7 +186,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ffa09eda41a91b776363c8fbaaa830ed981f1c8d.mp4",
         "quality": "720p",
         "video_number": 9,
-        "local_path": "mathmo_assets/wistia_uolwe4cx48.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_uolwe4cx48.mp4",
+        "runtime_seconds": 654.67,
+        "runtime_formatted": "10m 54s"
       },
       {
         "title": "Angles",
@@ -168,7 +198,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/e5f6d639d966abebcbdaf09c16fd55cedbf7e48d.mp4",
         "quality": "720p",
         "video_number": 10,
-        "local_path": "mathmo_assets/wistia_9c7vqn0zbe.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_9c7vqn0zbe.mp4",
+        "runtime_seconds": 785.74,
+        "runtime_formatted": "13m 5s"
       },
       {
         "title": "Shapes",
@@ -178,7 +210,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8cc9de8c8985e3dfa960d9a0dc4f218e941ae893.mp4",
         "quality": "720p",
         "video_number": 11,
-        "local_path": "mathmo_assets/wistia_su5alal2t0.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_su5alal2t0.mp4",
+        "runtime_seconds": 786.3,
+        "runtime_formatted": "13m 6s"
       },
       {
         "title": "Statistics",
@@ -188,7 +222,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ceeb7090263dc3625eda2ac56c8f37cf56db9f07.mp4",
         "quality": "720p",
         "video_number": 12,
-        "local_path": "mathmo_assets/wistia_wit2hxhloe.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_wit2hxhloe.mp4",
+        "runtime_seconds": 839.15,
+        "runtime_formatted": "13m 59s"
       },
       {
         "title": "Probability Basics",
@@ -198,7 +234,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/43b07a1ce7db1a34b1c33c7d51726a7cfe2a9d73.mp4",
         "quality": "720p",
         "video_number": 13,
-        "local_path": "mathmo_assets/wistia_2zkgg8nvzb.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_2zkgg8nvzb.mp4",
+        "runtime_seconds": 381.5,
+        "runtime_formatted": "6m 21s"
       },
       {
         "title": "Tree Diagrams (Higher Tier Only)",
@@ -208,7 +246,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5b29755b239bbf07db05d264bc0c7e601b9b8f92.mp4",
         "quality": "720p",
         "video_number": 14,
-        "local_path": "mathmo_assets/wistia_zai7e8n8uf.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_zai7e8n8uf.mp4",
+        "runtime_seconds": 760.29,
+        "runtime_formatted": "12m 40s"
       }
     ],
     "module_number": 0.2
@@ -225,7 +265,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/85cc825a87af1b0543c9bf44d12a6203cb0ed166.mp4",
         "quality": "720p",
         "video_number": 1,
-        "local_path": "mathmo_assets/wistia_5mj537qb0m.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_5mj537qb0m.mp4",
+        "runtime_seconds": 953.32,
+        "runtime_formatted": "15m 53s"
       },
       {
         "title": "The Answer Box Is Sacred (Foundation)",
@@ -235,7 +277,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d9a724d1895ea242b7822c44bdccc9bf5f2bb7a9.mp4",
         "quality": "540p",
         "video_number": 2,
-        "local_path": "mathmo_assets/wistia_xy27crccwi.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_xy27crccwi.mp4",
+        "runtime_seconds": 310.03,
+        "runtime_formatted": "5m 10s"
       },
       {
         "title": "The Answer Box Is Sacred (Higher)",
@@ -245,7 +289,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8425cd2c98e2565c565979fb7303aab57957a5e7.mp4",
         "quality": "540p",
         "video_number": 3,
-        "local_path": "mathmo_assets/wistia_7ik3iskbhk.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_7ik3iskbhk.mp4",
+        "runtime_seconds": 372.3,
+        "runtime_formatted": "6m 12s"
       },
       {
         "title": "Checking Your Work (C U EXAMS)",
@@ -255,7 +301,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/18cb95bedcd9a0cb9c738b2a27fe891d1f0e2260.mp4",
         "quality": "720p",
         "video_number": 4,
-        "local_path": "mathmo_assets/wistia_eomq5nxpbc.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_eomq5nxpbc.mp4",
+        "runtime_seconds": 235.54,
+        "runtime_formatted": "3m 55s"
       },
       {
         "title": "C - Calculator",
@@ -265,7 +313,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/3624c012123f45109af0e7e15f7194cf2861411b.mp4",
         "quality": "720p",
         "video_number": 5,
-        "local_path": "mathmo_assets/wistia_upjrq90tac.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_upjrq90tac.mp4",
+        "runtime_seconds": 105.58,
+        "runtime_formatted": "1m 45s"
       },
       {
         "title": "U - Units & Significant Figures",
@@ -275,7 +325,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5fc7408f882eb222de2dcb55ce8c107b3a96a615.mp4",
         "quality": "720p",
         "video_number": 6,
-        "local_path": "mathmo_assets/wistia_n3n3pglyy6.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_n3n3pglyy6.mp4",
+        "runtime_seconds": 358.21,
+        "runtime_formatted": "5m 58s"
       },
       {
         "title": "E - Every Question",
@@ -285,7 +337,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/13b87299191e08a0c4af142daad671961a09a346.mp4",
         "quality": "720p",
         "video_number": 7,
-        "local_path": "mathmo_assets/wistia_84kyt8l1nh.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_84kyt8l1nh.mp4",
+        "runtime_seconds": 125.83,
+        "runtime_formatted": "2m 5s"
       },
       {
         "title": "X - Substitute X (Foundation)",
@@ -295,7 +349,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/09777840ce2ca2f9eca35a413d2416be3a3dd220.mp4",
         "quality": "720p",
         "video_number": 8,
-        "local_path": "mathmo_assets/wistia_h35o45u2s8.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_h35o45u2s8.mp4",
+        "runtime_seconds": 840.38,
+        "runtime_formatted": "14m 0s"
       },
       {
         "title": "X - Substitute X (Higher)",
@@ -305,7 +361,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/17ff3ddc5c6e9de2ef42a554aa3888376996f5b4.mp4",
         "quality": "720p",
         "video_number": 9,
-        "local_path": "mathmo_assets/wistia_favidz3w33.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_favidz3w33.mp4",
+        "runtime_seconds": 783.7,
+        "runtime_formatted": "13m 3s"
       },
       {
         "title": "A - Plug Your Answer Into The Question (Foundation)",
@@ -315,7 +373,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b8c553e5fb0a2c381f1451176e1aa1b5134cbf6e.mp4",
         "quality": "720p",
         "video_number": 10,
-        "local_path": "mathmo_assets/wistia_086r8spgzi.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_086r8spgzi.mp4",
+        "runtime_seconds": 827.65,
+        "runtime_formatted": "13m 47s"
       },
       {
         "title": "A - Plug Your Answer Into The Question (Higher)",
@@ -325,7 +385,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/0f4bccb7643c28d0b030421e60b575f642d004dc.mp4",
         "quality": "720p",
         "video_number": 11,
-        "local_path": "mathmo_assets/wistia_t6veces4va.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_t6veces4va.mp4",
+        "runtime_seconds": 856.0,
+        "runtime_formatted": "14m 16s"
       },
       {
         "title": "M - Marks (Foundation)",
@@ -335,7 +397,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/35cd3d9d327e402b24b3b8313d4be4896cd40172.mp4",
         "quality": "720p",
         "video_number": 12,
-        "local_path": "mathmo_assets/wistia_5tvmudcayn.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_5tvmudcayn.mp4",
+        "runtime_seconds": 353.1,
+        "runtime_formatted": "5m 53s"
       },
       {
         "title": "M - Marks (Higher)",
@@ -345,7 +409,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/83d9885724893032d832149120bf70279e28a88a.mp4",
         "quality": "720p",
         "video_number": 13,
-        "local_path": "mathmo_assets/wistia_zp2bl2h2es.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_zp2bl2h2es.mp4",
+        "runtime_seconds": 454.47,
+        "runtime_formatted": "7m 34s"
       },
       {
         "title": "S - Sense Check",
@@ -355,7 +421,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/114b26485990e6ed9f89eac394495cadad3d0849.mp4",
         "quality": "720p",
         "video_number": 14,
-        "local_path": "mathmo_assets/wistia_97zekn2rue.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_97zekn2rue.mp4",
+        "runtime_seconds": 851.87,
+        "runtime_formatted": "14m 11s"
       },
       {
         "title": "Formula Sheet (GCSE Foundation)",
@@ -365,7 +433,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a26a33dff1800250a7d600103f1512a26d4f3ad5.mp4",
         "quality": "720p",
         "video_number": 15,
-        "local_path": "mathmo_assets/wistia_hipr3bykog.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_hipr3bykog.mp4",
+        "runtime_seconds": 546.97,
+        "runtime_formatted": "9m 6s"
       },
       {
         "title": "Formula Sheet (GCSE Higher)",
@@ -375,7 +445,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/0ba0859ed0f0d941c06bd64e1df943b5042f5879.mp4",
         "quality": "720p",
         "video_number": 16,
-        "local_path": "mathmo_assets/wistia_abhdydn2bs.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_abhdydn2bs.mp4",
+        "runtime_seconds": 955.43,
+        "runtime_formatted": "15m 55s"
       },
       {
         "title": "Formula Sheet (IGCSE Foundation)",
@@ -385,7 +457,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8f1cec3af9904b954b888b496638347864e1cbcd.mp4",
         "quality": "720p",
         "video_number": 17,
-        "local_path": "mathmo_assets/wistia_6xh799w1o1.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_6xh799w1o1.mp4",
+        "runtime_seconds": 163.31,
+        "runtime_formatted": "2m 43s"
       },
       {
         "title": "Formula Sheet (IGCSE Higher)",
@@ -395,7 +469,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/45c8fced63952963bff47a66f721bc5c6d6e3f70.mp4",
         "quality": "540p",
         "video_number": 18,
-        "local_path": "mathmo_assets/wistia_xie9f7yu0a.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_xie9f7yu0a.mp4",
+        "runtime_seconds": 430.83,
+        "runtime_formatted": "7m 10s"
       }
     ],
     "module_number": 0.3
@@ -412,7 +488,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/2f4faf895dff3ae037c686eb1776edad2716b94d.mp4",
         "quality": "720p",
         "video_number": 1,
-        "local_path": "mathmo_assets/wistia_2978u36k2b.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_2978u36k2b.mp4",
+        "runtime_seconds": 322.08,
+        "runtime_formatted": "5m 22s"
       },
       {
         "title": "Solving Equations",
@@ -422,7 +500,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b25ddbc60d3b0e95c041356e11548225c00dadf2.mp4",
         "quality": "720p",
         "video_number": 2,
-        "local_path": "mathmo_assets/wistia_96po0xg8hf.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_96po0xg8hf.mp4",
+        "runtime_seconds": 497.87,
+        "runtime_formatted": "8m 17s"
       },
       {
         "title": "Simultaneous Equations",
@@ -432,7 +512,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f3b07150c14afd8db930bf0d68a5e1342f74684d.mp4",
         "quality": "720p",
         "video_number": 3,
-        "local_path": "mathmo_assets/wistia_mghhcurdrq.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_mghhcurdrq.mp4",
+        "runtime_seconds": 478.23,
+        "runtime_formatted": "7m 58s"
       },
       {
         "title": "Product of Prime Factors",
@@ -442,7 +524,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d179b429a592686934bec394430b923cbc0124c6.mp4",
         "quality": "720p",
         "video_number": 4,
-        "local_path": "mathmo_assets/wistia_0asxj2br53.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_0asxj2br53.mp4",
+        "runtime_seconds": 550.63,
+        "runtime_formatted": "9m 10s"
       },
       {
         "title": "Simplifying Ratios",
@@ -452,7 +536,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9679be97f9435163c6d031d740174e10aec2901d.mp4",
         "quality": "720p",
         "video_number": 5,
-        "local_path": "mathmo_assets/wistia_mlzvl18pgj.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_mlzvl18pgj.mp4",
+        "runtime_seconds": 87.73,
+        "runtime_formatted": "1m 27s"
       },
       {
         "title": "Table Mode for Plotting Graphs",
@@ -462,7 +548,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f485a31c405a8f1df647498610bf3a6e2448914d.mp4",
         "quality": "720p",
         "video_number": 6,
-        "local_path": "mathmo_assets/wistia_bnrkh24qzz.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_bnrkh24qzz.mp4",
+        "runtime_seconds": 644.19,
+        "runtime_formatted": "10m 44s"
       },
       {
         "title": "Sketching ANY Graph",
@@ -472,7 +560,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5c73b9299b1c843eea28f2028ea8929e99744bd4.mp4",
         "quality": "720p",
         "video_number": 7,
-        "local_path": "mathmo_assets/wistia_o5v6ejhhc5.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_o5v6ejhhc5.mp4",
+        "runtime_seconds": 762.71,
+        "runtime_formatted": "12m 42s"
       },
       {
         "title": "Factorising Quadratics",
@@ -482,7 +572,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5d9a488f4df52375c10ec4623eb9aea2ce25d032.mp4",
         "quality": "720p",
         "video_number": 8,
-        "local_path": "mathmo_assets/wistia_y1ac1sf6du.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_y1ac1sf6du.mp4",
+        "runtime_seconds": 438.56,
+        "runtime_formatted": "7m 18s"
       },
       {
         "title": "Difference Of Two Squares",
@@ -492,7 +584,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/32681513a113719983aa0803112681576765677c.mp4",
         "quality": "720p",
         "video_number": 9,
-        "local_path": "mathmo_assets/wistia_wsdvjrc7tk.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_wsdvjrc7tk.mp4",
+        "runtime_seconds": 255.13,
+        "runtime_formatted": "4m 15s"
       },
       {
         "title": "Solving Quadratics",
@@ -502,7 +596,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c1a6972a0c19d2912377505858098596aed86207.mp4",
         "quality": "720p",
         "video_number": 10,
-        "local_path": "mathmo_assets/wistia_iq8idchwpx.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_iq8idchwpx.mp4",
+        "runtime_seconds": 400.2,
+        "runtime_formatted": "6m 40s"
       },
       {
         "title": "Turning Point",
@@ -512,7 +608,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/379f09d972a6a4c3a1db8c039b812f62e019e528.mp4",
         "quality": "720p",
         "video_number": 11,
-        "local_path": "mathmo_assets/wistia_xdjs5u9mig.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_xdjs5u9mig.mp4",
+        "runtime_seconds": 255.87,
+        "runtime_formatted": "4m 15s"
       },
       {
         "title": "Mean and Median",
@@ -522,7 +620,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ceebcdcd82f0779fd2308d0e89050593896c8658.mp4",
         "quality": "720p",
         "video_number": 12,
-        "local_path": "mathmo_assets/wistia_qmm7qcohgl.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_qmm7qcohgl.mp4",
+        "runtime_seconds": 245.4,
+        "runtime_formatted": "4m 5s"
       },
       {
         "title": "Frequency Tables",
@@ -532,7 +632,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/43946f7594f7c067c484f65fa497f082e00b60fa.mp4",
         "quality": "720p",
         "video_number": 13,
-        "local_path": "mathmo_assets/wistia_7ouhdl0k55.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_7ouhdl0k55.mp4",
+        "runtime_seconds": 431.93,
+        "runtime_formatted": "7m 11s"
       },
       {
         "title": "Grouped Frequency Tables",
@@ -542,7 +644,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c622fd75be65228857bd6497a7afd3910d763fe2.mp4",
         "quality": "720p",
         "video_number": 14,
-        "local_path": "mathmo_assets/wistia_p3lxyx7miw.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_p3lxyx7miw.mp4",
+        "runtime_seconds": 428.0,
+        "runtime_formatted": "7m 8s"
       },
       {
         "title": "Powers",
@@ -552,7 +656,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/10e9349518b0d319f504ce265b99621457bbf7aa.mp4",
         "quality": "720p",
         "video_number": 15,
-        "local_path": "mathmo_assets/wistia_gxr464oiq9.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_gxr464oiq9.mp4",
+        "runtime_seconds": 701.61,
+        "runtime_formatted": "11m 41s"
       },
       {
         "title": "Conversions",
@@ -562,7 +668,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9e39df816fff702f5845ab9d61d12af79ff24610.mp4",
         "quality": "720p",
         "video_number": 16,
-        "local_path": "mathmo_assets/wistia_xzbg2l9l27.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_xzbg2l9l27.mp4",
+        "runtime_seconds": 559.77,
+        "runtime_formatted": "9m 19s"
       },
       {
         "title": "Time Questions",
@@ -572,7 +680,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8057b9eee5a4b824cd786078f122b55fe82823a2.mp4",
         "quality": "720p",
         "video_number": 17,
-        "local_path": "mathmo_assets/wistia_ntf3kn8xcu.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_ntf3kn8xcu.mp4",
+        "runtime_seconds": 794.6,
+        "runtime_formatted": "13m 14s"
       },
       {
         "title": "Mixed Fractions",
@@ -582,7 +692,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/15cde3e806d1084c5a83f2d4d0bb4db2a918aa4e.mp4",
         "quality": "720p",
         "video_number": 18,
-        "local_path": "mathmo_assets/wistia_mgiqp8li4w.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_mgiqp8li4w.mp4",
+        "runtime_seconds": 386.67,
+        "runtime_formatted": "6m 26s"
       },
       {
         "title": "Standard Form",
@@ -592,7 +704,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b987bd8af3dde48772200a2ea8e797ac0348c5aa.mp4",
         "quality": "720p",
         "video_number": 19,
-        "local_path": "mathmo_assets/wistia_g9078toro3.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_g9078toro3.mp4",
+        "runtime_seconds": 505.0,
+        "runtime_formatted": "8m 25s"
       },
       {
         "title": "Vectors",
@@ -602,7 +716,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/031c3a89fa8c0aa1adfa2370718d3ffae850a9d6.mp4",
         "quality": "720p",
         "video_number": 20,
-        "local_path": "mathmo_assets/wistia_2uoefovvg2.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_2uoefovvg2.mp4",
+        "runtime_seconds": 402.03,
+        "runtime_formatted": "6m 42s"
       },
       {
         "title": "Solving Equations with Multiple Answers",
@@ -612,7 +728,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/2c8e7331d63d7c788423dfc10367a4a36a9de59e.mp4",
         "quality": "720p",
         "video_number": 21,
-        "local_path": "mathmo_assets/wistia_g9loaav2ll.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_g9loaav2ll.mp4",
+        "runtime_seconds": 382.8,
+        "runtime_formatted": "6m 22s"
       },
       {
         "title": "Functions (Higher Tier Only)",
@@ -622,7 +740,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c6606df1b75b58ec47590de61b8e163e1c660205.mp4",
         "quality": "720p",
         "video_number": 22,
-        "local_path": "mathmo_assets/wistia_6i2iqkziz3.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_6i2iqkziz3.mp4",
+        "runtime_seconds": 764.9,
+        "runtime_formatted": "12m 44s"
       },
       {
         "title": "Quartiles and IQR (Higher Tier Only)",
@@ -632,7 +752,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d53278fda7d94e98f31a55d9a486435a13459618.mp4",
         "quality": "720p",
         "video_number": 23,
-        "local_path": "mathmo_assets/wistia_nmih9mlx69.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_nmih9mlx69.mp4",
+        "runtime_seconds": 393.5,
+        "runtime_formatted": "6m 33s"
       },
       {
         "title": "Harder Quadratics (Higher Tier Only)",
@@ -642,7 +764,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/963da07df89812c33d182514cfd7bbbdc818f421.mp4",
         "quality": "720p",
         "video_number": 24,
-        "local_path": "mathmo_assets/wistia_e5o2od3pda.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_e5o2od3pda.mp4",
+        "runtime_seconds": 534.93,
+        "runtime_formatted": "8m 54s"
       },
       {
         "title": "Quadratics In Algebraic Fractions (Higher Tier Only)",
@@ -652,7 +776,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8bea71122645399bcf212aeb5ca1db7c59536266.mp4",
         "quality": "720p",
         "video_number": 25,
-        "local_path": "mathmo_assets/wistia_913iicdher.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_913iicdher.mp4",
+        "runtime_seconds": 509.8,
+        "runtime_formatted": "8m 29s"
       },
       {
         "title": "Simplifying Surds (Higher Tier Only)",
@@ -662,7 +788,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/1c38705f70dd0215bc0006cf851f6a9be4e474c1.mp4",
         "quality": "720p",
         "video_number": 26,
-        "local_path": "mathmo_assets/wistia_2it94w3w90.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_2it94w3w90.mp4",
+        "runtime_seconds": 709.9,
+        "runtime_formatted": "11m 49s"
       },
       {
         "title": "Quadratic Inequalities (Higher Tier Only)",
@@ -672,7 +800,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f28e3789b1b161abb9dd43e9b395b0031ab2143b.mp4",
         "quality": "720p",
         "video_number": 27,
-        "local_path": "mathmo_assets/wistia_o52f4xtaft.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_o52f4xtaft.mp4",
+        "runtime_seconds": 516.77,
+        "runtime_formatted": "8m 36s"
       }
     ],
     "module_number": 0.4
@@ -689,7 +819,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/3ed65eca005f1acd7dd682d931c863d9be5da879.mp4",
         "quality": "720p",
         "video_number": 1,
-        "local_path": "mathmo_assets/wistia_009290s2am.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_009290s2am.mp4",
+        "runtime_seconds": 416.85,
+        "runtime_formatted": "6m 56s"
       },
       {
         "title": "Product Of Prime Factors",
@@ -699,7 +831,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b0ec57e5b7de981d859313618fca75b271cd3b4f.mp4",
         "quality": "720p",
         "video_number": 2,
-        "local_path": "mathmo_assets/wistia_vczo9xuzvn.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_vczo9xuzvn.mp4",
+        "runtime_seconds": 440.39,
+        "runtime_formatted": "7m 20s"
       },
       {
         "title": "Simplifying Ratios",
@@ -709,7 +843,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/bee6ab94162888053f7f399db77643d2d42102dd.mp4",
         "quality": "720p",
         "video_number": 3,
-        "local_path": "mathmo_assets/wistia_rolayiemrl.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_rolayiemrl.mp4",
+        "runtime_seconds": 86.73,
+        "runtime_formatted": "1m 26s"
       },
       {
         "title": "Table Mode For Plotting Graphs",
@@ -719,7 +855,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d7e1e8292fdeae58fb469d624e0c977b02cf1a1c.mp4",
         "quality": "720p",
         "video_number": 4,
-        "local_path": "mathmo_assets/wistia_m8fmzqugwt.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_m8fmzqugwt.mp4",
+        "runtime_seconds": 288.07,
+        "runtime_formatted": "4m 48s"
       },
       {
         "title": "Sketching ANY Graph",
@@ -729,7 +867,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/20d28573127091082099105499caae0bce32b608.mp4",
         "quality": "720p",
         "video_number": 5,
-        "local_path": "mathmo_assets/wistia_kchsls555f.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_kchsls555f.mp4",
+        "runtime_seconds": 802.71,
+        "runtime_formatted": "13m 22s"
       },
       {
         "title": "Solving Equations",
@@ -739,7 +879,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c6aaaee96a9ae0a409ed3ffecffaf75c5e954964.mp4",
         "quality": "720p",
         "video_number": 6,
-        "local_path": "mathmo_assets/wistia_q2xglvc1oc.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_q2xglvc1oc.mp4",
+        "runtime_seconds": 955.9,
+        "runtime_formatted": "15m 55s"
       },
       {
         "title": "Powers",
@@ -749,7 +891,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c5d33bdfd0cdf860364f6e747be7cbed095405ee.mp4",
         "quality": "1080p",
         "video_number": 7,
-        "local_path": "mathmo_assets/wistia_c2cpl5azx7.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_c2cpl5azx7.mp4",
+        "runtime_seconds": 987.06,
+        "runtime_formatted": "16m 27s"
       },
       {
         "title": "Factorising Quadratics",
@@ -759,7 +903,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d392af5acb88b7a37c818e7edd46e8bda796b852.mp4",
         "quality": "720p",
         "video_number": 8,
-        "local_path": "mathmo_assets/wistia_rbx8v3oalq.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_rbx8v3oalq.mp4",
+        "runtime_seconds": 529.25,
+        "runtime_formatted": "8m 49s"
       },
       {
         "title": "Solving Quadratics",
@@ -769,7 +915,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/3f90a720fb38dae7e739f6c0d3aa06d34a9868c2.mp4",
         "quality": "720p",
         "video_number": 9,
-        "local_path": "mathmo_assets/wistia_dcmm04t9it.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_dcmm04t9it.mp4",
+        "runtime_seconds": 343.31,
+        "runtime_formatted": "5m 43s"
       },
       {
         "title": "Harder Quadratics (Higher Tier Only)",
@@ -779,7 +927,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b2bf14b11b5a2b3994e74ce77697a596f6889e2a.mp4",
         "quality": "720p",
         "video_number": 10,
-        "local_path": "mathmo_assets/wistia_fggmk3d8v0.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_fggmk3d8v0.mp4",
+        "runtime_seconds": 372.52,
+        "runtime_formatted": "6m 12s"
       },
       {
         "title": "Quadratics In Algebraic Fractions (Higher Tier Only)",
@@ -789,7 +939,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4dae73a5a4740158ffd3522d8a58600e0f8b795a.mp4",
         "quality": "720p",
         "video_number": 11,
-        "local_path": "mathmo_assets/wistia_iulo13bcb5.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_iulo13bcb5.mp4",
+        "runtime_seconds": 367.55,
+        "runtime_formatted": "6m 7s"
       },
       {
         "title": "Conversions",
@@ -799,7 +951,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6fb7bf17c0c792c468d261404ce0188415e42c4a.mp4",
         "quality": "720p",
         "video_number": 12,
-        "local_path": "mathmo_assets/wistia_alijkctzm4.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_alijkctzm4.mp4",
+        "runtime_seconds": 535.47,
+        "runtime_formatted": "8m 55s"
       },
       {
         "title": "Time Questions",
@@ -809,7 +963,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f29d7c6c061c718f9186405eb20421a1cd3530a5.mp4",
         "quality": "720p",
         "video_number": 13,
-        "local_path": "mathmo_assets/wistia_0474jxoyoa.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_0474jxoyoa.mp4",
+        "runtime_seconds": 862.93,
+        "runtime_formatted": "14m 22s"
       },
       {
         "title": "Mixed Fractions",
@@ -819,7 +975,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/698d099185086a24c72b9180f6b47bbdf81a04ae.mp4",
         "quality": "720p",
         "video_number": 14,
-        "local_path": "mathmo_assets/wistia_tzvpsdarj9.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_tzvpsdarj9.mp4",
+        "runtime_seconds": 320.71,
+        "runtime_formatted": "5m 20s"
       },
       {
         "title": "Simplifying Surds (Higher Tier Only)",
@@ -829,7 +987,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f99f40cdf93d615501c6e86ff6b4a02b84a934d9.mp4",
         "quality": "720p",
         "video_number": 15,
-        "local_path": "mathmo_assets/wistia_kd38sokfpu.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_kd38sokfpu.mp4",
+        "runtime_seconds": 749.87,
+        "runtime_formatted": "12m 29s"
       },
       {
         "title": "Standard Form",
@@ -839,7 +999,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/fa56cb0cb4cdf52f780c8a0cc28a54c6a03468b8.mp4",
         "quality": "720p",
         "video_number": 16,
-        "local_path": "mathmo_assets/wistia_1p2cdvxjye.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_1p2cdvxjye.mp4",
+        "runtime_seconds": 502.6,
+        "runtime_formatted": "8m 22s"
       },
       {
         "title": "Quadratic Inequalities (Higher Tier Only)",
@@ -849,7 +1011,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/07b009400139c0d55a9fb21c30628e7637e3b978.mp4",
         "quality": "720p",
         "video_number": 17,
-        "local_path": "mathmo_assets/wistia_ihgetlxlp6.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_ihgetlxlp6.mp4",
+        "runtime_seconds": 422.12,
+        "runtime_formatted": "7m 2s"
       },
       {
         "title": "Turning Point",
@@ -859,7 +1023,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/324a58647f5a52cf066143679e20754d7e40c4ff.mp4",
         "quality": "720p",
         "video_number": 18,
-        "local_path": "mathmo_assets/wistia_9u97wn4bz8.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_9u97wn4bz8.mp4",
+        "runtime_seconds": 268.13,
+        "runtime_formatted": "4m 28s"
       },
       {
         "title": "Completing The Square (Higher Tier Only)",
@@ -869,7 +1035,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/201062069476f6924b80192e7421b43cd4eebd97.mp4",
         "quality": "720p",
         "video_number": 19,
-        "local_path": "mathmo_assets/wistia_jn60ej4dg2.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_jn60ej4dg2.mp4",
+        "runtime_seconds": 685.92,
+        "runtime_formatted": "11m 25s"
       },
       {
         "title": "Mean And Median",
@@ -879,7 +1047,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/485e0d9140a51099ea0094a7f1614a12a38c84a3.mp4",
         "quality": "720p",
         "video_number": 20,
-        "local_path": "mathmo_assets/wistia_sq2pciaa61.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_sq2pciaa61.mp4",
+        "runtime_seconds": 312.87,
+        "runtime_formatted": "5m 12s"
       },
       {
         "title": "Frequency Tables",
@@ -889,7 +1059,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/21c43fe84a45dc623fe5d5875cda815294cf5269.mp4",
         "quality": "720p",
         "video_number": 21,
-        "local_path": "mathmo_assets/wistia_9pnhyl7z7u.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_9pnhyl7z7u.mp4",
+        "runtime_seconds": 317.6,
+        "runtime_formatted": "5m 17s"
       },
       {
         "title": "Grouped Frequency Tables",
@@ -899,7 +1071,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/02050eaba2842ca50f3f914cb75dffef4069607f.mp4",
         "quality": "720p",
         "video_number": 22,
-        "local_path": "mathmo_assets/wistia_pu6y0tn4mx.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_pu6y0tn4mx.mp4",
+        "runtime_seconds": 282.45,
+        "runtime_formatted": "4m 42s"
       },
       {
         "title": "Quartiles & Interquartile Range (Higher Tier Only)",
@@ -909,7 +1083,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/19aca121de4bf9b4863b39a15f8c3e9ac8cf7449.mp4",
         "quality": "720p",
         "video_number": 23,
-        "local_path": "mathmo_assets/wistia_xthsmvkjb5.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_xthsmvkjb5.mp4",
+        "runtime_seconds": 291.34,
+        "runtime_formatted": "4m 51s"
       },
       {
         "title": "Vectors",
@@ -919,7 +1095,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/710adad72deb574306523b9f1d1808a2735c40e4.mp4",
         "quality": "1080p",
         "video_number": 24,
-        "local_path": "mathmo_assets/wistia_1p89w50wpy.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_1p89w50wpy.mp4",
+        "runtime_seconds": 509.66,
+        "runtime_formatted": "8m 29s"
       }
     ],
     "module_number": 0.5
@@ -936,7 +1114,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ce41c4e3f33f12309c3056744c858df74f18a956.mp4",
         "quality": "540p",
         "video_number": 1,
-        "local_path": "mathmo_assets/wistia_oa0xoxfrex.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_oa0xoxfrex.mp4",
+        "runtime_seconds": 177.77,
+        "runtime_formatted": "2m 57s"
       },
       {
         "title": "BIDMAS or BODMAS",
@@ -946,7 +1126,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8dd06a5c46735d0665067f3642f9c4311b404b40.mp4",
         "quality": "540p",
         "video_number": 2,
-        "local_path": "mathmo_assets/wistia_9kvcon9r5z.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_9kvcon9r5z.mp4",
+        "runtime_seconds": 235.97,
+        "runtime_formatted": "3m 55s"
       },
       {
         "title": "Minus Signs",
@@ -956,7 +1138,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/3ea7eb6dd6bfbcf732ef538ab4d9edb303e18e3e.mp4",
         "quality": "540p",
         "video_number": 3,
-        "local_path": "mathmo_assets/wistia_plq7nwnum2.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_plq7nwnum2.mp4",
+        "runtime_seconds": 562.93,
+        "runtime_formatted": "9m 22s"
       },
       {
         "title": "Dividing",
@@ -966,7 +1150,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/0fb95df78e603ffa2c016114262380f4d37d6013.mp4",
         "quality": "540p",
         "video_number": 4,
-        "local_path": "mathmo_assets/wistia_rgizg1pftj.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_rgizg1pftj.mp4",
+        "runtime_seconds": 326.07,
+        "runtime_formatted": "5m 26s"
       },
       {
         "title": "The Over 1 Trick",
@@ -976,7 +1162,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/130a17b677726ca57adcedf1481b2b94ab4212b4.mp4",
         "quality": "540p",
         "video_number": 5,
-        "local_path": "mathmo_assets/wistia_vpil31n1be.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_vpil31n1be.mp4",
+        "runtime_seconds": 362.23,
+        "runtime_formatted": "6m 2s"
       },
       {
         "title": "Using a Calculator",
@@ -986,7 +1174,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/762c36f027463709acd57f109af0046b16faab4b.mp4",
         "quality": "540p",
         "video_number": 6,
-        "local_path": "mathmo_assets/wistia_e5xfhhcnuw.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_e5xfhhcnuw.mp4",
+        "runtime_seconds": 240.63,
+        "runtime_formatted": "4m 0s"
       },
       {
         "title": "Rational and Irrational Numbers (Higher Tier only)",
@@ -996,7 +1186,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ceb58ae333744d2d061b375d810b7242a95b8a54.mp4",
         "quality": "540p",
         "video_number": 7,
-        "local_path": "mathmo_assets/wistia_yhl8glolij.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_yhl8glolij.mp4",
+        "runtime_seconds": 77.2,
+        "runtime_formatted": "1m 17s"
       },
       {
         "title": "Square Roots and Cube Roots",
@@ -1006,7 +1198,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/601aded24bc0bfecb38a1be919c3c3df3cdeaf3a.mp4",
         "quality": "540p",
         "video_number": 8,
-        "local_path": "mathmo_assets/wistia_mzcszo6n0l.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_mzcszo6n0l.mp4",
+        "runtime_seconds": 164.07,
+        "runtime_formatted": "2m 44s"
       },
       {
         "title": "Factors, Multiples & Prime Numbers",
@@ -1016,7 +1210,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6b430539c31a5705db2cfe2864b3dcab6cfb35b8.mp4",
         "quality": "540p",
         "video_number": 9,
-        "local_path": "mathmo_assets/wistia_gqm0j95411.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_gqm0j95411.mp4",
+        "runtime_seconds": 562.77,
+        "runtime_formatted": "9m 22s"
       },
       {
         "title": "Prime Factors",
@@ -1026,7 +1222,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/73ad470aa357c07b18da203a5f1b3c2ec7c09373.mp4",
         "quality": "540p",
         "video_number": 10,
-        "local_path": "mathmo_assets/wistia_libzqq5k95.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_libzqq5k95.mp4",
+        "runtime_seconds": 384.97,
+        "runtime_formatted": "6m 24s"
       },
       {
         "title": "HCF & LCM",
@@ -1036,7 +1234,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/50aaae72fa0921d6314b694afab00286ef759c74.mp4",
         "quality": "540p",
         "video_number": 11,
-        "local_path": "mathmo_assets/wistia_j6gva3ip29.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_j6gva3ip29.mp4",
+        "runtime_seconds": 712.37,
+        "runtime_formatted": "11m 52s"
       },
       {
         "title": "Fractions Basics",
@@ -1046,7 +1246,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7425ab4a57848b852faf422940b7f3510b8094b7.mp4",
         "quality": "540p",
         "video_number": 12,
-        "local_path": "mathmo_assets/wistia_3wpkb4elwz.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_3wpkb4elwz.mp4",
+        "runtime_seconds": 523.52,
+        "runtime_formatted": "8m 43s"
       },
       {
         "title": "Multiplying & Dividing Fractions",
@@ -1056,7 +1258,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c703cb42e126c521a2151334956e6018c8362d8f.mp4",
         "quality": "540p",
         "video_number": 13,
-        "local_path": "mathmo_assets/wistia_7yhsdjsiiv.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_7yhsdjsiiv.mp4",
+        "runtime_seconds": 206.05,
+        "runtime_formatted": "3m 26s"
       },
       {
         "title": "Cross-Cancelling",
@@ -1066,7 +1270,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/fc37af8d3aa77673fd3bb1a0f6c4dcec4e24b035.mp4",
         "quality": "540p",
         "video_number": 14,
-        "local_path": "mathmo_assets/wistia_93ab4qmguj.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_93ab4qmguj.mp4",
+        "runtime_seconds": 253.75,
+        "runtime_formatted": "4m 13s"
       },
       {
         "title": "Comparing Fractions",
@@ -1076,7 +1282,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f318d95a2eccaa3c0f5e3e81c4f04898277f84b2.mp4",
         "quality": "540p",
         "video_number": 15,
-        "local_path": "mathmo_assets/wistia_8493lexqn8.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_8493lexqn8.mp4",
+        "runtime_seconds": 587.47,
+        "runtime_formatted": "9m 47s"
       },
       {
         "title": "Adding & Subtracting Fractions",
@@ -1086,7 +1294,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/454757936e3e3a9056ccfb7494e6193c5cc693b4.mp4",
         "quality": "540p",
         "video_number": 16,
-        "local_path": "mathmo_assets/wistia_v0dwy2zq39.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_v0dwy2zq39.mp4",
+        "runtime_seconds": 425.81,
+        "runtime_formatted": "7m 5s"
       },
       {
         "title": "Mixed Fractions",
@@ -1096,7 +1306,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a0f814eee6d5e93f0c6725d7334c45096efd1953.mp4",
         "quality": "540p",
         "video_number": 17,
-        "local_path": "mathmo_assets/wistia_haoprjj59m.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_haoprjj59m.mp4",
+        "runtime_seconds": 378.3,
+        "runtime_formatted": "6m 18s"
       },
       {
         "title": "Fractions, Decimals & Percentages",
@@ -1106,7 +1318,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/793fd2688955d3a73952fc65f4fd2237fce5df23.mp4",
         "quality": "540p",
         "video_number": 18,
-        "local_path": "mathmo_assets/wistia_9g1hg5mcdf.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_9g1hg5mcdf.mp4",
+        "runtime_seconds": 954.09,
+        "runtime_formatted": "15m 54s"
       },
       {
         "title": "Recurring Or Terminating (Higher Tier only)",
@@ -1116,7 +1330,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8655b0fa9aa7c513a8340fb2a756e536411f4a02.mp4",
         "quality": "540p",
         "video_number": 19,
-        "local_path": "mathmo_assets/wistia_l286nrnh7q.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_l286nrnh7q.mp4",
+        "runtime_seconds": 267.67,
+        "runtime_formatted": "4m 27s"
       },
       {
         "title": "Recurring Decimals (Higher Tier only)",
@@ -1126,7 +1342,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/0967243a7ed1bfc10e59548c1ff1792b7efb63dc.mp4",
         "quality": "540p",
         "video_number": 20,
-        "local_path": "mathmo_assets/wistia_fz7zt0r2ex.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_fz7zt0r2ex.mp4",
+        "runtime_seconds": 1091.73,
+        "runtime_formatted": "18m 11s"
       },
       {
         "title": "Rounding",
@@ -1136,7 +1354,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f865e5c50156c6e629eedde19e9edf7bf848a1d6.mp4",
         "quality": "540p",
         "video_number": 21,
-        "local_path": "mathmo_assets/wistia_a1luq81x1v.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_a1luq81x1v.mp4",
+        "runtime_seconds": 632.07,
+        "runtime_formatted": "10m 32s"
       },
       {
         "title": "Estimating",
@@ -1146,7 +1366,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/dd0f8b3cc0e325068e7f3e2cb756033abcd5d4bb.mp4",
         "quality": "540p",
         "video_number": 22,
-        "local_path": "mathmo_assets/wistia_onyg1wmix9.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_onyg1wmix9.mp4",
+        "runtime_seconds": 540.3,
+        "runtime_formatted": "9m 0s"
       },
       {
         "title": "Bounds (Higher Tier only)",
@@ -1156,7 +1378,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c1fad49e97993d99bde8a8976464dd8775a1efbf.mp4",
         "quality": "540p",
         "video_number": 23,
-        "local_path": "mathmo_assets/wistia_r64xotoakx.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_r64xotoakx.mp4",
+        "runtime_seconds": 1292.67,
+        "runtime_formatted": "21m 32s"
       },
       {
         "title": "Standard Form",
@@ -1166,7 +1390,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/89954f4d8dba47c389f082820a41f6dd6f3eccc9.mp4",
         "quality": "540p",
         "video_number": 24,
-        "local_path": "mathmo_assets/wistia_j63gdpykg8.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_j63gdpykg8.mp4",
+        "runtime_seconds": 848.57,
+        "runtime_formatted": "14m 8s"
       },
       {
         "title": "Nasty Standard Form (Higher Tier only)",
@@ -1176,7 +1402,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/41b4de553968ffa430030ce7b1017752262facb4.mp4",
         "quality": "540p",
         "video_number": 25,
-        "local_path": "mathmo_assets/wistia_0h3hskbzhi.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_0h3hskbzhi.mp4",
+        "runtime_seconds": 320.38,
+        "runtime_formatted": "5m 20s"
       }
     ],
     "module_number": 1.0
@@ -1193,7 +1421,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/2d893336cba012dc59af85c4975c29d8d7d2e08e.mp4",
         "quality": "720p",
         "video_number": 1,
-        "local_path": "mathmo_assets/wistia_i8jyx79mzt.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_i8jyx79mzt.mp4",
+        "runtime_seconds": 435.4,
+        "runtime_formatted": "7m 15s"
       },
       {
         "title": "Adding & Subtracting Algebra",
@@ -1203,7 +1433,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/0efc6666478317458d517c77ca8419630db8e23d.mp4",
         "quality": "720p",
         "video_number": 2,
-        "local_path": "mathmo_assets/wistia_7apmn3y8d7.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_7apmn3y8d7.mp4",
+        "runtime_seconds": 356.73,
+        "runtime_formatted": "5m 56s"
       },
       {
         "title": "Multiplying & Dividing Algebra",
@@ -1213,7 +1445,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9fb9a8ed90ab7bdd448f1c35fb3ee99f15fa78dc.mp4",
         "quality": "720p",
         "video_number": 3,
-        "local_path": "mathmo_assets/wistia_kigwov79yv.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_kigwov79yv.mp4",
+        "runtime_seconds": 485.53,
+        "runtime_formatted": "8m 5s"
       },
       {
         "title": "Minus Signs In Algebra",
@@ -1223,7 +1457,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/64d009c0daae9fd1d419bda3790b7317594e3273.mp4",
         "quality": "720p",
         "video_number": 4,
-        "local_path": "mathmo_assets/wistia_q44trqvoin.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_q44trqvoin.mp4",
+        "runtime_seconds": 288.1,
+        "runtime_formatted": "4m 48s"
       },
       {
         "title": "The Over 1 Trick In Algebra",
@@ -1233,7 +1469,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4dd5f7b84f0bfbb14978595fb1a61c33b1dd98d8.mp4",
         "quality": "720p",
         "video_number": 5,
-        "local_path": "mathmo_assets/wistia_bkvipbwwgk.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_bkvipbwwgk.mp4",
+        "runtime_seconds": 232.87,
+        "runtime_formatted": "3m 52s"
       },
       {
         "title": "'Unpacking'",
@@ -1243,7 +1481,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/e85e6beeae2c25e6260ba8956c72daa9edc33577.mp4",
         "quality": "720p",
         "video_number": 6,
-        "local_path": "mathmo_assets/wistia_8a6vbk6by6.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_8a6vbk6by6.mp4",
+        "runtime_seconds": 578.23,
+        "runtime_formatted": "9m 38s"
       },
       {
         "title": "False Moves",
@@ -1253,7 +1493,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/e8f773ba74f7710b327b3c6f6ba6e63f687a70a7.mp4",
         "quality": "720p",
         "video_number": 7,
-        "local_path": "mathmo_assets/wistia_eo50pztwhx.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_eo50pztwhx.mp4",
+        "runtime_seconds": 555.75,
+        "runtime_formatted": "9m 15s"
       },
       {
         "title": "Single Brackets",
@@ -1263,7 +1505,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/cb37a61da9e57a8881fc83e552d7a82bc56757c4.mp4",
         "quality": "720p",
         "video_number": 8,
-        "local_path": "mathmo_assets/wistia_hjy4whqy79.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_hjy4whqy79.mp4",
+        "runtime_seconds": 373.93,
+        "runtime_formatted": "6m 13s"
       },
       {
         "title": "Double Brackets",
@@ -1273,7 +1517,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5e0bedb85b6fae798eec38399cadff15895fc39b.mp4",
         "quality": "720p",
         "video_number": 9,
-        "local_path": "mathmo_assets/wistia_962xt29i6n.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_962xt29i6n.mp4",
+        "runtime_seconds": 428.4,
+        "runtime_formatted": "7m 8s"
       },
       {
         "title": "Triple Brackets (Higher Tier only)",
@@ -1283,7 +1529,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4effc472bd0a1d90b6a83e5579cee1ff41bd3782.mp4",
         "quality": "720p",
         "video_number": 10,
-        "local_path": "mathmo_assets/wistia_08erkmcf7x.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_08erkmcf7x.mp4",
+        "runtime_seconds": 525.31,
+        "runtime_formatted": "8m 45s"
       },
       {
         "title": "Factorising",
@@ -1293,7 +1541,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ffaddd07715df774e568ed0cb456542038f81354.mp4",
         "quality": "720p",
         "video_number": 11,
-        "local_path": "mathmo_assets/wistia_jusx3x4kb3.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_jusx3x4kb3.mp4",
+        "runtime_seconds": 586.57,
+        "runtime_formatted": "9m 46s"
       },
       {
         "title": "The Difference Of Two Squares",
@@ -1303,7 +1553,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b6fafe3132f6d0c85999187f77501717ed3d31f4.mp4",
         "quality": "720p",
         "video_number": 12,
-        "local_path": "mathmo_assets/wistia_5j1i8dne7m.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_5j1i8dne7m.mp4",
+        "runtime_seconds": 826.82,
+        "runtime_formatted": "13m 46s"
       },
       {
         "title": "Writing An Expression",
@@ -1313,7 +1565,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/25f5ed2c4d4595de14e42643f1891088a99cc759.mp4",
         "quality": "720p",
         "video_number": 13,
-        "local_path": "mathmo_assets/wistia_26ekt3o2bn.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_26ekt3o2bn.mp4",
+        "runtime_seconds": 692.05,
+        "runtime_formatted": "11m 32s"
       },
       {
         "title": "Algebraic Fractions Basics (Higher Tier only)",
@@ -1323,7 +1577,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/12f2da6e65a1196b396639c7807cf2662ed50e59.mp4",
         "quality": "720p",
         "video_number": 14,
-        "local_path": "mathmo_assets/wistia_r8wk1lw2iu.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_r8wk1lw2iu.mp4",
+        "runtime_seconds": 597.77,
+        "runtime_formatted": "9m 57s"
       },
       {
         "title": "Algebraic Fractions (Common Denominators) (Higher Tier only)",
@@ -1333,7 +1589,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a5704930186126c37eddede2bee96786d38fbf72.mp4",
         "quality": "720p",
         "video_number": 15,
-        "local_path": "mathmo_assets/wistia_njw5malyfg.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_njw5malyfg.mp4",
+        "runtime_seconds": 1258.67,
+        "runtime_formatted": "20m 58s"
       },
       {
         "title": "Powers Basics",
@@ -1343,7 +1601,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4efb69981fd90c3fdbd2176759718c74cf22c910.mp4",
         "quality": "540p",
         "video_number": 16,
-        "local_path": "mathmo_assets/wistia_tsw1evwens.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_tsw1evwens.mp4",
+        "runtime_seconds": 1190.13,
+        "runtime_formatted": "19m 50s"
       },
       {
         "title": "Fractional & Negative Powers (Higher Tier only)",
@@ -1353,7 +1613,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a94daced1979b4b9f52d334f1d75be0d788afaad.mp4",
         "quality": "540p",
         "video_number": 17,
-        "local_path": "mathmo_assets/wistia_fgeusualqg.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_fgeusualqg.mp4",
+        "runtime_seconds": 1237.1,
+        "runtime_formatted": "20m 37s"
       },
       {
         "title": "Nasty Powers Questions (Higher Tier only)",
@@ -1363,7 +1625,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/41f57f85fb5f78af53991ff8cb65a7837245f8fa.mp4",
         "quality": "540p",
         "video_number": 18,
-        "local_path": "mathmo_assets/wistia_d8f3gj84d5.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_d8f3gj84d5.mp4",
+        "runtime_seconds": 406.13,
+        "runtime_formatted": "6m 46s"
       },
       {
         "title": "Multiplying & Dividing Surds",
@@ -1373,7 +1637,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d4a1f2a5203d3535dc15a2132c900e1577440b88.mp4",
         "quality": "720p",
         "video_number": 19,
-        "local_path": "mathmo_assets/wistia_b2gfexhmjr.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_b2gfexhmjr.mp4",
+        "runtime_seconds": 763.2,
+        "runtime_formatted": "12m 43s"
       },
       {
         "title": "Adding & Subtracting Surds",
@@ -1383,7 +1649,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/fa6a85cd94cf29be27198ae7160e8055d6f02375.mp4",
         "quality": "720p",
         "video_number": 20,
-        "local_path": "mathmo_assets/wistia_znlqr0pu66.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_znlqr0pu66.mp4",
+        "runtime_seconds": 388.33,
+        "runtime_formatted": "6m 28s"
       },
       {
         "title": "Simplifying Surds",
@@ -1393,7 +1661,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7023fff7497ddfa7a23481b3b3e401c2fdeca300.mp4",
         "quality": "720p",
         "video_number": 21,
-        "local_path": "mathmo_assets/wistia_1kid31g695.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_1kid31g695.mp4",
+        "runtime_seconds": 824.57,
+        "runtime_formatted": "13m 44s"
       },
       {
         "title": "Expanding Surds",
@@ -1403,7 +1673,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/34e9f9b85b3e05073af2970722d4ee21c05e8eff.mp4",
         "quality": "720p",
         "video_number": 22,
-        "local_path": "mathmo_assets/wistia_dfvbw8npyk.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_dfvbw8npyk.mp4",
+        "runtime_seconds": 592.43,
+        "runtime_formatted": "9m 52s"
       },
       {
         "title": "Rationalising The Denominator",
@@ -1413,7 +1685,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/681fac316126e54143679741d0f868a314c892a8.mp4",
         "quality": "720p",
         "video_number": 23,
-        "local_path": "mathmo_assets/wistia_b4sa3hc71s.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_b4sa3hc71s.mp4",
+        "runtime_seconds": 1026.43,
+        "runtime_formatted": "17m 6s"
       },
       {
         "title": "Surds With Algebra",
@@ -1423,7 +1697,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/399d9194780b3a69e3450b97f8b5b96c0bbd4986.mp4",
         "quality": "720p",
         "video_number": 24,
-        "local_path": "mathmo_assets/wistia_c81188zvw4.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_c81188zvw4.mp4",
+        "runtime_seconds": 775.9,
+        "runtime_formatted": "12m 55s"
       },
       {
         "title": "Nasty Surds Questions",
@@ -1433,7 +1709,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/409b004c2a8a62507d9be6e488c8a922375aaa30.mp4",
         "quality": "540p",
         "video_number": 25,
-        "local_path": "mathmo_assets/wistia_jhq98tbwmt.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_jhq98tbwmt.mp4",
+        "runtime_seconds": 775.93,
+        "runtime_formatted": "12m 55s"
       },
       {
         "title": "Equations Intro",
@@ -1443,7 +1721,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/3b70c6ae4422ed486bed68ba2bb04fae984d23b0.mp4",
         "quality": "720p",
         "video_number": 26,
-        "local_path": "mathmo_assets/wistia_z945b9gw3f.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_z945b9gw3f.mp4",
+        "runtime_seconds": 179.13,
+        "runtime_formatted": "2m 59s"
       },
       {
         "title": "Chucking",
@@ -1453,7 +1733,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9d3f2ad6398c71fc3829241b35ea8e5ad3ef8726.mp4",
         "quality": "720p",
         "video_number": 27,
-        "local_path": "mathmo_assets/wistia_9jq4gta7mu.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_9jq4gta7mu.mp4",
+        "runtime_seconds": 867.47,
+        "runtime_formatted": "14m 27s"
       },
       {
         "title": "Sliding",
@@ -1463,7 +1745,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8f026a2af6cb40683ecf8c59aed0f716b924a1a4.mp4",
         "quality": "720p",
         "video_number": 28,
-        "local_path": "mathmo_assets/wistia_no4i58uvri.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_no4i58uvri.mp4",
+        "runtime_seconds": 871.7,
+        "runtime_formatted": "14m 31s"
       },
       {
         "title": "The Earthquake",
@@ -1473,7 +1757,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/96652f9d9d31732e337ccf1ae93fbd09552e297e.mp4",
         "quality": "720p",
         "video_number": 29,
-        "local_path": "mathmo_assets/wistia_zlqey53wka.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_zlqey53wka.mp4",
+        "runtime_seconds": 364.28,
+        "runtime_formatted": "6m 4s"
       },
       {
         "title": "Solving Equations Practice",
@@ -1483,7 +1769,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/0a01bbd1815117b1843fef10fc766e7dcaa1c3a6.mp4",
         "quality": "720p",
         "video_number": 30,
-        "local_path": "mathmo_assets/wistia_53yziywrlu.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_53yziywrlu.mp4",
+        "runtime_seconds": 373.61,
+        "runtime_formatted": "6m 13s"
       },
       {
         "title": "Using Brackets In Equations",
@@ -1493,7 +1781,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/be1714a795793a792ba845c0c83ddb6244340368.mp4",
         "quality": "720p",
         "video_number": 31,
-        "local_path": "mathmo_assets/wistia_69bj1mvbgk.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_69bj1mvbgk.mp4",
+        "runtime_seconds": 366.6,
+        "runtime_formatted": "6m 6s"
       },
       {
         "title": "Getting Rid Of Fractions",
@@ -1503,7 +1793,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/44b0023c562dfb8a9b2671d8107b1c5280ebc3fc.mp4",
         "quality": "720p",
         "video_number": 32,
-        "local_path": "mathmo_assets/wistia_yeyi86qrje.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_yeyi86qrje.mp4",
+        "runtime_seconds": 899.87,
+        "runtime_formatted": "14m 59s"
       },
       {
         "title": "Number Of Terms",
@@ -1513,7 +1805,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/2fcec8bd1e4755ad4f787fe73259b973c9b5af8e.mp4",
         "quality": "720p",
         "video_number": 33,
-        "local_path": "mathmo_assets/wistia_jwaq2w6xy2.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_jwaq2w6xy2.mp4",
+        "runtime_seconds": 409.5,
+        "runtime_formatted": "6m 49s"
       },
       {
         "title": "Squares In Equations (Higher Tier only)",
@@ -1523,7 +1817,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b9e2de8afb86e89830fbf8a3fb93fafef2f4dd3e.mp4",
         "quality": "720p",
         "video_number": 34,
-        "local_path": "mathmo_assets/wistia_atxtihneso.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_atxtihneso.mp4",
+        "runtime_seconds": 368.77,
+        "runtime_formatted": "6m 8s"
       },
       {
         "title": "Algebraic Fractions In Equations (Higher Tier only)",
@@ -1533,7 +1829,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ec8361ea19c4c62ea7e61d8f688e63f7064beadb.mp4",
         "quality": "720p",
         "video_number": 35,
-        "local_path": "mathmo_assets/wistia_ov7y6qi2wc.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_ov7y6qi2wc.mp4",
+        "runtime_seconds": 663.17,
+        "runtime_formatted": "11m 3s"
       },
       {
         "title": "Inequalities Intro",
@@ -1543,7 +1841,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f561416e5a4fc39f4761c5c13af4b7db086fee5c.mp4",
         "quality": "720p",
         "video_number": 36,
-        "local_path": "mathmo_assets/wistia_8x8ekvz3ux.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_8x8ekvz3ux.mp4",
+        "runtime_seconds": 364.9,
+        "runtime_formatted": "6m 4s"
       },
       {
         "title": "Solving Inequalities",
@@ -1553,7 +1853,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7e66c415dc828f5c36a68a3585aa3068cff49bcd.mp4",
         "quality": "720p",
         "video_number": 37,
-        "local_path": "mathmo_assets/wistia_rlzvplxqfz.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_rlzvplxqfz.mp4",
+        "runtime_seconds": 517.48,
+        "runtime_formatted": "8m 37s"
       },
       {
         "title": "3-Part Inequalities",
@@ -1563,7 +1865,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b732ddc0a43511c1e244279798cf5d46b9365a2c.mp4",
         "quality": "720p",
         "video_number": 38,
-        "local_path": "mathmo_assets/wistia_8kduol9mlg.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_8kduol9mlg.mp4",
+        "runtime_seconds": 343.03,
+        "runtime_formatted": "5m 43s"
       },
       {
         "title": "Quadratic Inequalities (Higher Tier only)",
@@ -1573,7 +1877,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5ff987ec0fcedeae5b874e27d74f7c6f5ab2fcee.mp4",
         "quality": "720p",
         "video_number": 39,
-        "local_path": "mathmo_assets/wistia_zq3n4u8eyz.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_zq3n4u8eyz.mp4",
+        "runtime_seconds": 750.87,
+        "runtime_formatted": "12m 30s"
       },
       {
         "title": "Simultaneous Equations (Substitution)",
@@ -1583,7 +1889,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/97112673c17e68040eab727cc2921eb8b8b9df96.mp4",
         "quality": "720p",
         "video_number": 40,
-        "local_path": "mathmo_assets/wistia_yl2p0cy9ef.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_yl2p0cy9ef.mp4",
+        "runtime_seconds": 678.05,
+        "runtime_formatted": "11m 18s"
       },
       {
         "title": "Simultaneous Equations (Elimination)",
@@ -1593,7 +1901,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c1531a60c5021a9623d6969f4cf9fb8cc1c9554b.mp4",
         "quality": "720p",
         "video_number": 41,
-        "local_path": "mathmo_assets/wistia_wpgpw664ud.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_wpgpw664ud.mp4",
+        "runtime_seconds": 800.07,
+        "runtime_formatted": "13m 20s"
       },
       {
         "title": "Quadratics Intro",
@@ -1603,7 +1913,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/629c9cdb00f3a01e2afdbe612a4a0c439409249e.mp4",
         "quality": "720p",
         "video_number": 42,
-        "local_path": "mathmo_assets/wistia_hiz0tanxi1.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_hiz0tanxi1.mp4",
+        "runtime_seconds": 72.61,
+        "runtime_formatted": "1m 12s"
       },
       {
         "title": "Factorising Quadratics",
@@ -1613,7 +1925,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/e02c657f28f03fb19d542ec21a00511c62ea4690.mp4",
         "quality": "720p",
         "video_number": 43,
-        "local_path": "mathmo_assets/wistia_uazxppzt9u.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_uazxppzt9u.mp4",
+        "runtime_seconds": 897.71,
+        "runtime_formatted": "14m 57s"
       },
       {
         "title": "Factorising Harder Quadratics (Higher Tier only)",
@@ -1623,7 +1937,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f1c69601247cdc430d1a1b8c1b401a7f5a532298.mp4",
         "quality": "720p",
         "video_number": 44,
-        "local_path": "mathmo_assets/wistia_9m63y26ppz.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_9m63y26ppz.mp4",
+        "runtime_seconds": 857.57,
+        "runtime_formatted": "14m 17s"
       },
       {
         "title": "Solving Quadratics",
@@ -1633,7 +1949,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/e8a456d6e0efdf22649272e1b9c178c4c5d62d05.mp4",
         "quality": "720p",
         "video_number": 45,
-        "local_path": "mathmo_assets/wistia_44h8t7ml63.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_44h8t7ml63.mp4",
+        "runtime_seconds": 479.14,
+        "runtime_formatted": "7m 59s"
       },
       {
         "title": "Quadratic Formula (Higher Tier only)",
@@ -1643,7 +1961,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/320c67c8252ca81ea7b2d25b98199d2227b54fc3.mp4",
         "quality": "720p",
         "video_number": 46,
-        "local_path": "mathmo_assets/wistia_hbwn9zlvg7.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_hbwn9zlvg7.mp4",
+        "runtime_seconds": 561.18,
+        "runtime_formatted": "9m 21s"
       },
       {
         "title": "Solving Harder Quadratics (Higher Tier only)",
@@ -1653,7 +1973,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a008646ea7e687891bb7fa19f1655c30cb8d8c2e.mp4",
         "quality": "720p",
         "video_number": 47,
-        "local_path": "mathmo_assets/wistia_doxy2uzcj4.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_doxy2uzcj4.mp4",
+        "runtime_seconds": 332.35,
+        "runtime_formatted": "5m 32s"
       },
       {
         "title": "Simplifying Quadratics (Higher Tier only)",
@@ -1663,7 +1985,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/89861809e717d5192eb1c3cd58864f06137a6002.mp4",
         "quality": "720p",
         "video_number": 48,
-        "local_path": "mathmo_assets/wistia_nnor2iufyh.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_nnor2iufyh.mp4",
+        "runtime_seconds": 91.47,
+        "runtime_formatted": "1m 31s"
       },
       {
         "title": "Completing The Square (Higher Tier only)",
@@ -1673,7 +1997,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/edaa0b2f8f0edd19fdc0e2ae9570dbf546d95946.mp4",
         "quality": "720p",
         "video_number": 49,
-        "local_path": "mathmo_assets/wistia_1iof56fc7v.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_1iof56fc7v.mp4",
+        "runtime_seconds": 424.27,
+        "runtime_formatted": "7m 4s"
       },
       {
         "title": "Nasty Completing The Square (Higher Tier only)",
@@ -1683,7 +2009,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/1960552f571674605e3a28c313e5bc91b42ba45c.mp4",
         "quality": "720p",
         "video_number": 50,
-        "local_path": "mathmo_assets/wistia_2n45uksjhn.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_2n45uksjhn.mp4",
+        "runtime_seconds": 373.27,
+        "runtime_formatted": "6m 13s"
       },
       {
         "title": "Quadratics In Algebraic Fractions (Higher Tier only)",
@@ -1693,7 +2021,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/99c1556f860ba236ee71c53bdee5e3ae9c459b7e.mp4",
         "quality": "720p",
         "video_number": 51,
-        "local_path": "mathmo_assets/wistia_avrkvaw7uw.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_avrkvaw7uw.mp4",
+        "runtime_seconds": 502.6,
+        "runtime_formatted": "8m 22s"
       },
       {
         "title": "Number Sequences",
@@ -1703,7 +2033,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/897107807750bb0064f7d8ef0d9c001964f35bba.mp4",
         "quality": "720p",
         "video_number": 52,
-        "local_path": "mathmo_assets/wistia_ta95gbjrw0.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_ta95gbjrw0.mp4",
+        "runtime_seconds": 317.02,
+        "runtime_formatted": "5m 17s"
       },
       {
         "title": "Fibonacci Sequences",
@@ -1713,7 +2045,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/afb884027e6cd60d45904c0a78f536412c418bf0.mp4",
         "quality": "720p",
         "video_number": 53,
-        "local_path": "mathmo_assets/wistia_sawjz274qe.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_sawjz274qe.mp4",
+        "runtime_seconds": 188.83,
+        "runtime_formatted": "3m 8s"
       },
       {
         "title": "Triangular Numbers",
@@ -1723,7 +2057,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/72ded4398a6a6f4d675738461d7e9caf56d30fc2.mp4",
         "quality": "720p",
         "video_number": 54,
-        "local_path": "mathmo_assets/wistia_powv9gloyb.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_powv9gloyb.mp4",
+        "runtime_seconds": 67.47,
+        "runtime_formatted": "1m 7s"
       },
       {
         "title": "Square & Cube Numbers",
@@ -1733,7 +2069,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/cc1c2ff8f856c10f76f1189a691b993ca0924c54.mp4",
         "quality": "720p",
         "video_number": 55,
-        "local_path": "mathmo_assets/wistia_4o2xa4uw24.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_4o2xa4uw24.mp4",
+        "runtime_seconds": 43.68,
+        "runtime_formatted": "43s"
       },
       {
         "title": "Shape Sequences",
@@ -1743,7 +2081,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8ba41e32031fc28a8b6fb5c24bf0fcd913b6eb07.mp4",
         "quality": "720p",
         "video_number": 56,
-        "local_path": "mathmo_assets/wistia_0ru7yq6q5y.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_0ru7yq6q5y.mp4",
+        "runtime_seconds": 790.17,
+        "runtime_formatted": "13m 10s"
       },
       {
         "title": "Geometric Progressions",
@@ -1753,7 +2093,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4d98ecc928edd45709e44456fd29db7e553a13f4.mp4",
         "quality": "720p",
         "video_number": 57,
-        "local_path": "mathmo_assets/wistia_2mon4z0jjo.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_2mon4z0jjo.mp4",
+        "runtime_seconds": 171.29,
+        "runtime_formatted": "2m 51s"
       },
       {
         "title": "nth Term",
@@ -1763,7 +2105,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d0830047d7bdd970282d202f545bf8ff74ef84e0.mp4",
         "quality": "720p",
         "video_number": 58,
-        "local_path": "mathmo_assets/wistia_5yhkek1lyq.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_5yhkek1lyq.mp4",
+        "runtime_seconds": 502.48,
+        "runtime_formatted": "8m 22s"
       },
       {
         "title": "Finding The nth Term",
@@ -1773,7 +2117,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c50791c5ca4bb0b69fe70df26807e915623a7169.mp4",
         "quality": "720p",
         "video_number": 59,
-        "local_path": "mathmo_assets/wistia_e8c2kic8vy.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_e8c2kic8vy.mp4",
+        "runtime_seconds": 239.77,
+        "runtime_formatted": "3m 59s"
       },
       {
         "title": "Harder Sequences Questions",
@@ -1783,7 +2129,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6d56fbec31b96b27e38b40b69a11346f4a21a35a.mp4",
         "quality": "720p",
         "video_number": 60,
-        "local_path": "mathmo_assets/wistia_xr6f9vmze6.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_xr6f9vmze6.mp4",
+        "runtime_seconds": 415.53,
+        "runtime_formatted": "6m 55s"
       },
       {
         "title": "Arithmetic Series (IGCSE Higher only)",
@@ -1793,7 +2141,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/174f240a3aafeefa3b3add4866bdd5c8dda63b81.mp4",
         "quality": "720p",
         "video_number": 61,
-        "local_path": "mathmo_assets/wistia_8hi4272sc4.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_8hi4272sc4.mp4",
+        "runtime_seconds": 879.78,
+        "runtime_formatted": "14m 39s"
       },
       {
         "title": "Disproof By Counterexample",
@@ -1803,7 +2153,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5b3684b84ec62900b0d7f2361798462c2557219a.mp4",
         "quality": "720p",
         "video_number": 62,
-        "local_path": "mathmo_assets/wistia_9b373vakyk.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_9b373vakyk.mp4",
+        "runtime_seconds": 356.6,
+        "runtime_formatted": "5m 56s"
       },
       {
         "title": "Proof",
@@ -1813,7 +2165,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8055078c50c88ea9f236fbfe6226b8cd0188ba42.mp4",
         "quality": "720p",
         "video_number": 63,
-        "local_path": "mathmo_assets/wistia_4cslfoecou.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_4cslfoecou.mp4",
+        "runtime_seconds": 825.45,
+        "runtime_formatted": "13m 45s"
       },
       {
         "title": "Functions Intro",
@@ -1823,7 +2177,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/000cb4ba2ee82238c25f18c074ba44fb6b9ce684.mp4",
         "quality": "720p",
         "video_number": 64,
-        "local_path": "mathmo_assets/wistia_q7xae8reho.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_q7xae8reho.mp4",
+        "runtime_seconds": 554.14,
+        "runtime_formatted": "9m 14s"
       },
       {
         "title": "Composite Functions",
@@ -1833,7 +2189,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7f643b524fd72d10d649c71f475ca9dfb3fefcc3.mp4",
         "quality": "720p",
         "video_number": 65,
-        "local_path": "mathmo_assets/wistia_pgjzrfu9uo.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_pgjzrfu9uo.mp4",
+        "runtime_seconds": 738.5,
+        "runtime_formatted": "12m 18s"
       },
       {
         "title": "Inverse Functions",
@@ -1843,7 +2201,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/21aa854a001ebd7b842013ce2d2536e1496b2501.mp4",
         "quality": "720p",
         "video_number": 66,
-        "local_path": "mathmo_assets/wistia_4tl2lto2zr.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_4tl2lto2zr.mp4",
+        "runtime_seconds": 578.5,
+        "runtime_formatted": "9m 38s"
       },
       {
         "title": "Range & Domain (IGCSE Higher only)",
@@ -1853,7 +2213,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4324f4a58061a079a913608d705b0a7e3dd18667.mp4",
         "quality": "720p",
         "video_number": 67,
-        "local_path": "mathmo_assets/wistia_1iq3e6f8yf.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_1iq3e6f8yf.mp4",
+        "runtime_seconds": 398.52,
+        "runtime_formatted": "6m 38s"
       },
       {
         "title": "Excluding Values From A Domain (IGCSE Higher only)",
@@ -1863,7 +2225,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4a93919841d692943d57fddfbdb485216975385f.mp4",
         "quality": "720p",
         "video_number": 68,
-        "local_path": "mathmo_assets/wistia_8tlyoh2av7.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_8tlyoh2av7.mp4",
+        "runtime_seconds": 216.36,
+        "runtime_formatted": "3m 36s"
       },
       {
         "title": "Nasty Functions Questions",
@@ -1873,7 +2237,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6cdc21be96e8fba95b662a22bad5272da61a41a1.mp4",
         "quality": "720p",
         "video_number": 69,
-        "local_path": "mathmo_assets/wistia_krp29kenss.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_krp29kenss.mp4",
+        "runtime_seconds": 1132.44,
+        "runtime_formatted": "18m 52s"
       },
       {
         "title": "Iteration Basics",
@@ -1883,7 +2249,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/40d0e053848de1083778e4280f4b1f93be02af67.mp4",
         "quality": "1080p",
         "video_number": 70,
-        "local_path": "mathmo_assets/wistia_dp96cqruu5.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_dp96cqruu5.mp4",
+        "runtime_seconds": 887.87,
+        "runtime_formatted": "14m 47s"
       },
       {
         "title": "Harder Iteration",
@@ -1893,7 +2261,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4bb9b0927980e6ddc63eb61fca1be31d775a6fd8.mp4",
         "quality": "1080p",
         "video_number": 71,
-        "local_path": "mathmo_assets/wistia_gy6a41zuuy.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_gy6a41zuuy.mp4",
+        "runtime_seconds": 1342.55,
+        "runtime_formatted": "22m 22s"
       }
     ],
     "module_number": 2.0
@@ -1910,7 +2280,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f0e9300181d47326758022fc45d1acb0831e6b1b.mp4",
         "quality": "720p",
         "video_number": 1,
-        "local_path": "mathmo_assets/wistia_o562xsn6in.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_o562xsn6in.mp4",
+        "runtime_seconds": 555.57,
+        "runtime_formatted": "9m 15s"
       },
       {
         "title": "Midpoint",
@@ -1920,7 +2292,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/109b98ee38559d2dead9c5cf85cd420257c0e67e.mp4",
         "quality": "720p",
         "video_number": 2,
-        "local_path": "mathmo_assets/wistia_m65gmb0qzg.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_m65gmb0qzg.mp4",
+        "runtime_seconds": 345.5,
+        "runtime_formatted": "5m 45s"
       },
       {
         "title": "Horizontal & Vertical Lines",
@@ -1930,7 +2304,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/76b476567d1b22dbb3397f948ebd70ae7f0f1f3f.mp4",
         "quality": "720p",
         "video_number": 3,
-        "local_path": "mathmo_assets/wistia_bjhfjx7xz4.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_bjhfjx7xz4.mp4",
+        "runtime_seconds": 233.03,
+        "runtime_formatted": "3m 53s"
       },
       {
         "title": "Gradient",
@@ -1940,7 +2316,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7a9dc825b10d7b6ffd6ae9ee806247235b4f0e72.mp4",
         "quality": "720p",
         "video_number": 4,
-        "local_path": "mathmo_assets/wistia_1n4ewxk1v0.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_1n4ewxk1v0.mp4",
+        "runtime_seconds": 877.6,
+        "runtime_formatted": "14m 37s"
       },
       {
         "title": "y = mx + c",
@@ -1950,7 +2328,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ddbcb0ce18eb774e312fc18e952f4937166ab12f.mp4",
         "quality": "720p",
         "video_number": 5,
-        "local_path": "mathmo_assets/wistia_gpvtkpbkjx.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_gpvtkpbkjx.mp4",
+        "runtime_seconds": 519.67,
+        "runtime_formatted": "8m 39s"
       },
       {
         "title": "Straight Lines Through The Origin",
@@ -1960,7 +2340,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c803a121e97b97910dee62d61225fd1c4bc531e6.mp4",
         "quality": "720p",
         "video_number": 6,
-        "local_path": "mathmo_assets/wistia_wwliyd10g2.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_wwliyd10g2.mp4",
+        "runtime_seconds": 156.85,
+        "runtime_formatted": "2m 36s"
       },
       {
         "title": "Rearranging",
@@ -1970,7 +2352,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/66a306a91c186ee1424bbc5deda23a2b05ca7109.mp4",
         "quality": "720p",
         "video_number": 7,
-        "local_path": "mathmo_assets/wistia_7lawunacof.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_7lawunacof.mp4",
+        "runtime_seconds": 496.73,
+        "runtime_formatted": "8m 16s"
       },
       {
         "title": "Parallel Lines",
@@ -1980,7 +2364,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/daecdf74174904868496e1af21619f786ddc0372.mp4",
         "quality": "720p",
         "video_number": 8,
-        "local_path": "mathmo_assets/wistia_dooozenddk.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_dooozenddk.mp4",
+        "runtime_seconds": 358.8,
+        "runtime_formatted": "5m 58s"
       },
       {
         "title": "Table Of Values",
@@ -1990,7 +2376,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/493c7502e401c776c1dc0fcc5024d8448ffa7cf7.mp4",
         "quality": "720p",
         "video_number": 9,
-        "local_path": "mathmo_assets/wistia_jzd1jn1b40.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_jzd1jn1b40.mp4",
+        "runtime_seconds": 801.27,
+        "runtime_formatted": "13m 21s"
       },
       {
         "title": "x=0, y=0",
@@ -2000,7 +2388,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ebf5c6b758a76e3c6a095b64991f0c32ac764bcf.mp4",
         "quality": "720p",
         "video_number": 10,
-        "local_path": "mathmo_assets/wistia_kfspfblom9.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_kfspfblom9.mp4",
+        "runtime_seconds": 341.06,
+        "runtime_formatted": "5m 41s"
       },
       {
         "title": "Quadratic Graphs Intro",
@@ -2010,7 +2400,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4be2612cbd0af3a35f2ea2e9011c8a5c60e93af7.mp4",
         "quality": "720p",
         "video_number": 11,
-        "local_path": "mathmo_assets/wistia_zbxcouvd8c.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_zbxcouvd8c.mp4",
+        "runtime_seconds": 204.07,
+        "runtime_formatted": "3m 24s"
       },
       {
         "title": "Plotting Quadratics",
@@ -2020,7 +2412,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/60c9da7230095f3e4c237973015a249134efd3a6.mp4",
         "quality": "720p",
         "video_number": 12,
-        "local_path": "mathmo_assets/wistia_p07pl9k1ku.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_p07pl9k1ku.mp4",
+        "runtime_seconds": 388.2,
+        "runtime_formatted": "6m 28s"
       },
       {
         "title": "Turning Points",
@@ -2030,7 +2424,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/2bf8bad250681670cdbfd8277d1b76d35119e2f5.mp4",
         "quality": "720p",
         "video_number": 13,
-        "local_path": "mathmo_assets/wistia_umjtv0099e.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_umjtv0099e.mp4",
+        "runtime_seconds": 415.45,
+        "runtime_formatted": "6m 55s"
       },
       {
         "title": "Turning Points (Completing The Square) (Higher Tier only)",
@@ -2040,7 +2436,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6098f6a5d0a4e9d000b3868a7fcb58c8eb191bfe.mp4",
         "quality": "720p",
         "video_number": 14,
-        "local_path": "mathmo_assets/wistia_kacali33id.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_kacali33id.mp4",
+        "runtime_seconds": 342.43,
+        "runtime_formatted": "5m 42s"
       },
       {
         "title": "Roots",
@@ -2050,7 +2448,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/e24b4151797f05d12d04923582cb23e71b43024e.mp4",
         "quality": "720p",
         "video_number": 15,
-        "local_path": "mathmo_assets/wistia_psa9hepp63.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_psa9hepp63.mp4",
+        "runtime_seconds": 106.42,
+        "runtime_formatted": "1m 46s"
       },
       {
         "title": "Sketching Quadratics (Higher Tier only)",
@@ -2060,7 +2460,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6f9861c870bb5f878aff0c821ceff80c293e06f5.mp4",
         "quality": "720p",
         "video_number": 16,
-        "local_path": "mathmo_assets/wistia_u2he5qrpbh.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_u2he5qrpbh.mp4",
+        "runtime_seconds": 520.6,
+        "runtime_formatted": "8m 40s"
       },
       {
         "title": "Cubic Graphs",
@@ -2070,7 +2472,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4929c12ed6a42f69dd9f82336320c558ee87600c.mp4",
         "quality": "720p",
         "video_number": 17,
-        "local_path": "mathmo_assets/wistia_u726erncqp.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_u726erncqp.mp4",
+        "runtime_seconds": 251.73,
+        "runtime_formatted": "4m 11s"
       },
       {
         "title": "Reciprocal Graphs",
@@ -2080,7 +2484,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a836889c5643227e64943098fe36c3ecb521b1cb.mp4",
         "quality": "720p",
         "video_number": 18,
-        "local_path": "mathmo_assets/wistia_3dbwtetqsl.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_3dbwtetqsl.mp4",
+        "runtime_seconds": 222.17,
+        "runtime_formatted": "3m 42s"
       },
       {
         "title": "Exponential Graphs (GCSE Higher Tier only)",
@@ -2090,7 +2496,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f0bd0e47091802540ac9b6d1d2ecabf56987f2e8.mp4",
         "quality": "720p",
         "video_number": 19,
-        "local_path": "mathmo_assets/wistia_jz2fny95i3.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_jz2fny95i3.mp4",
+        "runtime_seconds": 125.4,
+        "runtime_formatted": "2m 5s"
       },
       {
         "title": "1/x^2 Graphs (IGCSE Higher only)",
@@ -2100,7 +2508,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/72adccbe4e14259f3dc917da72727ec89b437fa6.mp4",
         "quality": "720p",
         "video_number": 20,
-        "local_path": "mathmo_assets/wistia_81agehj0kx.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_81agehj0kx.mp4",
+        "runtime_seconds": 29.07,
+        "runtime_formatted": "29s"
       },
       {
         "title": "Simultaneous Equations On Graphs",
@@ -2110,7 +2520,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6a09ded78b57949dce7d3cb2e9f44235ec89df90.mp4",
         "quality": "720p",
         "video_number": 21,
-        "local_path": "mathmo_assets/wistia_ixoo4xm5v5.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_ixoo4xm5v5.mp4",
+        "runtime_seconds": 291.0,
+        "runtime_formatted": "4m 51s"
       },
       {
         "title": "Nasty Simultaneous Equations On Graphs (GCSE Higher Tier only)",
@@ -2120,7 +2532,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a101f68d96757d4dac4189384ca9197ad50e9e04.mp4",
         "quality": "720p",
         "video_number": 22,
-        "local_path": "mathmo_assets/wistia_t3z574ftcg.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_t3z574ftcg.mp4",
+        "runtime_seconds": 304.4,
+        "runtime_formatted": "5m 4s"
       },
       {
         "title": "Estimating Gradient (Higher Tier only)",
@@ -2130,7 +2544,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/72befe104605756c1439d863289ee89c0a6b8e85.mp4",
         "quality": "720p",
         "video_number": 23,
-        "local_path": "mathmo_assets/wistia_adpyngknk8.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_adpyngknk8.mp4",
+        "runtime_seconds": 406.74,
+        "runtime_formatted": "6m 46s"
       },
       {
         "title": "Graph = k",
@@ -2140,7 +2556,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d0fa7e93d5b9aca6f87685d37afc71813a460687.mp4",
         "quality": "720p",
         "video_number": 24,
-        "local_path": "mathmo_assets/wistia_a48vxzrype.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_a48vxzrype.mp4",
+        "runtime_seconds": 251.66,
+        "runtime_formatted": "4m 11s"
       },
       {
         "title": "Nasty Graph = k (Higher Tier only)",
@@ -2150,7 +2568,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a6dc9ac55dbde5799fb77af5436e3272b201cb66.mp4",
         "quality": "720p",
         "video_number": 25,
-        "local_path": "mathmo_assets/wistia_2wl7kvei7k.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_2wl7kvei7k.mp4",
+        "runtime_seconds": 802.95,
+        "runtime_formatted": "13m 22s"
       },
       {
         "title": "Drawing A Suitable Straight Line (Higher Tier only)",
@@ -2160,7 +2580,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/13319cbb5e07241a183702a476a7fdfbe5380342.mp4",
         "quality": "720p",
         "video_number": 26,
-        "local_path": "mathmo_assets/wistia_bzb5qf9a99.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_bzb5qf9a99.mp4",
+        "runtime_seconds": 850.64,
+        "runtime_formatted": "14m 10s"
       },
       {
         "title": "Graph Transformations (Translation) (Higher Tier only)",
@@ -2170,7 +2592,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/56e8be8d41f40a0f3289ae75427b4a97bf09c22e.mp4",
         "quality": "720p",
         "video_number": 27,
-        "local_path": "mathmo_assets/wistia_134e9ai83g.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_134e9ai83g.mp4",
+        "runtime_seconds": 781.03,
+        "runtime_formatted": "13m 1s"
       },
       {
         "title": "Graph Transformations (Reflection) (Higher Tier only)",
@@ -2180,7 +2604,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/bde4acea7da2d36e23515caa0fb6115428942a2e.mp4",
         "quality": "720p",
         "video_number": 28,
-        "local_path": "mathmo_assets/wistia_zd71mfjifa.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_zd71mfjifa.mp4",
+        "runtime_seconds": 478.15,
+        "runtime_formatted": "7m 58s"
       },
       {
         "title": "Graph Transformations (Stretches) (IGCSE Higher only)",
@@ -2190,7 +2616,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/80643a6a67f63467c12251d7f72a4edeae4de38e.mp4",
         "quality": "720p",
         "video_number": 29,
-        "local_path": "mathmo_assets/wistia_uml6t9f4kt.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_uml6t9f4kt.mp4",
+        "runtime_seconds": 935.97,
+        "runtime_formatted": "15m 35s"
       },
       {
         "title": "Conversion Graphs",
@@ -2200,7 +2628,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/49212ab93fa9ab8c20c62fa41443f18215679fec.mp4",
         "quality": "720p",
         "video_number": 30,
-        "local_path": "mathmo_assets/wistia_3tf3zicxpt.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_3tf3zicxpt.mp4",
+        "runtime_seconds": 291.34,
+        "runtime_formatted": "4m 51s"
       },
       {
         "title": "Money And Time Graphs",
@@ -2210,7 +2640,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ead5afc4c0f6df898a3b41a3d5b06df529396e79.mp4",
         "quality": "720p",
         "video_number": 31,
-        "local_path": "mathmo_assets/wistia_xekmk8gv8n.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_xekmk8gv8n.mp4",
+        "runtime_seconds": 1060.93,
+        "runtime_formatted": "17m 40s"
       },
       {
         "title": "Proportion Graphs (Foundation)",
@@ -2220,7 +2652,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6f5afd79ea510ca23e2b6eded446443ba7d7b01a.mp4",
         "quality": "720p",
         "video_number": 32,
-        "local_path": "mathmo_assets/wistia_xeao1akgqc.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_xeao1akgqc.mp4",
+        "runtime_seconds": 133.91,
+        "runtime_formatted": "2m 13s"
       },
       {
         "title": "Proportion Graphs (Higher)",
@@ -2230,7 +2664,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6281a0fabb1a905f2ec582c7a52e4ad17f157057.mp4",
         "quality": "720p",
         "video_number": 33,
-        "local_path": "mathmo_assets/wistia_rsttx1tgah.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_rsttx1tgah.mp4",
+        "runtime_seconds": 142.1,
+        "runtime_formatted": "2m 22s"
       },
       {
         "title": "Harder Proportion Graphs (GCSE Higher only)",
@@ -2240,7 +2676,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5486fa07e287a099540c7d53d93f317024b2f1a7.mp4",
         "quality": "720p",
         "video_number": 34,
-        "local_path": "mathmo_assets/wistia_tmku86tlig.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_tmku86tlig.mp4",
+        "runtime_seconds": 96.57,
+        "runtime_formatted": "1m 36s"
       },
       {
         "title": "Distance-Time Graphs",
@@ -2250,7 +2688,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/e60ac37f37e624b92ae0ec0faa651696db2a5712.mp4",
         "quality": "720p",
         "video_number": 35,
-        "local_path": "mathmo_assets/wistia_to86h7zrc1.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_to86h7zrc1.mp4",
+        "runtime_seconds": 806.75,
+        "runtime_formatted": "13m 26s"
       },
       {
         "title": "Speed-Time Graphs",
@@ -2260,7 +2700,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8e04617026ef351d515e38d0d8dcf855e3061973.mp4",
         "quality": "720p",
         "video_number": 36,
-        "local_path": "mathmo_assets/wistia_cfauef6mtj.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_cfauef6mtj.mp4",
+        "runtime_seconds": 756.51,
+        "runtime_formatted": "12m 36s"
       },
       {
         "title": "Estimating Rate Of Change (GCSE Higher only)",
@@ -2270,7 +2712,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9dbea16e9d53801f70a263c095e86dc6ba1e58e5.mp4",
         "quality": "720p",
         "video_number": 37,
-        "local_path": "mathmo_assets/wistia_dk4oe533lj.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_dk4oe533lj.mp4",
+        "runtime_seconds": 161.03,
+        "runtime_formatted": "2m 41s"
       },
       {
         "title": "How To Differentiate",
@@ -2280,7 +2724,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/31e83e41ff0eb2ba4335a77c699f93660cae65df.mp4",
         "quality": "720p",
         "video_number": 38,
-        "local_path": "mathmo_assets/wistia_kcpkjmi3aq.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_kcpkjmi3aq.mp4",
+        "runtime_seconds": 591.57,
+        "runtime_formatted": "9m 51s"
       },
       {
         "title": "When To Differentiate",
@@ -2290,7 +2736,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9f7d0bca715a23db7c3c014b2f2b461f84d60919.mp4",
         "quality": "720p",
         "video_number": 39,
-        "local_path": "mathmo_assets/wistia_4dw00zsu3b.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_4dw00zsu3b.mp4",
+        "runtime_seconds": 530.16,
+        "runtime_formatted": "8m 50s"
       },
       {
         "title": "Differentiation Questions",
@@ -2300,7 +2748,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/0207f3d29ece44c9094530d62d736d89081b9aea.mp4",
         "quality": "720p",
         "video_number": 40,
-        "local_path": "mathmo_assets/wistia_lsqd9sez0d.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_lsqd9sez0d.mp4",
+        "runtime_seconds": 916.54,
+        "runtime_formatted": "15m 16s"
       },
       {
         "title": "Displacement, Velocity & Acceleration",
@@ -2310,7 +2760,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/dd8e3a1a14236cdded7535594ed1c0e9fceb2ad9.mp4",
         "quality": "720p",
         "video_number": 41,
-        "local_path": "mathmo_assets/wistia_3rlpzu3f5m.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_3rlpzu3f5m.mp4",
+        "runtime_seconds": 682.83,
+        "runtime_formatted": "11m 22s"
       },
       {
         "title": "Maximum Or Minimum",
@@ -2320,7 +2772,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/3b850c6b36e6de6fcab573bfbf3cf2d2f3787587.mp4",
         "quality": "720p",
         "video_number": 42,
-        "local_path": "mathmo_assets/wistia_h2pm3rop6k.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_h2pm3rop6k.mp4",
+        "runtime_seconds": 153.83,
+        "runtime_formatted": "2m 33s"
       }
     ],
     "module_number": 3.0
@@ -2337,7 +2791,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ad6e180c705d3ea4b4237a6b4941fdf8104af388.mp4",
         "quality": "540p",
         "video_number": 1,
-        "local_path": "mathmo_assets/wistia_ikyp34fyrp.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_ikyp34fyrp.mp4",
+        "runtime_seconds": 140.17,
+        "runtime_formatted": "2m 20s"
       },
       {
         "title": "Simplifying Ratios",
@@ -2347,7 +2803,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/3174143d1a158ca10da246a6d61efbfb24f6489c.mp4",
         "quality": "540p",
         "video_number": 2,
-        "local_path": "mathmo_assets/wistia_2u84aro0p6.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_2u84aro0p6.mp4",
+        "runtime_seconds": 437.67,
+        "runtime_formatted": "7m 17s"
       },
       {
         "title": "Using Ratios",
@@ -2357,7 +2815,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7c899c6c96ee3d4d08514680a0c13468d30296f7.mp4",
         "quality": "540p",
         "video_number": 3,
-        "local_path": "mathmo_assets/wistia_labri21ljc.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_labri21ljc.mp4",
+        "runtime_seconds": 511.17,
+        "runtime_formatted": "8m 31s"
       },
       {
         "title": "Best Buy",
@@ -2367,7 +2827,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6813a49abec051f8d22f2265eb9dd7c9d9239414.mp4",
         "quality": "540p",
         "video_number": 4,
-        "local_path": "mathmo_assets/wistia_850d49upec.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_850d49upec.mp4",
+        "runtime_seconds": 364.87,
+        "runtime_formatted": "6m 4s"
       },
       {
         "title": "Recipes",
@@ -2377,7 +2839,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/34d741a382e500bf8cdf0bf1542ef6fd65e3f9a7.mp4",
         "quality": "540p",
         "video_number": 5,
-        "local_path": "mathmo_assets/wistia_mssupi6qsk.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_mssupi6qsk.mp4",
+        "runtime_seconds": 532.97,
+        "runtime_formatted": "8m 52s"
       },
       {
         "title": "Proportion",
@@ -2387,7 +2851,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/52182dd93469f20375bd17c5c60c2d5c86106851.mp4",
         "quality": "540p",
         "video_number": 6,
-        "local_path": "mathmo_assets/wistia_jk0muw05ja.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_jk0muw05ja.mp4",
+        "runtime_seconds": 200.07,
+        "runtime_formatted": "3m 20s"
       },
       {
         "title": "Inverse Proportion (Numbers Only)",
@@ -2397,7 +2863,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5b9f7245d8fb1cfb7ec8eb3ac78380cb52c9a831.mp4",
         "quality": "540p",
         "video_number": 7,
-        "local_path": "mathmo_assets/wistia_sjh72xulrd.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_sjh72xulrd.mp4",
+        "runtime_seconds": 391.23,
+        "runtime_formatted": "6m 31s"
       },
       {
         "title": "Using Difference in Ratios (Higher Tier only)",
@@ -2407,7 +2875,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/14e742ef724fc4ae7be2d7f56e46b6cbfd6dcc89.mp4",
         "quality": "540p",
         "video_number": 8,
-        "local_path": "mathmo_assets/wistia_ndr8iplvta.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_ndr8iplvta.mp4",
+        "runtime_seconds": 205.78,
+        "runtime_formatted": "3m 25s"
       },
       {
         "title": "Writing Ratios As Fractions",
@@ -2417,7 +2887,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/87408ac146a83ccc9145d43c3fc6d4f13fd6c419.mp4",
         "quality": "540p",
         "video_number": 9,
-        "local_path": "mathmo_assets/wistia_qro1ei13to.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_qro1ei13to.mp4",
+        "runtime_seconds": 659.27,
+        "runtime_formatted": "10m 59s"
       },
       {
         "title": "Direct & Inverse Proportion (Higher Tier only)",
@@ -2427,7 +2899,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b940e067b832d6867347bb866755822ffaec0b72.mp4",
         "quality": "540p",
         "video_number": 10,
-        "local_path": "mathmo_assets/wistia_ypxrn2ivfc.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_ypxrn2ivfc.mp4",
+        "runtime_seconds": 682.3,
+        "runtime_formatted": "11m 22s"
       },
       {
         "title": "Percentage Basics",
@@ -2437,7 +2911,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/21696ddf8da165b62eb3a9e26b9ea0b9e946aec5.mp4",
         "quality": "540p",
         "video_number": 11,
-        "local_path": "mathmo_assets/wistia_z69p3tzwah.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_z69p3tzwah.mp4",
+        "runtime_seconds": 606.43,
+        "runtime_formatted": "10m 6s"
       },
       {
         "title": "One Pound Theory",
@@ -2447,7 +2923,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/635afc81600fbcd70ea7f081b0edbac82a7869db.mp4",
         "quality": "540p",
         "video_number": 12,
-        "local_path": "mathmo_assets/wistia_biogn15unq.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_biogn15unq.mp4",
+        "runtime_seconds": 928.53,
+        "runtime_formatted": "15m 28s"
       },
       {
         "title": "Reverse Percentages",
@@ -2457,7 +2935,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f001de17ad826594da5a1e53bea34f225f5f83b3.mp4",
         "quality": "720p",
         "video_number": 13,
-        "local_path": "mathmo_assets/wistia_97trzartz4.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_97trzartz4.mp4",
+        "runtime_seconds": 581.6,
+        "runtime_formatted": "9m 41s"
       },
       {
         "title": "Converting Units",
@@ -2467,7 +2947,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/bbe4e1d49d910745ff265383bfe4b40341f1b9a5.mp4",
         "quality": "540p",
         "video_number": 14,
-        "local_path": "mathmo_assets/wistia_r47mvq9cud.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_r47mvq9cud.mp4",
+        "runtime_seconds": 421.13,
+        "runtime_formatted": "7m 1s"
       },
       {
         "title": "Exchange Rates",
@@ -2477,7 +2959,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6f4381883210ee1b0f68b8ed6337555f7be3218c.mp4",
         "quality": "540p",
         "video_number": 15,
-        "local_path": "mathmo_assets/wistia_ofdvihwyqw.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_ofdvihwyqw.mp4",
+        "runtime_seconds": 657.73,
+        "runtime_formatted": "10m 57s"
       },
       {
         "title": "Converting Compound Units",
@@ -2487,7 +2971,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/35bbcf55ca7807456a2a0723468b89e378423c0c.mp4",
         "quality": "540p",
         "video_number": 16,
-        "local_path": "mathmo_assets/wistia_0j68hgeogr.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_0j68hgeogr.mp4",
+        "runtime_seconds": 953.73,
+        "runtime_formatted": "15m 53s"
       },
       {
         "title": "Converting Units (Areas & Volumes)",
@@ -2497,7 +2983,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c6b2b3dc575e717666eb35e4b324207ef745c43e.mp4",
         "quality": "540p",
         "video_number": 17,
-        "local_path": "mathmo_assets/wistia_6lfs0x0y8l.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_6lfs0x0y8l.mp4",
+        "runtime_seconds": 321.97,
+        "runtime_formatted": "5m 21s"
       },
       {
         "title": "Speed, Density & Pressure",
@@ -2507,7 +2995,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/eabbb72da3b697795c31bc6b53316d78fa12d23a.mp4",
         "quality": "540p",
         "video_number": 18,
-        "local_path": "mathmo_assets/wistia_besqxvpquw.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_besqxvpquw.mp4",
+        "runtime_seconds": 1104.09,
+        "runtime_formatted": "18m 24s"
       },
       {
         "title": "Nasty Speed, Density & Pressure Questions (Higher Tier only)",
@@ -2517,7 +3007,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ef97c637d4b12517be0f71a218a152c6c21bdce7.mp4",
         "quality": "540p",
         "video_number": 19,
-        "local_path": "mathmo_assets/wistia_2f5vhtkfjt.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_2f5vhtkfjt.mp4",
+        "runtime_seconds": 957.8,
+        "runtime_formatted": "15m 57s"
       }
     ],
     "module_number": 4.0
@@ -2534,7 +3026,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/da503197b0e8f90c5cf13448545e986d0938ebea.mp4",
         "quality": "720p",
         "video_number": 1,
-        "local_path": "mathmo_assets/wistia_ocyv2vdu1o.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_ocyv2vdu1o.mp4",
+        "runtime_seconds": 187.48,
+        "runtime_formatted": "3m 7s"
       },
       {
         "title": "Angles Inside Triangles",
@@ -2544,7 +3038,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b1e7bf57cf62bf1b68cccd7f39fffbe3d9f3dc47.mp4",
         "quality": "720p",
         "video_number": 2,
-        "local_path": "mathmo_assets/wistia_imftpts39x.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_imftpts39x.mp4",
+        "runtime_seconds": 402.13,
+        "runtime_formatted": "6m 42s"
       },
       {
         "title": "Angles Inside Polygons",
@@ -2554,7 +3050,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7795b54c18f3cc8d95e3def85d8c2717789d67a4.mp4",
         "quality": "720p",
         "video_number": 3,
-        "local_path": "mathmo_assets/wistia_xrgw0b8nvi.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_xrgw0b8nvi.mp4",
+        "runtime_seconds": 595.8,
+        "runtime_formatted": "9m 55s"
       },
       {
         "title": "Parallel Lines",
@@ -2564,7 +3062,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4bac8f89aa5155810b258604df476cbb765b2095.mp4",
         "quality": "720p",
         "video_number": 4,
-        "local_path": "mathmo_assets/wistia_3x5xxxwttt.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_3x5xxxwttt.mp4",
+        "runtime_seconds": 1056.1,
+        "runtime_formatted": "17m 36s"
       },
       {
         "title": "Regular Polygons",
@@ -2574,7 +3074,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/3e07a64e77b21b5bde9b1d83aa419131421a7476.mp4",
         "quality": "720p",
         "video_number": 5,
-        "local_path": "mathmo_assets/wistia_jxguhwadew.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_jxguhwadew.mp4",
+        "runtime_seconds": 887.14,
+        "runtime_formatted": "14m 47s"
       },
       {
         "title": "Nasty Angles Questions (Higher Tier only)",
@@ -2584,7 +3086,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f85a8e23055e2fddb17c40dfb7fe4f28714db77a.mp4",
         "quality": "720p",
         "video_number": 6,
-        "local_path": "mathmo_assets/wistia_1modtmv8pm.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_1modtmv8pm.mp4",
+        "runtime_seconds": 1016.45,
+        "runtime_formatted": "16m 56s"
       },
       {
         "title": "Polygon Names",
@@ -2594,7 +3098,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/e0653b6dcf4841484e1ddcceb6028c63891e99a1.mp4",
         "quality": "720p",
         "video_number": 7,
-        "local_path": "mathmo_assets/wistia_civy2udarc.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_civy2udarc.mp4",
+        "runtime_seconds": 202.04,
+        "runtime_formatted": "3m 22s"
       },
       {
         "title": "Types Of Triangle",
@@ -2604,7 +3110,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/96b78a16afe32018d4f803b9bb9aca2ad691c014.mp4",
         "quality": "720p",
         "video_number": 8,
-        "local_path": "mathmo_assets/wistia_c1z7kbz9h4.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_c1z7kbz9h4.mp4",
+        "runtime_seconds": 64.9,
+        "runtime_formatted": "1m 4s"
       },
       {
         "title": "Types of Quadrilateral",
@@ -2614,7 +3122,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9b1920dde070d5c682113489ed263365552940f1.mp4",
         "quality": "720p",
         "video_number": 9,
-        "local_path": "mathmo_assets/wistia_k63uoj6abu.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_k63uoj6abu.mp4",
+        "runtime_seconds": 229.63,
+        "runtime_formatted": "3m 49s"
       },
       {
         "title": "Symmetry",
@@ -2624,7 +3134,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8c1e795f56a3475472446992550761405c581dea.mp4",
         "quality": "720p",
         "video_number": 10,
-        "local_path": "mathmo_assets/wistia_vbtas3rxc6.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_vbtas3rxc6.mp4",
+        "runtime_seconds": 378.21,
+        "runtime_formatted": "6m 18s"
       },
       {
         "title": "Congruent Triangles",
@@ -2634,7 +3146,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c1999d0c96d7fc286b0e63eb0565387277cc62e1.mp4",
         "quality": "540p",
         "video_number": 11,
-        "local_path": "mathmo_assets/wistia_u0bcz6y6xm.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_u0bcz6y6xm.mp4",
+        "runtime_seconds": 666.93,
+        "runtime_formatted": "11m 6s"
       },
       {
         "title": "Similar Shapes",
@@ -2644,7 +3158,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/067b0f51fc76cdc386683b9887fbfaaf2dfaef94.mp4",
         "quality": "540p",
         "video_number": 12,
-        "local_path": "mathmo_assets/wistia_upogl9vnaf.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_upogl9vnaf.mp4",
+        "runtime_seconds": 943.27,
+        "runtime_formatted": "15m 43s"
       },
       {
         "title": "Nasty Similar Shapes (Higher Tier only)",
@@ -2654,7 +3170,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6e52a6981a06abcb48782bcc1497899b4d9172d0.mp4",
         "quality": "540p",
         "video_number": 13,
-        "local_path": "mathmo_assets/wistia_8ycgeijq9d.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_8ycgeijq9d.mp4",
+        "runtime_seconds": 393.97,
+        "runtime_formatted": "6m 33s"
       },
       {
         "title": "The Slide Rule",
@@ -2664,7 +3182,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/1a2783a1c2dd705a88b3160e849d9257e053eb00.mp4",
         "quality": "720p",
         "video_number": 14,
-        "local_path": "mathmo_assets/wistia_1ph6vgioa5.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_1ph6vgioa5.mp4",
+        "runtime_seconds": 218.53,
+        "runtime_formatted": "3m 38s"
       },
       {
         "title": "Area Of A Triangle",
@@ -2674,7 +3194,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/21aed0cd2f19af1784d64c28403f004565afb76f.mp4",
         "quality": "720p",
         "video_number": 15,
-        "local_path": "mathmo_assets/wistia_bimxpcd4mt.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_bimxpcd4mt.mp4",
+        "runtime_seconds": 166.84,
+        "runtime_formatted": "2m 46s"
       },
       {
         "title": "Areas Of Quadrilaterals",
@@ -2684,7 +3206,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b175c9522da8175554e7911f2b5346c673d151ed.mp4",
         "quality": "720p",
         "video_number": 16,
-        "local_path": "mathmo_assets/wistia_2war5114u6.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_2war5114u6.mp4",
+        "runtime_seconds": 427.34,
+        "runtime_formatted": "7m 7s"
       },
       {
         "title": "Parts Of A Circle",
@@ -2694,7 +3218,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f8e9d651e25e016457a39da2c3a8e0cd0581058d.mp4",
         "quality": "720p",
         "video_number": 17,
-        "local_path": "mathmo_assets/wistia_bwea06qxdx.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_bwea06qxdx.mp4",
+        "runtime_seconds": 146.54,
+        "runtime_formatted": "2m 26s"
       },
       {
         "title": "Circles",
@@ -2704,7 +3230,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/80d36ffb858e696e5de4a25198408bc5e40d6c57.mp4",
         "quality": "540p",
         "video_number": 18,
-        "local_path": "mathmo_assets/wistia_ld1p5xkntc.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_ld1p5xkntc.mp4",
+        "runtime_seconds": 683.6,
+        "runtime_formatted": "11m 23s"
       },
       {
         "title": "Sectors",
@@ -2714,7 +3242,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/65217fc2c37d626aac79d78b73f93e7c2ca84067.mp4",
         "quality": "540p",
         "video_number": 19,
-        "local_path": "mathmo_assets/wistia_3jhze903wt.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_3jhze903wt.mp4",
+        "runtime_seconds": 601.67,
+        "runtime_formatted": "10m 1s"
       },
       {
         "title": "Nasty Circles Questions (Higher Tier only)",
@@ -2724,7 +3254,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/430c68decef4af596f92d446d271b1d4bc00b58a.mp4",
         "quality": "540p",
         "video_number": 20,
-        "local_path": "mathmo_assets/wistia_lasa80fs2k.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_lasa80fs2k.mp4",
+        "runtime_seconds": 744.07,
+        "runtime_formatted": "12m 24s"
       },
       {
         "title": "Circle Theorems (Radius & Tangent)",
@@ -2734,7 +3266,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7b046934a61ece8c8d31bd75e708db42577e58f9.mp4",
         "quality": "540p",
         "video_number": 21,
-        "local_path": "mathmo_assets/wistia_z5u0dgnx9c.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_z5u0dgnx9c.mp4",
+        "runtime_seconds": 919.97,
+        "runtime_formatted": "15m 19s"
       },
       {
         "title": "Circle Theorems (Shapes)",
@@ -2744,7 +3278,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/206d106703eed4160cdb4fe2da1ac061a62c4b2f.mp4",
         "quality": "540p",
         "video_number": 22,
-        "local_path": "mathmo_assets/wistia_z35cg0cuc2.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_z35cg0cuc2.mp4",
+        "runtime_seconds": 1080.19,
+        "runtime_formatted": "18m 0s"
       },
       {
         "title": "Circle Theorems (Tricks)",
@@ -2754,7 +3290,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/43258913b9655d479973e5ac1edec676906cb4b5.mp4",
         "quality": "540p",
         "video_number": 23,
-        "local_path": "mathmo_assets/wistia_2esgtiqqk9.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_2esgtiqqk9.mp4",
+        "runtime_seconds": 599.33,
+        "runtime_formatted": "9m 59s"
       },
       {
         "title": "Circle Theorems (Intersecting Chords) (IGCSE Higher only)",
@@ -2764,7 +3302,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f51a1fb4638163c78860bac777b9cc7184731513.mp4",
         "quality": "540p",
         "video_number": 24,
-        "local_path": "mathmo_assets/wistia_re6c1svmba.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_re6c1svmba.mp4",
+        "runtime_seconds": 367.87,
+        "runtime_formatted": "6m 7s"
       },
       {
         "title": "Translations",
@@ -2774,7 +3314,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b665488ae5d5cc0ba026b3d83694146e65d6678d.mp4",
         "quality": "540p",
         "video_number": 25,
-        "local_path": "mathmo_assets/wistia_1yyk0tgbcc.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_1yyk0tgbcc.mp4",
+        "runtime_seconds": 425.93,
+        "runtime_formatted": "7m 5s"
       },
       {
         "title": "Reflections",
@@ -2784,7 +3326,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/83cb25ea75a158f3a098214bf0e783908ab563bd.mp4",
         "quality": "540p",
         "video_number": 26,
-        "local_path": "mathmo_assets/wistia_fiqvap23ot.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_fiqvap23ot.mp4",
+        "runtime_seconds": 280.53,
+        "runtime_formatted": "4m 40s"
       },
       {
         "title": "Rotations",
@@ -2794,7 +3338,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/60e8992965c59c509609177c50f30a940026dd92.mp4",
         "quality": "540p",
         "video_number": 27,
-        "local_path": "mathmo_assets/wistia_8xg3g804j2.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_8xg3g804j2.mp4",
+        "runtime_seconds": 429.57,
+        "runtime_formatted": "7m 9s"
       },
       {
         "title": "Enlargements",
@@ -2804,7 +3350,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/342866166c246de48fd515c67f3e2808955f3b3f.mp4",
         "quality": "540p",
         "video_number": 28,
-        "local_path": "mathmo_assets/wistia_ujyiu1pmxd.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_ujyiu1pmxd.mp4",
+        "runtime_seconds": 809.13,
+        "runtime_formatted": "13m 29s"
       },
       {
         "title": "Enlargements With Negative Scale Factors (GCSE Higher only)",
@@ -2814,7 +3362,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6afe17685ff827504ab5b2482599cb77eb4a28b5.mp4",
         "quality": "540p",
         "video_number": 29,
-        "local_path": "mathmo_assets/wistia_cwxat3mydg.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_cwxat3mydg.mp4",
+        "runtime_seconds": 781.3,
+        "runtime_formatted": "13m 1s"
       },
       {
         "title": "Mixed Transformations",
@@ -2824,7 +3374,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/563a57ca5ffac2887eecad8ca50bb64a7dd83ebf.mp4",
         "quality": "540p",
         "video_number": 30,
-        "local_path": "mathmo_assets/wistia_s0cmp2bx9h.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_s0cmp2bx9h.mp4",
+        "runtime_seconds": 179.07,
+        "runtime_formatted": "2m 59s"
       },
       {
         "title": "Names Of 3D Shapes",
@@ -2834,7 +3386,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/acaa4270807e6f84435fae499667a49e84cbc90b.mp4",
         "quality": "720p",
         "video_number": 31,
-        "local_path": "mathmo_assets/wistia_m9qsynrcan.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_m9qsynrcan.mp4",
+        "runtime_seconds": 159.53,
+        "runtime_formatted": "2m 39s"
       },
       {
         "title": "Vertices, Faces & Edges",
@@ -2844,7 +3398,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/6a96890ed45271188143c22444b707e865b70447.mp4",
         "quality": "720p",
         "video_number": 32,
-        "local_path": "mathmo_assets/wistia_bsi9k1jlzr.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_bsi9k1jlzr.mp4",
+        "runtime_seconds": 374.03,
+        "runtime_formatted": "6m 14s"
       },
       {
         "title": "Surface Area",
@@ -2854,7 +3410,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a20ec17fa38c248b20d15ace188f8df2d7a0525c.mp4",
         "quality": "720p",
         "video_number": 33,
-        "local_path": "mathmo_assets/wistia_xk56rzjspy.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_xk56rzjspy.mp4",
+        "runtime_seconds": 237.77,
+        "runtime_formatted": "3m 57s"
       },
       {
         "title": "Surface Area Of A Cylinder",
@@ -2864,7 +3422,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/3aea705146a993a3239cca3317f26c79ea73519d.mp4",
         "quality": "720p",
         "video_number": 34,
-        "local_path": "mathmo_assets/wistia_eo2rl3dcfd.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_eo2rl3dcfd.mp4",
+        "runtime_seconds": 387.6,
+        "runtime_formatted": "6m 27s"
       },
       {
         "title": "Surface Area Of Cones & Spheres",
@@ -2874,7 +3434,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/b4a0c20078854579f4628e7a8b968576a35f5597.mp4",
         "quality": "720p",
         "video_number": 35,
-        "local_path": "mathmo_assets/wistia_2n4625nzli.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_2n4625nzli.mp4",
+        "runtime_seconds": 414.62,
+        "runtime_formatted": "6m 54s"
       },
       {
         "title": "Volumes of Cuboids, Prisms & Cylinders",
@@ -2884,7 +3446,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/4884422739a91033f9b173e2325d08bb480022f6.mp4",
         "quality": "720p",
         "video_number": 36,
-        "local_path": "mathmo_assets/wistia_aajcclyc4c.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_aajcclyc4c.mp4",
+        "runtime_seconds": 508.57,
+        "runtime_formatted": "8m 28s"
       },
       {
         "title": "Volumes of Pyramids, Spheres & Cones",
@@ -2894,7 +3458,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/3b57e8ec2a5516bbf8478ca35592a2ab52b0b08c.mp4",
         "quality": "720p",
         "video_number": 37,
-        "local_path": "mathmo_assets/wistia_haim1265nr.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_haim1265nr.mp4",
+        "runtime_seconds": 463.15,
+        "runtime_formatted": "7m 43s"
       },
       {
         "title": "Frustums (Foundation)",
@@ -2904,7 +3470,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f8be8dce0378d70ac8387421f8884b8108889152.mp4",
         "quality": "720p",
         "video_number": 38,
-        "local_path": "mathmo_assets/wistia_igj8xa5qdw.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_igj8xa5qdw.mp4",
+        "runtime_seconds": 298.24,
+        "runtime_formatted": "4m 58s"
       },
       {
         "title": "Frustums (Higher)",
@@ -2914,7 +3482,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7805f8316feb30a15bd151ad031cb631b9c8617f.mp4",
         "quality": "720p",
         "video_number": 39,
-        "local_path": "mathmo_assets/wistia_ysjjm2iz0w.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_ysjjm2iz0w.mp4",
+        "runtime_seconds": 431.5,
+        "runtime_formatted": "7m 11s"
       },
       {
         "title": "Nasty Volume Questions (Higher Tier only)",
@@ -2924,7 +3494,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/343bd50d0721b92ba4675790bf4bad5a64851acd.mp4",
         "quality": "720p",
         "video_number": 40,
-        "local_path": "mathmo_assets/wistia_bouqdk7x3e.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_bouqdk7x3e.mp4",
+        "runtime_seconds": 634.73,
+        "runtime_formatted": "10m 34s"
       },
       {
         "title": "Constructions",
@@ -2934,7 +3506,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/241c16a892a37c8ccead56cd97b451de368c035a.mp4",
         "quality": "540p",
         "video_number": 41,
-        "local_path": "mathmo_assets/wistia_5yt2a0fa2c.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_5yt2a0fa2c.mp4",
+        "runtime_seconds": 801.7,
+        "runtime_formatted": "13m 21s"
       },
       {
         "title": "Bearings",
@@ -2944,7 +3518,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/597e12256b1a9be42e879b73e74143620f1699a2.mp4",
         "quality": "540p",
         "video_number": 42,
-        "local_path": "mathmo_assets/wistia_n2t4xy6jtw.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_n2t4xy6jtw.mp4",
+        "runtime_seconds": 986.5,
+        "runtime_formatted": "16m 26s"
       },
       {
         "title": "Maps & Scale Drawing",
@@ -2954,7 +3530,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/91e351ad9bbcb1f687ed1fafb21fd37b1695b4f1.mp4",
         "quality": "720p",
         "video_number": 43,
-        "local_path": "mathmo_assets/wistia_cctiicyqbs.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_cctiicyqbs.mp4",
+        "runtime_seconds": 447.05,
+        "runtime_formatted": "7m 27s"
       }
     ],
     "module_number": 5.0
@@ -2971,7 +3549,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c4c81effd777ded451d26ff3a02273929113cbd3.mp4",
         "quality": "540p",
         "video_number": 1,
-        "local_path": "mathmo_assets/wistia_xpsmi5ogtt.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_xpsmi5ogtt.mp4",
+        "runtime_seconds": 142.8,
+        "runtime_formatted": "2m 22s"
       },
       {
         "title": "Pythagoras or SOH CAH TOA",
@@ -2981,7 +3561,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c3b669f2e193baaa210d75e399962d799be3c3cf.mp4",
         "quality": "540p",
         "video_number": 2,
-        "local_path": "mathmo_assets/wistia_vlpprr5vr7.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_vlpprr5vr7.mp4",
+        "runtime_seconds": 550.77,
+        "runtime_formatted": "9m 10s"
       },
       {
         "title": "Pythagoras",
@@ -2991,7 +3573,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9c508f651ffca35b8e355089abbfa70370a34c42.mp4",
         "quality": "540p",
         "video_number": 3,
-        "local_path": "mathmo_assets/wistia_a04626raku.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_a04626raku.mp4",
+        "runtime_seconds": 295.8,
+        "runtime_formatted": "4m 55s"
       },
       {
         "title": "SOH CAH TOA",
@@ -3001,7 +3585,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/65e8ec99ef96784bf1b222c03316774700d92ab2.mp4",
         "quality": "540p",
         "video_number": 4,
-        "local_path": "mathmo_assets/wistia_cikaik6ffl.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_cikaik6ffl.mp4",
+        "runtime_seconds": 937.63,
+        "runtime_formatted": "15m 37s"
       },
       {
         "title": "Sine Rule or Cosine Rule (Higher Tier only)",
@@ -3011,7 +3597,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/1723779a7827a357f62cb1e6e3f924fe10264296.mp4",
         "quality": "540p",
         "video_number": 5,
-        "local_path": "mathmo_assets/wistia_qkbf8tysgn.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_qkbf8tysgn.mp4",
+        "runtime_seconds": 778.9,
+        "runtime_formatted": "12m 58s"
       },
       {
         "title": "Sine Rule (Higher Tier only)",
@@ -3021,7 +3609,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c2f831bd0d801e176b4381fe326f4f113b139c83.mp4",
         "quality": "540p",
         "video_number": 6,
-        "local_path": "mathmo_assets/wistia_0u108irb4i.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_0u108irb4i.mp4",
+        "runtime_seconds": 573.8,
+        "runtime_formatted": "9m 33s"
       },
       {
         "title": "Cosine Rule (Higher Tier only)",
@@ -3031,7 +3621,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a1ef0c73b648638ef355685fe48354bda8a8a852.mp4",
         "quality": "540p",
         "video_number": 7,
-        "local_path": "mathmo_assets/wistia_mqic3xo6n6.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_mqic3xo6n6.mp4",
+        "runtime_seconds": 548.53,
+        "runtime_formatted": "9m 8s"
       },
       {
         "title": "Area of a Triangle (Higher Tier only)",
@@ -3041,7 +3633,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/16c5b86aed04b6a9b46c4fb8fdb849b0552ad587.mp4",
         "quality": "540p",
         "video_number": 8,
-        "local_path": "mathmo_assets/wistia_jzd85hwidp.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_jzd85hwidp.mp4",
+        "runtime_seconds": 729.33,
+        "runtime_formatted": "12m 9s"
       },
       {
         "title": "Nasty Triangles Questions (Higher Tier only)",
@@ -3051,7 +3645,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/2210c3393024b911b7c19cff80e5d46dfaad1cc1.mp4",
         "quality": "540p",
         "video_number": 9,
-        "local_path": "mathmo_assets/wistia_r329io5eo6.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_r329io5eo6.mp4",
+        "runtime_seconds": 522.0,
+        "runtime_formatted": "8m 42s"
       },
       {
         "title": "3D Pythagoras (Higher Tier only)",
@@ -3061,7 +3657,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/35c289cf5b4ecb9086ed16e7e5db79eefd57480d.mp4",
         "quality": "720p",
         "video_number": 10,
-        "local_path": "mathmo_assets/wistia_6dj96mh971.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_6dj96mh971.mp4",
+        "runtime_seconds": 364.48,
+        "runtime_formatted": "6m 4s"
       },
       {
         "title": "Vector Basics",
@@ -3071,7 +3669,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c9f6024717f6225a8625e6725a7234f9a74fbaeb.mp4",
         "quality": "720p",
         "video_number": 11,
-        "local_path": "mathmo_assets/wistia_zcpo2epu0e.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_zcpo2epu0e.mp4",
+        "runtime_seconds": 757.0,
+        "runtime_formatted": "12m 37s"
       },
       {
         "title": "Combining Vectors (Cambridge Core)",
@@ -3081,7 +3681,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7a74df3d6808369ed361e624e131e342b2a27063.mp4",
         "quality": "720p",
         "video_number": 12,
-        "local_path": "mathmo_assets/wistia_cbzj9m8jet.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_cbzj9m8jet.mp4",
+        "runtime_seconds": 166.26,
+        "runtime_formatted": "2m 46s"
       },
       {
         "title": "Combining Vectors",
@@ -3091,7 +3693,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/1ec3e8c58aaf151ee06a82deb0927f3edca4fcc8.mp4",
         "quality": "720p",
         "video_number": 13,
-        "local_path": "mathmo_assets/wistia_44h56htdg5.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_44h56htdg5.mp4",
+        "runtime_seconds": 1278.27,
+        "runtime_formatted": "21m 18s"
       },
       {
         "title": "Magnitude of a Vector (IGCSE Higher & Cambridge Extended only)",
@@ -3101,7 +3705,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/bbd8d158ead05ee1ec7fa0ad83065132c94e685e.mp4",
         "quality": "720p",
         "video_number": 14,
-        "local_path": "mathmo_assets/wistia_0ov1blyg07.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_0ov1blyg07.mp4",
+        "runtime_seconds": 389.07,
+        "runtime_formatted": "6m 29s"
       },
       {
         "title": "Vectors Involving Ratios (Higher Tier only)",
@@ -3111,7 +3717,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a9d830f0b0d96413745be6357696e2be09c899b5.mp4",
         "quality": "720p",
         "video_number": 15,
-        "local_path": "mathmo_assets/wistia_1teoitr02v.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_1teoitr02v.mp4",
+        "runtime_seconds": 791.89,
+        "runtime_formatted": "13m 11s"
       },
       {
         "title": "Parallel Vectors (Higher Tier only)",
@@ -3121,7 +3729,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/1212deb889328c3df2333b69d7e775603696a537.mp4",
         "quality": "720p",
         "video_number": 16,
-        "local_path": "mathmo_assets/wistia_a4ylm37eu9.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_a4ylm37eu9.mp4",
+        "runtime_seconds": 579.83,
+        "runtime_formatted": "9m 39s"
       },
       {
         "title": "Vectors Along A Straight Line (Higher Tier only)",
@@ -3131,7 +3741,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a74d6b39618f08b94dd6bc8f5bbdc9b2771e72f9.mp4",
         "quality": "720p",
         "video_number": 17,
-        "local_path": "mathmo_assets/wistia_58i9xl7vma.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_58i9xl7vma.mp4",
+        "runtime_seconds": 1074.16,
+        "runtime_formatted": "17m 54s"
       },
       {
         "title": "Nasty Vectors Questions (Higher Tier only)",
@@ -3141,7 +3753,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8790c2ed74b4cc14878ad077d48b8413ca47c918.mp4",
         "quality": "720p",
         "video_number": 18,
-        "local_path": "mathmo_assets/wistia_hwfu8fkyys.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_hwfu8fkyys.mp4",
+        "runtime_seconds": 1806.43,
+        "runtime_formatted": "30m 6s"
       }
     ],
     "module_number": 6.0
@@ -3158,7 +3772,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/12d937021af2754fc9093ba7ec7dc12bf7f449d5.mp4",
         "quality": "540p",
         "video_number": 1,
-        "local_path": "mathmo_assets/wistia_bq2ep05qkm.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_bq2ep05qkm.mp4",
+        "runtime_seconds": 403.63,
+        "runtime_formatted": "6m 43s"
       },
       {
         "title": "Two-Way Tables",
@@ -3168,7 +3784,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/45598cd3ef1bfc5a686dc92124b7cb62d1f5ab75.mp4",
         "quality": "720p",
         "video_number": 2,
-        "local_path": "mathmo_assets/wistia_iy6kcyg7h3.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_iy6kcyg7h3.mp4",
+        "runtime_seconds": 665.09,
+        "runtime_formatted": "11m 5s"
       },
       {
         "title": "Probability Experiments",
@@ -3178,7 +3796,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/fe2319bc13321336716ae6f9e11fdbdea075406e.mp4",
         "quality": "540p",
         "video_number": 3,
-        "local_path": "mathmo_assets/wistia_b3clrdjd13.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_b3clrdjd13.mp4",
+        "runtime_seconds": 499.13,
+        "runtime_formatted": "8m 19s"
       },
       {
         "title": "Using Algebra in Probability (Higher Tier only)",
@@ -3188,7 +3808,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/15b71875af0531a9d0a760b4d91a1970873f7779.mp4",
         "quality": "540p",
         "video_number": 4,
-        "local_path": "mathmo_assets/wistia_rby1khzxhw.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_rby1khzxhw.mp4",
+        "runtime_seconds": 956.83,
+        "runtime_formatted": "15m 56s"
       },
       {
         "title": "Listing Outcomes",
@@ -3198,7 +3820,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/bfb079ec098c8f7872b0769f6bc3bd0c3a3ada7b.mp4",
         "quality": "720p",
         "video_number": 5,
-        "local_path": "mathmo_assets/wistia_bnx8vvnfcn.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_bnx8vvnfcn.mp4",
+        "runtime_seconds": 725.93,
+        "runtime_formatted": "12m 5s"
       },
       {
         "title": "Tree Diagrams Intro",
@@ -3208,7 +3832,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/991472f6c32389edb5e52a85510a0b96b66ac176.mp4",
         "quality": "540p",
         "video_number": 6,
-        "local_path": "mathmo_assets/wistia_lo24kvc73f.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_lo24kvc73f.mp4",
+        "runtime_seconds": 623.23,
+        "runtime_formatted": "10m 23s"
       },
       {
         "title": "Conditional Probability on Tree Diagrams (Higher Tier only)",
@@ -3218,7 +3844,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9e5ce4fccb05b7f10762ed61c476371c49ac242b.mp4",
         "quality": "540p",
         "video_number": 7,
-        "local_path": "mathmo_assets/wistia_o5u8y9qlsb.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_o5u8y9qlsb.mp4",
+        "runtime_seconds": 747.2,
+        "runtime_formatted": "12m 27s"
       },
       {
         "title": "When To Use Tree Diagrams (Higher Tier only)",
@@ -3228,7 +3856,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a038da70381509b531098f6e0c493737ed800af0.mp4",
         "quality": "540p",
         "video_number": 8,
-        "local_path": "mathmo_assets/wistia_dmtv90jjwu.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_dmtv90jjwu.mp4",
+        "runtime_seconds": 1708.03,
+        "runtime_formatted": "28m 28s"
       },
       {
         "title": "The AND/OR Rules (Higher Tier only)",
@@ -3238,7 +3868,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/dadf8667565b52c8f37775f38d7b29887c7f7f5a.mp4",
         "quality": "540p",
         "video_number": 9,
-        "local_path": "mathmo_assets/wistia_if6ltrh9q3.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_if6ltrh9q3.mp4",
+        "runtime_seconds": 712.09,
+        "runtime_formatted": "11m 52s"
       },
       {
         "title": "Nasty Tree Diagrams (Higher Tier only)",
@@ -3248,7 +3880,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/637ee52f368cd545160c09acd0671ae9882f9207.mp4",
         "quality": "540p",
         "video_number": 10,
-        "local_path": "mathmo_assets/wistia_76j95pg39r.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_76j95pg39r.mp4",
+        "runtime_seconds": 1386.8,
+        "runtime_formatted": "23m 6s"
       },
       {
         "title": "Set Notation (Cambridge Core)",
@@ -3258,7 +3892,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/36c0d537c8b158cd36e2310a22ff54f21ac096b4.mp4",
         "quality": "720p",
         "video_number": 11,
-        "local_path": "mathmo_assets/wistia_688m5egela.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_688m5egela.mp4",
+        "runtime_seconds": 233.11,
+        "runtime_formatted": "3m 53s"
       },
       {
         "title": "Set Notation",
@@ -3268,7 +3904,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/ac99a6e70ab8bc35e7acac79d2ff97b0021d8794.mp4",
         "quality": "720p",
         "video_number": 12,
-        "local_path": "mathmo_assets/wistia_cmmaj7b1wx.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_cmmaj7b1wx.mp4",
+        "runtime_seconds": 314.77,
+        "runtime_formatted": "5m 14s"
       },
       {
         "title": "n(A) (Higher Tier only)",
@@ -3278,7 +3916,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/9bd57f39a66dcf0077315304be5b78789c4d537f.mp4",
         "quality": "720p",
         "video_number": 13,
-        "local_path": "mathmo_assets/wistia_3d3ys7qqcf.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_3d3ys7qqcf.mp4",
+        "runtime_seconds": 98.53,
+        "runtime_formatted": "1m 38s"
       },
       {
         "title": "Union & Intersection",
@@ -3288,7 +3928,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/1dd639300453b3dd2e18a78f0e7f8c87f9a91fef.mp4",
         "quality": "720p",
         "video_number": 14,
-        "local_path": "mathmo_assets/wistia_cxobsyjm4y.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_cxobsyjm4y.mp4",
+        "runtime_seconds": 323.06,
+        "runtime_formatted": "5m 23s"
       },
       {
         "title": "The Empty Set",
@@ -3298,7 +3940,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/7b50454b0d62bf94863d1c89a5cbf12582cbb010.mp4",
         "quality": "720p",
         "video_number": 15,
-        "local_path": "mathmo_assets/wistia_ht4fplwprd.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_ht4fplwprd.mp4",
+        "runtime_seconds": 168.1,
+        "runtime_formatted": "2m 48s"
       },
       {
         "title": "Complement",
@@ -3308,7 +3952,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/c0fdc8574f710b70454a5b146474f45626294734.mp4",
         "quality": "720p",
         "video_number": 16,
-        "local_path": "mathmo_assets/wistia_syp66d6ofk.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_syp66d6ofk.mp4",
+        "runtime_seconds": 445.73,
+        "runtime_formatted": "7m 25s"
       },
       {
         "title": "Venn Diagrams Intro",
@@ -3318,7 +3964,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/44099233b7f644d3a6091297bb2dfbf396f20aff.mp4",
         "quality": "720p",
         "video_number": 17,
-        "local_path": "mathmo_assets/wistia_pipdq27kjl.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_pipdq27kjl.mp4",
+        "runtime_seconds": 293.45,
+        "runtime_formatted": "4m 53s"
       },
       {
         "title": "Venn Diagrams (Union & Intersection)",
@@ -3328,7 +3976,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/acd9cd4081608873fa4de828ed9fe727d3f60cb9.mp4",
         "quality": "720p",
         "video_number": 18,
-        "local_path": "mathmo_assets/wistia_15a0mb110c.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_15a0mb110c.mp4",
+        "runtime_seconds": 98.57,
+        "runtime_formatted": "1m 38s"
       },
       {
         "title": "Venn Diagrams (Number of Elements) (Foundation)",
@@ -3338,7 +3988,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/a335d69d73f50b8fd872f61b1c8ef0968f59c619.mp4",
         "quality": "720p",
         "video_number": 19,
-        "local_path": "mathmo_assets/wistia_xgdiakpt78.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_xgdiakpt78.mp4",
+        "runtime_seconds": 369.3,
+        "runtime_formatted": "6m 9s"
       },
       {
         "title": "Venn Diagrams (Number of Elements) (Higher)",
@@ -3348,7 +4000,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5572dfb4c2a79e6092d1a07dac9764f660947e7a.mp4",
         "quality": "720p",
         "video_number": 20,
-        "local_path": "mathmo_assets/wistia_8hobe3uqby.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_8hobe3uqby.mp4",
+        "runtime_seconds": 765.87,
+        "runtime_formatted": "12m 45s"
       },
       {
         "title": "Venn Diagrams (Complement)",
@@ -3358,7 +4012,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/347661b33d0b1a5c009f35e5d96962cd8b2aebfa.mp4",
         "quality": "720p",
         "video_number": 21,
-        "local_path": "mathmo_assets/wistia_327dhih669.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_327dhih669.mp4",
+        "runtime_seconds": 452.4,
+        "runtime_formatted": "7m 32s"
       },
       {
         "title": "Venn Diagrams (3 Sets) (Higher Tier only)",
@@ -3368,7 +4024,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/173a77e8fda17ae97a8fbe14b6e362311f54a7d1.mp4",
         "quality": "720p",
         "video_number": 22,
-        "local_path": "mathmo_assets/wistia_z43tg92d41.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_z43tg92d41.mp4",
+        "runtime_seconds": 318.6,
+        "runtime_formatted": "5m 18s"
       },
       {
         "title": "Venn Diagrams (3 Sets - Number of Elements) (Higher Tier only)",
@@ -3378,7 +4036,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d6150cebd724a179f470476dd82d92d8d58411ff.mp4",
         "quality": "720p",
         "video_number": 23,
-        "local_path": "mathmo_assets/wistia_pyo927cz51.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_pyo927cz51.mp4",
+        "runtime_seconds": 668.0,
+        "runtime_formatted": "11m 8s"
       },
       {
         "title": "Find Probabilities From Venn Diagrams",
@@ -3388,7 +4048,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/800d504aa5c50b18271fe191035979708ba3ea2a.mp4",
         "quality": "720p",
         "video_number": 24,
-        "local_path": "mathmo_assets/wistia_jhs2xg832v.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_jhs2xg832v.mp4",
+        "runtime_seconds": 208.6,
+        "runtime_formatted": "3m 28s"
       },
       {
         "title": "Find Probabilities From Venn Diagrams (3 Sets) (Higher Tier only)",
@@ -3398,7 +4060,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/5ab1daff02fe89b47e750ec3cdbf8edc11e4c687.mp4",
         "quality": "720p",
         "video_number": 25,
-        "local_path": "mathmo_assets/wistia_za2z9b2g44.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_za2z9b2g44.mp4",
+        "runtime_seconds": 240.13,
+        "runtime_formatted": "4m 0s"
       },
       {
         "title": "Mean, Median, Mode & Range",
@@ -3408,7 +4072,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/953c6a0b0369a215f41597965ac445021a3bc825.mp4",
         "quality": "720p",
         "video_number": 26,
-        "local_path": "mathmo_assets/wistia_gopwsjvolr.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_gopwsjvolr.mp4",
+        "runtime_seconds": 540.47,
+        "runtime_formatted": "9m 0s"
       },
       {
         "title": "Means With Unknown Numbers",
@@ -3418,7 +4084,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/13ca387feb91f7762f7d9e319ef38c5fefb5ec22.mp4",
         "quality": "720p",
         "video_number": 27,
-        "local_path": "mathmo_assets/wistia_k0od40i6oc.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_k0od40i6oc.mp4",
+        "runtime_seconds": 586.84,
+        "runtime_formatted": "9m 46s"
       },
       {
         "title": "Mean Times Number",
@@ -3428,7 +4096,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/40e743ad738336d47636a579caefd648b688fe62.mp4",
         "quality": "720p",
         "video_number": 28,
-        "local_path": "mathmo_assets/wistia_dvbjfiqcvf.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_dvbjfiqcvf.mp4",
+        "runtime_seconds": 734.9,
+        "runtime_formatted": "12m 14s"
       },
       {
         "title": "Which Average?",
@@ -3438,7 +4108,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d3d3a6a7732bc9a8913ac0424bd2896add65a446.mp4",
         "quality": "720p",
         "video_number": 29,
-        "local_path": "mathmo_assets/wistia_ajtpg5qq0d.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_ajtpg5qq0d.mp4",
+        "runtime_seconds": 425.77,
+        "runtime_formatted": "7m 5s"
       },
       {
         "title": "Range, Quartiles & IQR (Higher Tier only)",
@@ -3448,7 +4120,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/721cd47f055240fda9637567d83fcad23b66623c.mp4",
         "quality": "720p",
         "video_number": 30,
-        "local_path": "mathmo_assets/wistia_8h011daozf.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_8h011daozf.mp4",
+        "runtime_seconds": 836.13,
+        "runtime_formatted": "13m 56s"
       },
       {
         "title": "Frequency Tables",
@@ -3458,7 +4132,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/1065936d638313ba321af9b59b3810b9a7811802.mp4",
         "quality": "720p",
         "video_number": 31,
-        "local_path": "mathmo_assets/wistia_3crrvycyug.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_3crrvycyug.mp4",
+        "runtime_seconds": 849.47,
+        "runtime_formatted": "14m 9s"
       },
       {
         "title": "Grouped Frequency Tables",
@@ -3468,7 +4144,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/44d384b794795304c3292b6c464d776df8e07203.mp4",
         "quality": "720p",
         "video_number": 32,
-        "local_path": "mathmo_assets/wistia_i78553it6b.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_i78553it6b.mp4",
+        "runtime_seconds": 998.8,
+        "runtime_formatted": "16m 38s"
       },
       {
         "title": "Comparing Data Sets (GCSE Foundation & Cambridge Core)",
@@ -3478,7 +4156,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/d85bd3c239e4666815b822b4bc01562d02e06936.mp4",
         "quality": "720p",
         "video_number": 33,
-        "local_path": "mathmo_assets/wistia_qdpa3bsmry.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_qdpa3bsmry.mp4",
+        "runtime_seconds": 268.43,
+        "runtime_formatted": "4m 28s"
       },
       {
         "title": "Comparing Data Sets (Higher Tier only)",
@@ -3488,7 +4168,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/1d52da7df9e11a2a54998c98611e46969ba95b60.mp4",
         "quality": "720p",
         "video_number": 34,
-        "local_path": "mathmo_assets/wistia_di5e2ta4h1.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_di5e2ta4h1.mp4",
+        "runtime_seconds": 484.65,
+        "runtime_formatted": "8m 4s"
       },
       {
         "title": "Box Plots (GCSE Higher only)",
@@ -3498,7 +4180,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/722bde05667e40c31398d8466001a6eb25e26e00.mp4",
         "quality": "540p",
         "video_number": 35,
-        "local_path": "mathmo_assets/wistia_2q6hjuctlr.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_2q6hjuctlr.mp4",
+        "runtime_seconds": 643.73,
+        "runtime_formatted": "10m 43s"
       },
       {
         "title": "Cumulative Frequency (Higher Tier only)",
@@ -3508,7 +4192,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/52fc2e9b2b5c4099980f68bf289a57bda97de151.mp4",
         "quality": "540p",
         "video_number": 36,
-        "local_path": "mathmo_assets/wistia_tfvxnqtxee.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_tfvxnqtxee.mp4",
+        "runtime_seconds": 1071.5,
+        "runtime_formatted": "17m 51s"
       },
       {
         "title": "Histograms (Higher Tier only)",
@@ -3518,7 +4204,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/f1a7d14f04abf895f5bb9204b3a21ec6ac867f84.mp4",
         "quality": "540p",
         "video_number": 37,
-        "local_path": "mathmo_assets/wistia_ckjhckkg06.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_ckjhckkg06.mp4",
+        "runtime_seconds": 1182.23,
+        "runtime_formatted": "19m 42s"
       },
       {
         "title": "Pictograms",
@@ -3528,7 +4216,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/646cf6d3334f92a7d6a9689b34212ee93412d0bb.mp4",
         "quality": "720p",
         "video_number": 38,
-        "local_path": "mathmo_assets/wistia_8yuml4tus7.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_8yuml4tus7.mp4",
+        "runtime_seconds": 265.75,
+        "runtime_formatted": "4m 25s"
       },
       {
         "title": "Bar Charts",
@@ -3538,7 +4228,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/246e4113999b80a0b8b60fd5e5c48ce1d7c2a471.mp4",
         "quality": "720p",
         "video_number": 39,
-        "local_path": "mathmo_assets/wistia_ne7fjpn06k.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_ne7fjpn06k.mp4",
+        "runtime_seconds": 641.37,
+        "runtime_formatted": "10m 41s"
       },
       {
         "title": "Pie Charts",
@@ -3548,7 +4240,9 @@
         "video_direct_url": "https://embed-ssl.wistia.com/deliveries/8f9e07ea668c47fb5bc13f73a126c66b3c2c7f84.mp4",
         "quality": "720p",
         "video_number": 40,
-        "local_path": "mathmo_assets/wistia_pbsct2fgfz.mp4"
+        "local_path": "/Users/petetreadaway/Projects/lms-bench/sites/lms.localhost/public/files/wistia_pbsct2fgfz.mp4",
+        "runtime_seconds": 689.57,
+        "runtime_formatted": "11m 29s"
       }
     ],
     "module_number": 7.0

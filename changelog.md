@@ -1,5 +1,39 @@
 # Changelog
 
+## 2026-01-20
+
+### Course Image Update
+- Generated custom course images for 12 modules using "Nano Banana Pro" style (Imagen 3)
+- Updated LMS Course records to use the new images via `scripts/update_course_images.py`
+- Images are served from `/public/files/` in the LMS site
+- Changed web server port from 8000 to **9001** (web) and socketio to 9000 to avoid conflicts
+- **Infrastructure Change**: Switched startup process to use `honcho start` directly (via `start_server.sh`) instead of `bench start` to resolve process manager detection issues.
+
+## 2026-01-19
+
+### Script: Video Runtime Analysis
+- Created `scripts/add_video_runtimes.py` to analyze video durations using ffprobe
+- Added `runtime_seconds` and `runtime_formatted` fields to each video in `combined_modules_withLocalURL.json`
+- **Total videos analyzed**: 347
+- **Total runtime**: 51h 4m 38s (183,878.36 seconds)
+
+---
+
+## 2026-01-19
+
+### Documentation: Build Process Guide
+- Created `.gemini/build_process.md` documenting the split between frappe-lms source and lms-bench runtime
+- Documented workflow for syncing changes: copy files → bench build → hard refresh
+- Included common issues and troubleshooting tips
+
+### Fix: Video Seeking (Skip Forward/Backward)
+- **Root Cause**: Frappe's static file middleware (Werkzeug `SharedDataMiddleware`) does not support HTTP byte-range requests
+- **Solution**: Created custom video streaming endpoint `lms/lms/video.py` with full RFC 7233 byte-range support
+- Updated `VideoBlock.vue` to route local `/files/` video URLs through the new streaming endpoint
+- Videos now properly support seeking via slider without restarting from the beginning
+
+---
+
 ## 2026-01-19
 
 ### Documentation: Frappe Framework Rules & Documentation
