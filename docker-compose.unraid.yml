@@ -1,0 +1,81 @@
+# Frappe LMS - Docker Compose for unRAID
+# Deploys: MariaDB, Redis, Frappe LMS Application
+# Data persisted to /mnt/m2cache/appdata/frappe-lms/
+
+services:
+  # ============================================
+  # DATABASE - MariaDB 10.8
+  # ============================================
+  lms-db:
+    image: mariadb:10.8
+    container_name: lms-db
+    restart: unless-stopped
+    command:
+      - --character-set-server=utf8mb4
+      - --collation-server=utf8mb4_unicode_ci
+      - --skip-innodb-read-only-compressed
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+    volumes:
+      - /mnt/m2cache/appdata/frappe-lms/db:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 30s
+
+  # ============================================
+  # CACHE - Redis Alpine with AOF Persistence
+  # ============================================
+  lms-redis:
+    image: redis:alpine
+    container_name: lms-redis
+    restart: unless-stopped
+    command: redis-server --appendonly yes --appendfsync everysec
+    volumes:
+      - /mnt/m2cache/appdata/frappe-lms/redis:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "PING"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+  # ============================================
+  # APPLICATION - Frappe LMS
+  # ============================================
+  lms-app:
+    container_name: lms-app
+    build:
+      context: .
+      dockerfile: Dockerfile.unraid
+    restart: unless-stopped
+    depends_on:
+      lms-db:
+        condition: service_healthy
+      lms-redis:
+        condition: service_healthy
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    volumes:
+      # Persistent data
+      - /mnt/m2cache/appdata/frappe-lms/sites:/home/frappe/frappe-bench/sites
+      - /mnt/m2cache/appdata/frappe-lms/logs:/home/frappe/frappe-bench/logs
+      # Video assets (read-only)
+      - /mnt/m2cache/mathmo-videos:/app/videos:ro
+    environment:
+      - DB_HOST=${DB_HOST}
+      - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
+      - REDIS_CACHE=${REDIS_CACHE}
+      - REDIS_QUEUE=${REDIS_QUEUE}
+      - REDIS_SOCKETIO=${REDIS_SOCKETIO}
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD}
+      - SITE_NAME=${SITE_NAME}
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9001/api/method/frappe.ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 10
+      start_period: 120s

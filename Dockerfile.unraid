@@ -1,0 +1,134 @@
+# Frappe LMS Docker Image for unRAID (2-stage: python-deps, runtime)
+ARG FRAPPE_BRANCH=version-15
+ARG NODE_VERSION=20.19.2
+
+# === Stage 1: Python Dependencies & Bench Setup ===
+FROM python:3.11-slim-bookworm AS python-deps
+
+ARG FRAPPE_BRANCH=version-15
+ARG NODE_VERSION=20.19.2
+
+ENV NVM_DIR=/home/frappe/.nvm
+ENV PATH=/home/frappe/.nvm/versions/node/v${NODE_VERSION}/bin:$PATH
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    git \
+    curl \
+    wget \
+    nginx \
+    mariadb-client \
+    redis-tools \
+    libmariadb-dev \
+    libpq-dev \
+    postgresql-client \
+    wkhtmltopdf \
+    fonts-cantarell \
+    libpango-1.0-0 \
+    libharfbuzz0b \
+    libffi-dev \
+    liblcms2-dev \
+    libldap2-dev \
+    libsasl2-dev \
+    libjpeg62-turbo-dev \
+    zlib1g-dev \
+    gcc \
+    g++ \
+    make \
+    gettext-base \
+    xvfb \
+    libfontconfig \
+    libxrender1 \
+    fontconfig \
+    && rm -rf /var/lib/apt/lists/*
+
+# Create frappe user
+RUN groupadd -g 1000 frappe \
+    && useradd -u 1000 -g frappe -m -s /bin/bash frappe \
+    && chown -R frappe:frappe /home/frappe
+
+# Install Node via nvm
+USER frappe
+WORKDIR /home/frappe
+
+RUN curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash \
+    && . $NVM_DIR/nvm.sh \
+    && nvm install ${NODE_VERSION} \
+    && nvm use ${NODE_VERSION} \
+    && nvm alias default ${NODE_VERSION} \
+    && npm install -g yarn
+
+# Install frappe-bench
+RUN pip3 install --user frappe-bench
+
+ENV PATH=/home/frappe/.local/bin:$PATH
+
+# Initialize bench with Frappe v15
+RUN bench init \
+    --frappe-branch=${FRAPPE_BRANCH} \
+    --no-procfile \
+    --no-backups \
+    --skip-redis-config-generation \
+    --verbose \
+    /home/frappe/frappe-bench
+
+WORKDIR /home/frappe/frappe-bench
+
+# Copy entire LMS app source (including frontend, lms/, scripts/, etc.)
+COPY --chown=frappe:frappe . ./apps/lms/
+
+# Install LMS app Python dependencies
+RUN . $NVM_DIR/nvm.sh \
+    && pip3 install --no-cache-dir -r apps/lms/requirements.txt
+
+# Add apps directory to Python path so all apps can be imported
+ENV PYTHONPATH="/home/frappe/frappe-bench/apps:${PYTHONPATH}"
+
+# Clear git directories to reduce image size
+RUN find apps -mindepth 1 -path "*/.git" -type d | xargs rm -rf 2>/dev/null || true
+
+# Create empty common_site_config.json
+RUN echo '{}' > sites/common_site_config.json
+
+# === Stage 2: Runtime Image ===
+FROM python:3.11-slim-bookworm AS runtime
+
+ARG NODE_VERSION=20.19.2
+
+ENV NVM_DIR=/home/frappe/.nvm
+ENV PATH=/home/frappe/.nvm/versions/node/v${NODE_VERSION}/bin:/home/frappe/.local/bin:$PATH
+
+# Install runtime dependencies only
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    git \
+    curl \
+    fonts-cantarell \
+    gettext-base \
+    libharfbuzz0b \
+    libpango-1.0-0 \
+    mariadb-client \
+    nginx \
+    redis-tools \
+    wkhtmltopdf \
+    && rm -rf /var/lib/apt/lists/* \
+    && groupadd -g 1000 frappe \
+    && useradd -u 1000 -g frappe -m -s /bin/bash frappe
+
+# Copy from python-deps stage
+COPY --from=python-deps --chown=frappe:frappe /home/frappe /home/frappe
+
+USER frappe
+WORKDIR /home/frappe/frappe-bench
+
+# Volumes for persistent data
+VOLUME ["/home/frappe/frappe-bench/sites", "/home/frappe/frappe-bench/logs"]
+
+# Expose ports: 9000 (socketio), 9001 (web)
+EXPOSE 9000 9001
+
+# Entrypoint script
+COPY --chown=frappe:frappe docker/entrypoint.sh /docker-entrypoint.sh
+RUN chmod +x /docker-entrypoint.sh
+
+ENTRYPOINT ["/docker-entrypoint.sh"]
+CMD ["web"]
