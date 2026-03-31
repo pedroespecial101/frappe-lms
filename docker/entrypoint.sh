@@ -117,10 +117,7 @@ else
     log "WARNING: /app/videos not mounted, skipping video symlinks"
 fi
 
-# Build frontend assets (required since removed from Dockerfile)
-log "Building frontend assets..."
-bench build --app lms
-
+# Frontend assets are now built during Docker image build to save time and memory.
 log "Starting services..."
 
 # Start SocketIO in background

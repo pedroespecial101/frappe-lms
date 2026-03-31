@@ -77,15 +77,20 @@ WORKDIR /home/frappe/frappe-bench
 # Copy entire LMS app source (including frontend, lms/, scripts/, etc.)
 COPY --chown=frappe:frappe . ./apps/lms/
 
-# Install LMS app Python dependencies
+# Install LMS app Python dependencies and frontend dependencies
 RUN . $NVM_DIR/nvm.sh \
-    && env/bin/pip install --no-cache-dir -e apps/lms/
+    && env/bin/pip install --no-cache-dir -e apps/lms/ \
+    && cd apps/lms/frontend && yarn install
 
 # Clear git directories to reduce image size
 RUN find apps -mindepth 1 -path "*/.git" -type d | xargs rm -rf 2>/dev/null || true
 
-# Create empty common_site_config.json
+# Create empty common_site_config.json for frontend build
 RUN echo '{}' > sites/common_site_config.json
+
+# Build frontend during image build to save time and memory on startup
+RUN . $NVM_DIR/nvm.sh \
+    && bench build --app lms
 
 # === Stage 2: Runtime Image ===
 FROM python:3.11-slim-bookworm AS runtime
