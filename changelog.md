@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-03-31
+
+### Docker Redeployment Fixes for unRAID
+- **Fixed** Redis connection string format in `.env` and `.env.unraid.example` (standardized to `host:port/db` format)
+- **Fixed** `docker/entrypoint.sh`:
+  - Added `--mariadb-user-host-login-scope='%'` to `bench new-site` (critical for Docker networking)
+  - Fixed Redis URL parsing to handle `host:port/db` format correctly
+  - Added `lms` to `sites/apps.txt` (previously only wrote `frappe`)
+  - Added `bench use $SITE_NAME` after site creation
+  - Added automatic video symlink creation: `/app/videos/*.mp4` → `sites/lms.localhost/public/files/`
+- **Updated** `docker-compose.unraid.yml`: video mount path changed to `/mnt/user/mathmo-assets`
+- **Updated** `README-UNRAID.md`: corrected all video path references, added symlink verification step
+
 ## 2026-01-20
 
 ### Course Image Update

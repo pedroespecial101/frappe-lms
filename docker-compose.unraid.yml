@@ -64,7 +64,7 @@ services:
       - /mnt/m2cache/appdata/frappe-lms/sites:/home/frappe/frappe-bench/sites
       - /mnt/m2cache/appdata/frappe-lms/logs:/home/frappe/frappe-bench/logs
       # Video assets (read-only)
-      - /mnt/m2cache/mathmo-videos:/app/videos:ro
+      - /mnt/user/mathmo-assets:/app/videos:ro
     environment:
       - DB_HOST=${DB_HOST}
       - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}

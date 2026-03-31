@@ -25,7 +25,7 @@ cleanup() {
 trap cleanup SIGTERM SIGINT
 
 # Wait for MariaDB
-log "Waiting for MariaDB..."
+log "Waiting for MariaDB at $DB_HOST..."
 timeout=60
 while ! mysqladmin ping -h"$DB_HOST" -uroot -p"$MYSQL_ROOT_PASSWORD" --silent 2>/dev/null; do
     timeout=$((timeout - 1))
@@ -39,8 +39,9 @@ log "MariaDB ready"
 
 # Wait for Redis
 log "Waiting for Redis..."
+# Parse Redis host and port from REDIS_CACHE (format: host:port/db)
 REDIS_HOST=$(echo $REDIS_CACHE | cut -d: -f1)
-REDIS_PORT=$(echo $REDIS_CACHE | cut -d: -f2)
+REDIS_PORT=$(echo $REDIS_CACHE | cut -d: -f2 | cut -d/ -f1)
 timeout=30
 while ! redis-cli -h "$REDIS_HOST" -p "$REDIS_PORT" PING >/dev/null 2>&1; do
     timeout=$((timeout - 1))
@@ -64,11 +65,9 @@ cat > sites/common_site_config.json <<EOF
 }
 EOF
 
-# Create sites/apps.txt if it doesn't exist (required for bench commands)
-if [ ! -f sites/apps.txt ]; then
-    log "Creating sites/apps.txt..."
-    echo "frappe" > sites/apps.txt
-fi
+# Create sites/apps.txt with both frappe and lms
+log "Creating sites/apps.txt..."
+echo -e "frappe\nlms" > sites/apps.txt
 
 # Check if site exists
 if [ -d "sites/$SITE_NAME" ]; then
@@ -80,7 +79,8 @@ else
         --mariadb-root-password "$MYSQL_ROOT_PASSWORD" \
         --admin-password "$ADMIN_PASSWORD" \
         --no-mariadb-socket \
-        --db-host "$DB_HOST"
+        --db-host "$DB_HOST" \
+        --mariadb-user-host-login-scope='%'
     
     log "Installing LMS app..."
     bench --site "$SITE_NAME" install-app lms
@@ -88,8 +88,33 @@ else
     log "Setting developer mode..."
     bench --site "$SITE_NAME" set-config developer_mode 1
     
+    log "Setting default site..."
+    bench use "$SITE_NAME"
+    
     log "Clearing cache..."
     bench --site "$SITE_NAME" clear-cache
+fi
+
+# Create video symlinks from /app/videos to public/files
+# This makes videos accessible via /files/filename.mp4 through the custom video.py endpoint
+if [ -d "/app/videos" ]; then
+    log "Creating video symlinks from /app/videos to public/files..."
+    SITE_FILES="sites/$SITE_NAME/public/files"
+    mkdir -p "$SITE_FILES"
+    
+    VIDEO_COUNT=0
+    for video in /app/videos/*.mp4; do
+        if [ -f "$video" ]; then
+            basename=$(basename "$video")
+            if [ ! -e "$SITE_FILES/$basename" ]; then
+                ln -s "$video" "$SITE_FILES/$basename"
+            fi
+            VIDEO_COUNT=$((VIDEO_COUNT + 1))
+        fi
+    done
+    log "Linked $VIDEO_COUNT video files"
+else
+    log "WARNING: /app/videos not mounted, skipping video symlinks"
 fi
 
 # Build frontend assets (required since removed from Dockerfile)

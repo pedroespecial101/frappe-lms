@@ -6,7 +6,7 @@ This guide provides comprehensive instructions for deploying Frappe LMS on an un
 -   **Docker Compose Plugin**: Ensure the Docker Compose plugin is installed on your unRAID server. This is typically available via the Community Applications plugin.
 -   **Storage Paths**:
     -   Persistent application data will be stored in: `/mnt/m2cache/appdata/frappe-lms/`
-    -   Read-only video assets are expected at: `/mnt/m2cache/mathmo-videos/` (ensure this path exists and contains your video files)
+    -   Read-only video assets are expected at: `/mnt/user/mathmo-assets/` (ensure this path exists and contains your video files)
 
 ## Quick Start
 Follow these 4-5 commands to get your Frappe LMS system running on unRAID:
@@ -61,7 +61,7 @@ Persistent data for Frappe LMS is stored on your unRAID array to ensure data sur
 | `/mnt/m2cache/appdata/frappe-lms/redis` | `/data`                        | Stores Redis AOF persistence data.          |
 | `/mnt/m2cache/appdata/frappe-lms/sites` | `/home/frappe/frappe-bench/sites` | Stores Frappe site configurations, files, and uploads. |
 | `/mnt/m2cache/appdata/frappe-lms/logs`  | `/home/frappe/frappe-bench/logs`  | Stores Frappe application logs.             |
-| `/mnt/m2cache/mathmo-videos`            | `/app/videos` (read-only)      | Mount point for external video assets.      |
+| `/mnt/user/mathmo-assets`               | `/app/videos` (read-only)      | Mount point for external video assets.      |
 
 ## Deployment Checklist
 
@@ -69,7 +69,7 @@ Persistent data for Frappe LMS is stored on your unRAID array to ensure data sur
 Before starting the deployment, ensure you have completed these steps:
 
 - [ ] Docker Compose Plugin installed on unRAID
-- [ ] Directory `/mnt/m2cache/mathmo-videos/` exists and contains video files
+- [ ] Directory `/mnt/user/mathmo-assets/` exists and contains video files
 - [ ] Sufficient storage space in `/mnt/m2cache/appdata/` (minimum 10GB recommended)
 - [ ] `.env` file created from `.env.unraid.example`
 - [ ] `MYSQL_ROOT_PASSWORD` changed in `.env` (security)
@@ -87,6 +87,7 @@ After running `docker compose up -d`, verify the deployment:
 - [ ] Login works: Use credentials `Administrator` / `<your-admin-password>`
 - [ ] LMS homepage loads: Navigate to `http://<unraid-ip>:9001/lms`
 - [ ] Video mount visible: `docker exec lms-app ls /app/videos` shows video files
+- [ ] Video symlinks created: `docker exec lms-app ls -la sites/lms.localhost/public/files/` shows symlinks to `/app/videos/`
 
 ## Accessing the System
 -   **Web Interface**: Access Frappe LMS via your unRAID server's IP address or hostname on port `9001`.
@@ -176,7 +177,7 @@ To import courses (e.g., using `import_gcse_course.py`), you can execute command
     If not healthy, check `lms-redis` logs.
 
 ### Video Mount Not Visible
--   **Permissions/Path Issues**: Ensure `/mnt/m2cache/mathmo-videos` exists on your unRAID host and the `lms-app` container has read permissions. Double-check the path in `docker-compose.unraid.yml`.
+-   **Permissions/Path Issues**: Ensure `/mnt/user/mathmo-assets` exists on your unRAID host and the `lms-app` container has read permissions. Double-check the path in `docker-compose.unraid.yml`.
 
 ### Health Check Failing
 -   **Frappe App Health**: The `lms-app` health check (`frappe.ping`) relies on the Frappe application being fully started and responsive. If `lms-db` and `lms-redis` are healthy, give `lms-app` more time (first boot can be ~5 minutes). Check `lms-app` logs for Frappe-specific errors.
