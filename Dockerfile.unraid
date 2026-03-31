@@ -79,10 +79,7 @@ COPY --chown=frappe:frappe . ./apps/lms/
 
 # Install LMS app Python dependencies
 RUN . $NVM_DIR/nvm.sh \
-    && pip3 install --no-cache-dir -r apps/lms/requirements.txt
-
-# Add apps directory to Python path so all apps can be imported
-ENV PYTHONPATH="/home/frappe/frappe-bench/apps:${PYTHONPATH}"
+    && env/bin/pip install --no-cache-dir -e apps/lms/
 
 # Clear git directories to reduce image size
 RUN find apps -mindepth 1 -path "*/.git" -type d | xargs rm -rf 2>/dev/null || true

@@ -71,7 +71,6 @@ services:
       - REDIS_CACHE=${REDIS_CACHE}
       - REDIS_QUEUE=${REDIS_QUEUE}
       - REDIS_SOCKETIO=${REDIS_SOCKETIO}
-      - PYTHONPATH=/home/frappe/frappe-bench/apps
       - ADMIN_PASSWORD=${ADMIN_PASSWORD}
       - SITE_NAME=${SITE_NAME}
     healthcheck:
