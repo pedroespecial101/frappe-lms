@@ -1,5 +1,20 @@
 # Changelog
 
+## [2026-04-02]
+- Resolved missing CSS on the login and landing pages by rebuilding and synchronizing frontend assets.
+- Implemented automatic site resolution with symlinks for `localhost`, `127.0.0.1`, and `optiplex3070-1` to prevent "Not Found" 404 errors.
+- Updated `docker/entrypoint.sh` to handle asset building and hostname resolution permanently.
+- Provided default administrator login credentials (`Administrator` / `admin`).
+- Fixed unhealthy container status by ensuring `current_site.txt` is always set on startup.
+- Configured `host_name` in `site_config.json` to allow access via `optiplex3070-1:9001`.
+- Updated `entrypoint.sh` to be more robust for site initialization on restarts.
+- Resolved 404 errors for internal health check and external access.
+
+## [2026-04-02]
+- Fixed `vite: not found` error in `Dockerfile.unraid` by adding `node_modules/.bin` to PATH during build.
+- Updated `implementation_plan.md` and `task.md` for unRAID deployment completion.
+- Verified unRAID server connectivity and existing container status.
+
 ## 2026-03-31
 
 ### Docker Redeployment Fixes for unRAID
