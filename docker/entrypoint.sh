@@ -67,6 +67,8 @@ cat > sites/common_site_config.json <<EOF
  "redis_cache": "redis://$REDIS_CACHE",
  "redis_queue": "redis://$REDIS_QUEUE",
  "redis_socketio": "redis://$REDIS_SOCKETIO",
+ "socketio_port": 9000,
+ "webserver_port": 9001,
  "is_single_site": 1
 }
 EOF
