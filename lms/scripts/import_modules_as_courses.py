@@ -20,7 +20,7 @@ def run_import():
     """Main import function."""
     
     # Path to JSON data
-    json_path = frappe.get_app_path("lms", "..", "templates", "combined_modules_withLocalURL.json")
+    json_path = os.path.join(frappe.get_app_path("lms", "..", "templates"), "combined_modules_withLocalURL.json")
     
     print(f"Loading data from: {json_path}")
     
