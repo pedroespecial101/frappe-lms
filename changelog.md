@@ -1,5 +1,11 @@
 # Changelog
 
+## [2026-04-05]
+- **Re-implemented "Modules as Courses" structure:**
+  - Copied 12 module cover images into `lms/public/images/courses/` (using cleaner base names) so they are version-controlled in the repository.
+  - Restored and updated `lms/scripts/update_course_images.py` to point to the new `/assets/lms/images/courses/` location.
+  - Re-targeted the deployment procedure to execute the import scripts directly on the unRAID Docker container (`lms-app`) rather than relying on a local bench environment.
+
 ## [2026-04-02]
 - Resolved missing CSS on the login and landing pages by rebuilding and synchronizing frontend assets.
 - Implemented automatic site resolution with symlinks for `localhost`, `127.0.0.1`, and `optiplex3070-1` to prevent "Not Found" 404 errors.
