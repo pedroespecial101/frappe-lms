@@ -134,11 +134,22 @@ fi
 
 # Frontend build at runtime if assets are missing or incomplete
 # This avoids OOM during Docker build on resource-constrained servers
-if [ ! -d "apps/lms/lms/public/dist" ] || [ -z "$(find apps/lms/lms/public/dist -name "*.css" 2>/dev/null)" ]; then
-    log "Frontend assets missing or incomplete, building apps (this may take several minutes)..."
+if [ ! -d "apps/lms/lms/public/frontend" ]; then
+    log "Frontend Vue assets missing, building LMS frontend (this may take several minutes)..."
     export NODE_OPTIONS="--max-old-space-size=4096"
-    export PATH=$PATH:$(pwd)/apps/lms/frontend/node_modules/.bin
+    
+    # Build Frappe backend assets
+    log "Building Frappe backend JS/CSS..."
     bench build --app lms --app frappe
+    
+    # Build Vue frontend app
+    log "Building Vue LMS UI..."
+    cd apps/lms/frontend
+    yarn install
+    yarn build
+    cd ../../../
+    
+    log "Assets built successfully, clearing cache..."
     bench --site "$SITE_NAME" clear-cache
 fi
 
